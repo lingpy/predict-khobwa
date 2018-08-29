@@ -1,0 +1,1993 @@
+NUMBER	GOOD_PREDICTION	COGNATESET	LANGUAGE	CONCEPT	MORPHEME
+1		2	Jerigaon	2pl.excl	_excl1	l øː	l øː|-	l øː|-|i
+2		2	Khoina	2pl.excl	_excl1	h øː	h øː|aː	h øː|aː|ə
+3		2	Khoitam	2pl.excl	_excl1	l ĩː	l ĩː|yː	l ĩː|yː|ĩ
+4		2	Rupa	2pl.excl	_excl1	l øː	l øː|ɔː	l øː|ɔː|ə
+5		2	Shergaon	2pl.excl	_excl1	l ɛ̃ː	l ɛ̃ː|aː	l ɛ̃ː|aː|a
+6		3	Jerigaon	2pl.incl	_excl1	l	l	l
+7		3	Khoina	2pl.incl	_excl1	h	h	h
+8		3	Khoitam	2pl.incl	_excl1	l	l	l
+9		3	Rahung	2pl.incl	_excl1	r	r	r
+10		3	Rupa	2pl.incl	_excl1	l	l	l
+11		3	Shergaon	2pl.incl	_excl1	l	l	l
+12		7	Rahung	3sg	3SG	w ə	w|pʰ ə	w|pʰ ə
+13	?	11	Duhumbi	Bugun	_sa-prefix7	ɕ Ø	ɕ|s Ø	ɕ|s Ø
+14	?	11	Jerigaon	Bugun	_sa-prefix7	s Ø	s|z Ø	s|z Ø
+15	?	11	Khispi	Bugun	_sa-prefix7	ɕ Ø	ɕ|s Ø	ɕ|s Ø
+16	?	11	Khoitam	Bugun	_sa-prefix7	s Ø	s|z Ø	s|z Ø
+17		12	Duhumbi	Bugun	Bugun	l ɔ ŋ	l|ɬ ɔ|a ŋ|m	l|ɬ ɔ|a|u ŋ|m|-
+18		12	Jerigaon	Bugun	Bugun	l u ŋ	l u|- ŋ	l u|-|uː ŋ
+19		12	Khispi	Bugun	Bugun	l ɔ ŋ	l ɔ|a ŋ|m	l ɔ|a|u ŋ|m|l
+20		12	Khoitam	Bugun	Bugun	l u ŋ	l|r u|uˀ ŋ|-	l|r u|uˀ ŋ|-
+21		13	Jerigaon	Indo-Aryan person	INDIAN	tɕʰ uː	tɕʰ uː|u	tɕʰ uː|u
+22		14	Duhumbi	Indo-Aryan person	_cha-prefix	tɕʰ u	tɕʰ|kʰ u|a	tɕʰ|kʰ|ɕ u|a|i
+23		14	Jerigaon	Indo-Aryan person	_cha-prefix	tɕʰ ə	tɕʰ|tɕ ə|u	tɕʰ|tɕ ə|u|ɔ̃
+24		14	Khispi	Indo-Aryan person	_cha-prefix	tɕʰ u	tɕʰ|kʰ u|a	tɕʰ|kʰ|ɕ u|a|i
+25		14	Khoina	Indo-Aryan person	_cha-prefix	tsʰ ə	tsʰ|tɕʰ ə|a	tsʰ|tɕʰ|ʈʂʰ ə|a|ɔ
+26		14	Rupa	Indo-Aryan person	_cha-prefix	tɕʰ ə	tɕʰ|kʰ ə|yː	tɕʰ|kʰ|tsʰ ə|yː|a
+27		14	Shergaon	Indo-Aryan person	_cha-prefix	tɕʰ ə	tɕʰ|kʰ ə|i	tɕʰ|kʰ ə|i|u
+28	?	16	Duhumbi	Indo-Aryan person	_da-prefix3	Ø u	Ø u|i	Ø u|i|a
+29		16	Jerigaon	Indo-Aryan person	_da-prefix3	d ə	d ə|-	d ə|-|u
+30	?	16	Khispi	Indo-Aryan person	_da-prefix3	Ø u	Ø u|i	Ø u|i|a
+31	?	16	Khoitam	Indo-Aryan person	_da-prefix3	Ø ə	Ø ə|-	Ø ə|-|i
+32		16	Rahung	Indo-Aryan person	_da-prefix3	l ə	l ə|a	l ə|a|-
+33		17	Duhumbi	Jerigaon people	JERIGAON	ɕ i	ɕ i	ɕ i
+34		17	Khispi	Jerigaon people	JERIGAON	ɕ i	ɕ|d i	ɕ|d|tɕʰ i
+35		17	Khoitam	Jerigaon people	JERIGAON	tɕʰ i	tɕʰ i	tɕʰ i
+36		17	Rahung	Jerigaon people	JERIGAON	tɕʰ i	tɕʰ i	tɕʰ i
+37		17	Shergaon	Jerigaon people	JERIGAON	tɕʰ i	tɕʰ i	tɕʰ i
+38	?	18	Khoitam	Thembang people	_pa-suffix2	Ø ɔ	Ø ɔ	Ø ɔ
+39		19	Duhumbi	Jerigaon people	_da-prefix3	d ɔw	d|tʰ ɔw|ɛ	d|tʰ|t ɔw|ɛ
+40		19	Jerigaon	Jerigaon people	_da-prefix3	d ɛ	d|tʰ ɛ|ə	d|tʰ|s ɛ|ə
+41		19	Khispi	Jerigaon people	_da-prefix3	d ɔw	d|tʰ ɔw|ɛ	d|tʰ|t ɔw|ɛ
+42		19	Khoitam	Jerigaon people	_da-prefix3	d i	d|tʰ i|u	d|tʰ|tɕ i|u|ə
+43		19	Rahung	Jerigaon people	_da-prefix3	d i	d|tʰ i|u	d|tʰ|kʰ i|u|-
+44		19	Shergaon	Jerigaon people	_da-prefix3	d i	d|tʰ i|y	d|tʰ i|y|ə
+45	?	21	Duhumbi	Khoitam people	_soil-prefix2	Ø Ø s	Ø Ø s	Ø Ø s
+46	?	21	Khoitam	Khoitam people	_soil-prefix2	Ø Ø -	Ø Ø -	Ø Ø -
+47	?	21	Rahung	Khoitam people	_soil-prefix2	r Ø -	r Ø -	r Ø -
+48		22	Duhumbi	mushroom	?	m u	m u|y	m u|y
+49		22	Jerigaon	mushroom	?	m yː	m yː	m yː
+50		23	Duhumbi	Khoitam people	KHOITAM	t a m	t|d a|ɔː m	t|d a|ɔː m
+51		23	Khoitam	Khoitam people	KHOITAM	t a m	t a m	t a m
+52		23	Rahung	Khoitam people	KHOITAM	t a m	t a|ə m|-	t a|ə m|-
+53	?	24	Duhumbi	Miji people	MIJI	n a Ø	n|h a|ɔ Ø	n|h|ɲ a|ɔ Ø
+54	?	24	Khispi	Miji people	MIJI	n a Ø	n|h a|ɔ Ø	n|h|ɲ a|ɔ Ø
+55	?	24	Khoitam	Miji people	MIJI	n ũː Ø	n ũː Ø	n ũː Ø
+56		25	Duhumbi	Miji people	_soil-prefix2	kʰ ɔ	kʰ|kʰɹ ɔ|a	kʰ|kʰɹ|k ɔ|a|u
+57		25	Khispi	Miji people	_soil-prefix2	kʰ ɔ	kʰ ɔ|a	kʰ ɔ|a|u
+58		25	Khoitam	Miji people	_soil-prefix2	kʰ u	kʰ u|uˀ	kʰ u|uˀ
+59	?	27	Duhumbi	boil (n)	_soil-prefix5	kʰ Ø ŋ	kʰ|k Ø ŋ|-	kʰ|k Ø ŋ|-
+60		27	Jerigaon	boil (n)	_soil-prefix5	kʰ a -	kʰ|k a -	kʰ|k a -
+61	?	27	Khispi	boil (n)	_soil-prefix5	kʰ Ø ŋ	kʰ Ø ŋ	kʰ Ø ŋ
+62	?	27	Shergaon	boil (n)	_soil-prefix5	kʰ Ø ŋ	kʰ Ø ŋ	kʰ Ø ŋ
+63		28	Jerigaon	Monpa	_pa-suffix1	p a	p a|aˀ	p a|aˀ|ə
+64		28	Khoina	Monpa	_pa-suffix1	p a	p a|ə	p a|ə|aˀ
+65		28	Khoitam	Monpa	_pa-suffix1	p a	p a|ə	p a|ə|u
+66		28	Rupa	Monpa	_pa-suffix1	p a	p|b a|u	p|b a|u|ə
+67		29	Duhumbi	Monpa	_human-prefix	dʑ i	dʑ|b i|ɛ	dʑ|b|p i|ɛ|ɔ
+68		29	Jerigaon	Monpa	_human-prefix	dʑ øː	dʑ øː	dʑ øː
+69		29	Khispi	Monpa	_human-prefix	dʑ i	dʑ|b i|ɛ	dʑ|b|ʑ i|ɛ
+70		29	Khoitam	Monpa	_human-prefix	dʑ iː	dʑ iː|ə	dʑ iː|ə|øː
+71		29	Rahung	Monpa	_human-prefix	dʑ iː	dʑ iː|-	dʑ iː|-|øː
+72	?	30	Jerigaon	Monpa	MONPA	m Ø -	m Ø -	m Ø -
+73	?	30	Khoitam	Monpa	MONPA	m Ø ŋ	m Ø ŋ|n	m Ø ŋ|n|-
+74	?	31	Khoitam	Namshu people	NAMSHU	Ø -	Ø -	Ø -
+75	?	31	Rupa	Namshu people	NAMSHU	Ø yː	Ø yː	Ø yː
+76	?	31	Shergaon	Namshu people	NAMSHU	Ø Ø	Ø Ø	Ø Ø
+77	?	32	Khoitam	Namshu people	_pa-suffix2	j Ø	j Ø	j Ø
+78	?	32	Rupa	Namshu people	_pa-suffix2	dʑ Ø	dʑ Ø	dʑ Ø
+79	?	33	Shergaon	Namshu people	_sky-prefix1	Ø Ø -	Ø Ø -	Ø Ø -
+80		35	Jerigaon	Puroik	PUROIK	t a ŋ	t a|ɛˀ ŋ	t a|ɛˀ|ə ŋ
+81		35	Khoitam	Puroik	PUROIK	t a ŋ	t a|ə ŋ|-	t a|ə|ɛˀ ŋ|-
+82		35	Rahung	Puroik	PUROIK	t a ŋ	t a|ə ŋ|-	t a|ə|- ŋ|-
+83		35	Shergaon	Puroik	PUROIK	t a ŋ	t a|ɔ ŋ|-	t a|ɔ ŋ|-
+84	?	38	Jerigaon	Puroik	_sa-prefix8	Ø	Ø	Ø
+85	?	38	Khoitam	Puroik	_sa-prefix8	Ø	Ø	Ø
+86	?	38	Rahung	Puroik	_sa-prefix8	Ø	Ø	Ø
+87	?	38	Shergaon	Puroik	_sa-prefix8	Ø	Ø	Ø
+88		39	Jerigaon	saliva	?	kʰ a	kʰ|tɕʰ a|uː	kʰ|tɕʰ|k a|uː|ɐ
+89		39	Khoina	saliva	?	kʰ a	kʰ|ʈʂʰ a|uː	kʰ|ʈʂʰ|g a|uː|ɐ
+90		39	Khoitam	saliva	?	kʰ a	kʰ|tɕʰ a|uː	kʰ|tɕʰ|k a|uː|ə
+91		39	Rahung	saliva	?	kʰ a	kʰ|tɕʰ a|uː	kʰ|tɕʰ|k a|uː|-
+92		39	Rupa	saliva	?	kʰ a	kʰ|g a|uː	kʰ|g|k a|uː|ə
+93		39	Shergaon	saliva	?	kʰ a	kʰ|k a|uː	kʰ|k|g a|uː|ɔ̃ː
+94	?	40	Duhumbi	Rahung, people of	RAHUNG2	pʰ Ø ŋ	pʰ Ø ŋ	pʰ Ø ŋ
+95	?	40	Khoitam	Rahung, people of	RAHUNG2	pʰ Ø ŋ	pʰ Ø ŋ|-	pʰ Ø ŋ|-
+96	?	40	Rahung	Rahung, people of	RAHUNG2	pʰ Ø ŋ	pʰ Ø ŋ	pʰ Ø ŋ
+97		41	Duhumbi	Rahung, people of	RAHUNG1	r u	r|l u	r|l|lj u
+98		41	Khoitam	Rahung, people of	RAHUNG1	r ə	r ə	r ə
+99		41	Rahung	Rahung, people of	RAHUNG1	r ə	r ə|u	r ə|u
+100	?	43	Duhumbi	Sherdukpen	SHERDUKPEN2	m Ø	m Ø	m Ø
+101	?	43	Jerigaon	Sherdukpen	SHERDUKPEN2	m Ø	m Ø	m Ø
+102	?	43	Khispi	Sherdukpen	SHERDUKPEN2	m Ø	m|p Ø	m|p Ø
+103	?	43	Khoitam	Sherdukpen	SHERDUKPEN2	m Ø	m Ø	m Ø
+104	?	44	Duhumbi	Sherdukpen	SHERDUKPEN1	tʰ Ø -	tʰ|t Ø -	tʰ|t|m Ø -
+105	?	44	Khispi	Sherdukpen	SHERDUKPEN1	tʰ Ø -	tʰ|tʰj Ø -	tʰ|tʰj|t Ø -
+106		44	Khoitam	Sherdukpen	SHERDUKPEN1	tʰ ə ŋ	tʰ ə ŋ|-	tʰ ə ŋ|-
+107		44	Rupa	Sherdukpen	SHERDUKPEN1	tʰ ə -	tʰ|t ə -	tʰ|t ə -
+108		44	Shergaon	Sherdukpen	SHERDUKPEN1	tʰ y ŋ	tʰ|t y ŋ|-	tʰ|t y ŋ|-
+109		45	Jerigaon	shake	?	kʰ uː	kʰ|k uː|u	kʰ|k uː|u
+110		45	Khoina	shake	?	kʰ uː	kʰ|g uː|-	kʰ|g uː|-|yː
+111		45	Shergaon	shake	?	kʰ uː	kʰ uː	kʰ uː
+112		46	Jerigaon	eye	_female-suffix	m ə	m|w ə	m|w|tʰ ə
+113		46	Khoina	eye	_female-suffix	m a	m|w a	m|w|tʰ a
+114		46	Khoitam	eye	_female-suffix	m ə	m|tʰ ə	m|tʰ ə
+115		46	Rahung	eye	_female-suffix	m -	m|pʰ -	m|pʰ|- -
+116		46	Rupa	eye	_female-suffix	m ə	m|tʰ ə	m|tʰ|ɲ ə
+117		46	Shergaon	eye	_female-suffix	m ə	m|tʰ ə	m|tʰ|ɲ ə
+118	?	47	Duhumbi	Shergaon, people of	SHERGAON	ɕ Ø ɹ	ɕ|s Ø ɹ	ɕ|s Ø ɹ
+119	?	47	Khoitam	Shergaon, people of	SHERGAON	s Ø n	s|z Ø n	s|z Ø n
+120	?	47	Shergaon	Shergaon, people of	SHERGAON	s Ø n	s|ɕ Ø n	s|ɕ Ø n
+121		48	Duhumbi	Shergaon, people of	_ji-suffix1	p a	p a	p a
+122		48	Shergaon	Shergaon, people of	_ji-suffix1	p i	p i	p i
+123	?	49	Duhumbi	fall	FALL2	h Ø ŋ	h|hw Ø ŋ	h|hw|w Ø ŋ
+124	?	49	Khispi	fall	FALL2	h Ø ŋ	h|hw Ø ŋ	h|hw|ɕ Ø ŋ
+125	?	49	Khoina	fall	FALL2	x Ø -	x|h Ø -	x|h|f Ø -
+126	?	50	Khoitam	Thembang people	THEMBANG1	tʰ Ø Ø	tʰ Ø Ø	tʰ Ø Ø
+127	?	50	Rupa	Thembang people	THEMBANG1	t Ø Ø	t Ø Ø	t Ø Ø
+128	?	50	Shergaon	Thembang people	THEMBANG1	t Ø Ø	t Ø Ø	t Ø Ø
+129		51	Khoitam	Thembang people	THEMBANG2	b a ŋ	b a|ə ŋ|-	b a|ə|u ŋ|-
+130		51	Rupa	Thembang people	THEMBANG2	pʰ a ŋ	pʰ a|ə ŋ|k	pʰ a|ə|aˀ ŋ|k
+131		51	Shergaon	Thembang people	THEMBANG2	pʰ a ŋ	pʰ a|aː ŋ|k	pʰ a|aː ŋ|k
+132		57	Jerigaon	finger	_ma-suffix	m u -	m|n u|ə -|ŋ	m|n|w u|ə|a -|ŋ|n
+133		57	Khispi	finger	_ma-suffix	m a -	m|h a -|l	m|h|p a -|l
+134		57	Khoina	finger	_ma-suffix	m u -	m|n u|ə -|ŋ	m|n|w u|ə|a -|ŋ
+135		57	Khoitam	finger	_ma-suffix	m u ŋ	m|n u|uˀ ŋ|-	m|n u|uˀ|ə ŋ|-
+136		57	Rupa	finger	_ma-suffix	m u -	m|n u|ə -|ŋ	m|n|ɲ u|ə|- -|ŋ|k
+137		57	Shergaon	finger	_ma-suffix	m u -	m|n u|- -|ŋ	m|n|b u|-|ɔ -|ŋ|k
+138		58	Rahung	above, top	ON	tɕʰ ũː -	tɕʰ ũː|ɔ -|ŋ	tɕʰ ũː|ɔ|a -|ŋ|m
+139		58	Rupa	above, top	ON	tɕʰ ũː -	tɕʰ|tsʰ ũː|ɔ -|ŋ	tɕʰ|tsʰ|ʨʰ ũː|ɔ -|ŋ|w
+140		58	Shergaon	above, top	ON	tɕʰ ɔ̃ː -	tɕʰ ɔ̃ː|ɔ -|ŋ	tɕʰ ɔ̃ː|ɔ -|ŋ
+141		59	Jerigaon	achieve, obtain	ACHIEVE	m ɐ̃ː -	m ɐ̃ː|ə -	m ɐ̃ː|ə -
+142		59	Shergaon	achieve, obtain	ACHIEVE	m ɔ̃ː -	m ɔ̃ː -	m ɔ̃ː -
+143	?	62	Jerigaon	after	_la-prefix1	Ø a	Ø a|ə	Ø a|ə
+144	?	62	Khoitam	after	_la-prefix1	Ø ə	Ø ə	Ø ə
+145	?	62	Shergaon	after	_la-prefix1	Ø Ø	Ø Ø	Ø Ø
+146		64	Duhumbi	afternoon	_sky-prefix6	n u	n|ɲ u	n|ɲ|ŋ u
+147		64	Khispi	afternoon	_sky-prefix6	n u	n|ɲ u	n|ɲ|ŋ u
+148		64	Rupa	afternoon	_sky-prefix6	n i	n|ɲ i	n|ɲ i
+149	?	64	Shergaon	afternoon	_sky-prefix6	n Ø	n|ɲ Ø	n|ɲ Ø
+150		65	Duhumbi	split	?	dʑ ɔˀ	dʑ|j ɔˀ	dʑ|j|- ɔˀ
+151		65	Khispi	split	?	g ɔ	g|j ɔ	g|j|- ɔ
+152		65	Rahung	split	?	j ɔ	j|h ɔ	j|h ɔ
+153		65	Rupa	split	?	j ɔ̃	j|w ɔ̃	j|w ɔ̃
+154		66	Duhumbi	afternoon	_allative	t u m	t|d u|e m|n	t|d|tʰ u|e m|n|ŋ
+155		66	Khispi	afternoon	_allative	t u n	t|tʰ u|e n|m	t|tʰ u|e n|m|l
+156		66	Khoitam	afternoon	_allative	t ɔ n	t|tʰ ɔ n|m	t|tʰ ɔ n|m|ŋ
+157		66	Rahung	afternoon	_allative	t - n	t|tʰ -|ø n|m	t|tʰ -|ø|eˀ n|m|ŋ
+158		66	Rupa	afternoon	_allative	t ɔ n	t|tʰ ɔ|øˀ n|m	t|tʰ ɔ|øˀ|eˀ n|m|ŋ
+159		66	Shergaon	afternoon	_allative	t ɔ n	t ɔ|eˀ n|m	t ɔ|eˀ n|m|-
+160		67	Jerigaon	agent	_ergative	ɔ	ɔ	ɔ
+161		67	Khoina	agent	_ergative	ɔ	ɔ	ɔ
+162		67	Shergaon	agent	_ergative	o	o	o
+163	?	69	Jerigaon	alive, healthy	ALIVE	Ø a ŋ	Ø a|ɐ ŋ|-	Ø a|ɐ|ɛˀ ŋ|-
+164	?	69	Khoina	alive, healthy	ALIVE	Ø a ŋ	Ø a|ɐ ŋ|-	Ø a|ɐ|ə ŋ|-|n
+165		71	Duhumbi	all	ALL	tʰ ɔ m	tʰ|t ɔ|ɔˀ m|ŋ	tʰ|t|m ɔ|ɔˀ|u m|ŋ
+166		71	Jerigaon	all	ALL	tʰ ɔ n	tʰ ɔ|ø n	tʰ ɔ|ø n
+167		71	Khispi	all	ALL	tʰ ɔ m	tʰ|t ɔ|u m|ŋ	tʰ|t|m ɔ|u m|ŋ
+168		72	Shergaon	walnut	?	kʰ uː	kʰ uː	kʰ uː
+169		74	Khoina	allative	_allative	t i ŋ	t|tʰ i ŋ|n	t|tʰ i ŋ|n
+170		76	Khispi	amaranth	_ma-prefix4	m e s	m|p e|ɛ s|ɕ	m|p e|ɛ|i s|ɕ
+171		76	Khoina	amaranth	_ma-prefix4	m ə -	m|b ə|a -	m|b ə|a|i -
+172		76	Khoitam	amaranth	_ma-prefix4	m ə -	m|j ə|- -	m|j ə|-|y -
+173		76	Rahung	amaranth	_ma-prefix4	m - -	m|pʰ -|ə -	m|pʰ|p -|ə|a -
+174		76	Rupa	amaranth	_ma-prefix4	m ə -	m ə|a -	m ə|a|- -
+175		76	Shergaon	amaranth	_ma-prefix4	m ə -	m ə|i -	m ə|i|ɔ̃ː -
+176	?	77	Duhumbi	angry (vi)	ANGRY2	ʑ Ø -	ʑ|ɕ Ø -	ʑ|ɕ|z Ø -
+177	?	77	Khispi	angry (vi)	ANGRY2	ʑ Ø -	ʑ|z Ø -	ʑ|z|ɕ Ø -
+178	?	78	Duhumbi	angry (vi)	STONE1	l ɔ Ø	l|ɬ ɔ Ø	l|ɬ ɔ Ø
+179	?	78	Khispi	angry (vi)	STONE1	l ɔ Ø	l ɔ Ø	l ɔ Ø
+180		79	Jerigaon	word	?	tɕʰ i k	tɕʰ i k|-	tɕʰ i k|-
+181	?	79	Shergaon	word	?	Ø i k	Ø i k|t	Ø i k|t
+182	?	81	Khispi	year, next	?	Ø a n	Ø a n	Ø a n
+183		82	Rupa	arrive	ARRIVE	pʰ a t	pʰ|p a t	pʰ|p a t
+184		82	Shergaon	arrive	ARRIVE	pʰ a t	pʰ|p a|ɛ t	pʰ|p a|ɛ t
+185	?	83	Khoina	arrow	ARROW	m i Ø	m i|y Ø	m i|y|u Ø
+186		85	Khispi	ascend	ASCEND	dʑ a ŋ	dʑ a|i ŋ|-	dʑ a|i ŋ|-
+187		85	Khoitam	ascend	ASCEND	dʑ a ŋ	dʑ a|ə ŋ|-	dʑ a|ə|u ŋ|-
+188		85	Rupa	ascend	ASCEND	dʑ a ŋ	dʑ|dz a|ə ŋ|k	dʑ|dz|ʥ a|ə|aˀ ŋ|k
+189		85	Shergaon	ascend	ASCEND	dʑ a ŋ	dʑ a|aː ŋ|k	dʑ a|aː|u ŋ|k
+190	?	88	Jerigaon	ask	ASK	Ø i k	Ø i k|-	Ø i k|-
+191	?	88	Shergaon	ask	ASK	Ø i k	Ø i k|t	Ø i k|t
+192		89	Jerigaon	associative	_associative	tʰ ə ŋ	tʰ ə ŋ	tʰ ə ŋ
+193	?	90	Jerigaon	attic	ATTIC	Ø ɔː -	Ø ɔː -	Ø ɔː -
+194		94	Duhumbi	back (n)	BACKN1	kʰ ɔ ŋ	kʰ ɔ|a ŋ|m	kʰ ɔ|a|u ŋ|m|-
+195		94	Khispi	back (n)	BACKN1	kʰ ɔ ŋ	kʰ ɔ|a ŋ|m	kʰ ɔ|a|u ŋ|m|l
+196		94	Khoitam	back (n)	BACKN1	kʰ u ŋ	kʰ u|ɛˀ ŋ|-	kʰ u|ɛˀ|uˀ ŋ|-
+197	?	94	Rahung	back (n)	BACKN1	Ø u ŋ	Ø u|ɛˀ ŋ	Ø u|ɛˀ|ũ ŋ
+198		95	Duhumbi	back (n)	_sky-prefix6	ɲ a	ɲ|ŋ a|ɔ	ɲ|ŋ|h a|ɔ|u
+199		95	Khispi	back (n)	_sky-prefix6	ɲ a	ɲ|ŋ a|ɔ	ɲ|ŋ|h a|ɔ|i
+200		95	Khoitam	back (n)	_sky-prefix6	n a	n|m a|ɛ	n|m a|ɛ|i
+201		95	Rahung	back (n)	_sky-prefix6	n a	n|pʰ a|ɛ	n|pʰ|m a|ɛ|ə
+202		96	Duhumbi	back (wards)	BACKWARDS	kʰ i s	kʰ|kʰɹ i|ɛ s	kʰ|kʰɹ|k i|ɛ s
+203		96	Jerigaon	back (wards)	BACKWARDS	kʰ eː -	kʰ|k eː -	kʰ|k eː -
+204		96	Khoina	back (wards)	BACKWARDS	kʰ ɛː -	kʰ|g ɛː|eː -	kʰ|g ɛː|eː -
+205		96	Shergaon	back (wards)	BACKWARDS	kʰ eː -	kʰ eː -	kʰ eː -
+206		97	Duhumbi	back (wards)	_la-prefix2	l u	l|h u|ɛ	l|h|ɲ u|ɛ
+207		97	Jerigaon	back (wards)	_la-prefix2	l -	l -|ə	l -|ə
+208		97	Khispi	back (wards)	_la-prefix2	l u	l|h u|e	l|h|ɲ u|e
+209		97	Khoina	back (wards)	_la-prefix2	l ə	l|h ə|ɛ	l|h ə|ɛ|a
+210		97	Shergaon	back (wards)	_la-prefix2	l ə	l|p ə|a	l|p|- ə|a
+211		99	Duhumbi	this	?	dʑ i	dʑ|b i|u	dʑ|b|p i|u|eˀ
+212		99	Khispi	this	?	dʑ i	dʑ|b i|u	dʑ|b|p i|u|e
+213		99	Khoitam	this	?	dʑ i	dʑ|j i|ɛ	dʑ|j i|ɛ|ɔ
+214		99	Rahung	this	?	dʑ i	dʑ i|ɛ	dʑ i|ɛ|ə
+215		99	Rupa	this	?	dʑ i	dʑ|dz i|y	dʑ|dz|ɟ i|y|ĩː
+216		99	Shergaon	this	?	dʑ i	dʑ|p i|u	dʑ|p i|u|ĩː
+217		100	Jerigaon	bad	BAD1	z ɐ̃ː -	z ɐ̃ː|ə -	z ɐ̃ː|ə -
+218		100	Shergaon	bad	BAD1	z ɔ̃ː -	z ɔ̃ː -	z ɔ̃ː -
+219		103	Duhumbi	banana	BANANA	s ɔ ŋ	s|ɕ ɔ|a ŋ|m	s|ɕ|h ɔ|a|u ŋ|m|-
+220		103	Khispi	banana	BANANA	s ɔ ŋ	s|ɕ ɔ|a ŋ|m	s|ɕ|h ɔ|a|u ŋ|m|l
+221		104	Duhumbi	banana	_ma-prefix2	m -	m -	m -
+222		105	Duhumbi	friend	FRIEND2	ɲ a	ɲ a|u	ɲ a|u|ɔ
+223		105	Khispi	friend	FRIEND2	ɲ a	ɲ a|u	ɲ a|u|ɔ
+224		105	Khoina	friend	FRIEND2	ɲ ũː	ɲ|r ũː|ɔ̃ː	ɲ|r ũː|ɔ̃ː|yː
+225		105	Rupa	friend	FRIEND2	j ũː	j|ɲ ũː|ɔ	j|ɲ ũː|ɔ
+226	?	105	Shergaon	friend	FRIEND2	Ø ɔ̃ː	Ø ɔ̃ː	Ø ɔ̃ː
+227	?	109	Khispi	bat	BAT3	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+228	?	109	Khoitam	bat	BAT3	Ø ɔː Ø	Ø ɔː Ø	Ø ɔː Ø
+229	?	109	Shergaon	bat	BAT3	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+230	?	110	Duhumbi	bat	FLY1	tɕʰ Ø Ø	tɕʰ|ɕ Ø Ø	tɕʰ|ɕ Ø Ø
+231	?	110	Khispi	bat	FLY1	tɕʰ Ø Ø	tɕʰ|d Ø Ø	tɕʰ|d Ø Ø
+232	?	110	Khoitam	bat	FLY1	tɕʰ a Ø	tɕʰ|tsʰ a Ø	tɕʰ|tsʰ a Ø
+233	?	110	Shergaon	bat	FLY1	tɕʰ Ø Ø	tɕʰ Ø Ø	tɕʰ Ø Ø
+234		111	Jerigaon	bat	BAT1	pʰ ɔː	pʰ|h ɔː|ɐː	pʰ|h ɔː|ɐː|i
+235		111	Khoina	bat	BAT1	pʰ ɔː	pʰ|f ɔː|ɔ̃ː	pʰ|f|pʰl ɔː|ɔ̃ː|ɐː
+236		111	Rahung	bat	BAT1	pʰ oː	pʰ|h oː|ɔ	pʰ|h oː|ɔ|ɔː
+237		111	Rupa	bat	BAT1	pʰ oː	pʰ|pʰl oː|aw	pʰ|pʰl|p oː|aw|ɔ
+238		111	Shergaon	bat	BAT1	pʰ aw	pʰ|p aw|u	pʰ|p aw|u|ɔː
+239	?	113	Duhumbi	beans	BEANS2	pʰ Ø n	pʰ|l Ø n	pʰ|l Ø n
+240		113	Shergaon	beans	BEANS2	b a -	b a -	b a -
+241	?	116	Khoitam	beat, hit	BEAT	Ø a k	Ø a k	Ø a k
+242	?	116	Shergaon	beat, hit	BEAT	Ø a k	Ø a k|t	Ø a k|t
+243		118	Jerigaon	beautiful	BEAUTIFUL	l eː -	l eː|yː -	l eː|yː -
+244		118	Khoina	beautiful	BEAUTIFUL	l ɛː -	l|h ɛː -	l|h ɛː -
+245		118	Khoitam	beautiful	BEAUTIFUL	l eː -	l|r eː|- -	l|r eː|- -
+246		118	Shergaon	beautiful	BEAUTIFUL	l eː -	l eː -	l eː -
+247	?	121	Khoitam	bee	FEMALE	Ø Ø -	Ø Ø -	Ø Ø -
+248	?	122	Khoitam	bee	BEE	kʰw Ø -	kʰw Ø -	kʰw Ø -
+249		123	Khoitam	bee	HONEY	tɕʰ ə -	tɕʰ|tsʰ ə -|ŋ	tɕʰ|tsʰ ə -|ŋ
+250		126	Khoina	beer strainer	BEERSTRAINER2	tɕ aː	tɕ aː|u	tɕ aː|u
+251		126	Rahung	beer strainer	BEERSTRAINER2	tɕ ɛː	tɕ ɛː|i	tɕ ɛː|i
+252		126	Rupa	beer strainer	BEERSTRAINER2	k ã	k ã	k ã
+253		126	Shergaon	beer strainer	BEERSTRAINER2	kʰ a	kʰ a	kʰ a
+254		127	Khoina	beer strainer	BEERSTRAINER1	g a -	g a|ə -	g a|ə|uː -
+255	?	127	Rahung	beer strainer	BEERSTRAINER1	Ø a -	Ø a|ə -	Ø a|ə|u -
+256		127	Rupa	beer strainer	BEERSTRAINER1	kʰ a -	kʰ a|- -	kʰ a|-|aː -
+257		127	Shergaon	beer strainer	BEERSTRAINER1	kʰ a -	kʰ a|aː -	kʰ a|aː|- -
+258	?	128	Jerigaon	behind	BEHIND	kʰ Ø -	kʰ|k Ø -	kʰ|k Ø -
+259	?	128	Khoina	behind	BEHIND	kʰ Ø -	kʰ|g Ø -	kʰ|g|x Ø -
+260	?	128	Khoitam	behind	BEHIND	kʰ Ø -	kʰ|kʰw Ø -	kʰ|kʰw Ø -
+261	?	128	Shergaon	behind	BEHIND	kʰ Ø -	kʰ Ø -	kʰ Ø -
+262		129	Duhumbi	eye	ROUND	b u	b|p u|i	b|p|bj u|i|y
+263		129	Khispi	eye	ROUND	b u	b|p u|i	b|p|w u|i
+264		139	Jerigaon	bind (v)	BIND	r u ŋ	r|n u|ɔ ŋ|-	r|n|tʰ u|ɔ|eˀ ŋ|-
+265		139	Khoitam	bind (v)	BIND	r u ŋ	r|tɕʰ u|ũː ŋ|-	r|tɕʰ|n u|ũː|eˀ ŋ|-
+266		139	Rahung	bind (v)	BIND	r u ŋ	r|tɕʰ u|ũ ŋ|-	r|tɕʰ|n u|ũ|eˀ ŋ|-
+267		139	Rupa	bind (v)	BIND	r u ŋ	r|tɕʰ u|y ŋ|-	r|tɕʰ|n u|y|- ŋ|-|k
+268		139	Shergaon	bind (v)	BIND	r u ŋ	r|tɕʰ u|ɔ ŋ|-	r|tɕʰ|t u|ɔ|- ŋ|-|k
+269		142	Jerigaon	bite	BITE	dʑ ɛ k	dʑ ɛ|ɛˀ k|-	dʑ ɛ|ɛˀ k|-
+270		142	Khoina	bite	BITE	dz ai k	dz ai k	dz ai k
+271	?	144	Jerigaon	same, equal	?	Ø u	Ø u|-	Ø u|-|uː
+272	?	144	Khispi	same, equal	?	Ø a	Ø a	Ø a
+273	?	144	Rahung	same, equal	?	Ø u	Ø u	Ø u
+274	?	144	Shergaon	same, equal	?	Ø u	Ø u	Ø u
+275	?	148	Duhumbi	kick (v)	kickv	r Ø	r|d Ø	r|d|l Ø
+276	?	148	Jerigaon	kick (v)	kickv	r Ø	r|tʰ Ø	r|tʰ Ø
+277	?	148	Khispi	kick (v)	kickv	l Ø	l|d Ø	l|d|n Ø
+278	?	148	Khoina	kick (v)	kickv	r Ø	r Ø	r Ø
+279	?	150	Duhumbi	blow (wind)	BLOWWIND	kʰ Ø	kʰ Ø	kʰ Ø
+280	?	150	Jerigaon	blow (wind)	BLOWWIND	h Ø	h Ø	h Ø
+281	?	150	Khispi	blow (wind)	BLOWWIND	h Ø	h Ø	h Ø
+282	?	150	Rupa	blow (wind)	BLOWWIND	f Ø	f Ø	f Ø
+283	?	150	Shergaon	blow (wind)	BLOWWIND	f Ø	f Ø	f Ø
+284		151	Duhumbi	in	?	l u ŋ	l|ɬ u ŋ|m	l|ɬ u ŋ|m|-
+285		151	Khispi	in	?	l u ŋ	l u|ɔ ŋ|m	l u|ɔ ŋ|m|l
+286		154	Khoina	boil  (water)	BOILWATER	tɕʰ ɔ	tɕʰ|tsʰ ɔ	tɕʰ|tsʰ ɔ
+287	?	155	Jerigaon	boil (n)	BOILN	Ø a ŋ	Ø a|ɛˀ ŋ	Ø a|ɛˀ ŋ
+288	?	155	Shergaon	boil (n)	BOILN	Ø a ŋ	Ø a ŋ	Ø a ŋ
+289		156	Duhumbi	knee	knee	l a	l|h a	l|h|ɲ a
+290		156	Khispi	knee	knee	l a	l|h a	l|h|ɲ a
+291		156	Khoina	knee	knee	l a	l|h a	l|h a
+292	?	156	Shergaon	knee	knee	l Ø	l|p Ø	l|p|- Ø
+293		157	Khoitam	kick (v)	?	t u ŋ	t u|ũː ŋ|-	t u|ũː ŋ|-
+294		157	Rahung	kick (v)	?	t u ŋ	t u|ũ ŋ|-	t u|ũ ŋ|-
+295		157	Rupa	kick (v)	?	t u ŋ	t u|- ŋ|k	t u|-|ũ ŋ|k|-
+296		157	Shergaon	kick (v)	?	t u ŋ	t u|- ŋ|k	t u|- ŋ|k|-
+297	?	159	Jerigaon	bone	_sa-prefix5	s Ø	s Ø	s Ø
+298	?	160	Duhumbi	bone	_a/ə/i-prefix	Ø	Ø	Ø
+299	?	160	Khispi	bone	_a/ə/i-prefix	Ø	Ø	Ø
+300	?	160	Shergaon	bone	_a/ə/i-prefix	Ø	Ø	Ø
+301	?	161	Rahung	borrow	BORROW1	Ø iː	Ø iː	Ø iː
+302		162	Jerigaon	borrow	BORROW2	l ɛːʰ	l ɛːʰ	l ɛːʰ
+303		162	Khoina	borrow	BORROW2	l aː	l|h aː	l|h aː
+304		162	Rahung	borrow	BORROW2	l ɛːʰ	l|r ɛːʰ	l|r|n ɛːʰ
+305		162	Shergaon	borrow	BORROW2	l aː	l aː	l aː
+306		165	Jerigaon	left (side)	?	l a k	l|r a|uː k|-	l|r|fl a|uː|ɐ k|-|ŋ
+307		165	Khoina	left (side)	?	l a k	l|r a|uː k|-	l|r|h a|uː|ɐ k|-|ŋ
+308		165	Khoitam	left (side)	?	l a k	l|r a|uː k|-	l|r|pʰl a|uː|ə k|-|ŋ
+309		165	Rahung	left (side)	?	l a k	l|r a|uː k|ŋ	l|r|pʰl a|uː|- k|ŋ|-
+310		165	Rupa	left (side)	?	l a k	l|r a|uː k|ŋ	l|r|d a|uː|ə k|ŋ
+311		165	Shergaon	left (side)	?	l a k	l|r a|uː k|-	l|r|pʰl a|uː|ɔ̃ː k|-|ŋ
+312		166	Rupa	lick	?	l a k	l|d a|ɐ k	l|d a|ɐ k
+313		166	Shergaon	lick	?	l a k	l a k|t	l a k|t
+314	?	169	Duhumbi	knee	knee	k Ø Ø	k Ø Ø	k Ø Ø
+315	?	169	Khispi	knee	knee	k Ø Ø	k Ø Ø	k Ø Ø
+316		169	Khoitam	knee	knee	k ɹ iː	k ɹ iː	k ɹ iː
+317		169	Rahung	knee	knee	k ɹ iː	k ɹ iː	k ɹ iː
+318		169	Rupa	knee	knee	k ɹ i	k|g ɹ i	k|g ɹ i
+319		169	Shergaon	knee	knee	k ɹ i	k ɹ i	k ɹ i
+320	?	170	Shergaon	break	BREAK	Ø a p	Ø a|ɛ p	Ø a|ɛ p
+321		174	Jerigaon	bridge, hanging	HANGINGBRIDGE	s ɔ̃ː -	s ɔ̃ː -	s ɔ̃ː -
+322	?	174	Khispi	bridge, hanging	HANGINGBRIDGE	ɕ a Ø	ɕ a Ø	ɕ a Ø
+323		174	Rahung	bridge, hanging	HANGINGBRIDGE	s ũː n	s ũː|a n	s ũː|a n
+324		174	Shergaon	bridge, hanging	HANGINGBRIDGE	s ɔ̃ː n	s ɔ̃ː n	s ɔ̃ː n
+325	?	175	Duhumbi	bring	BRING	tɕʰ Ø	tɕʰ|ɕ Ø	tɕʰ|ɕ Ø
+326	?	175	Khispi	bring	BRING	tɕʰ Ø	tɕʰ|d Ø	tɕʰ|d Ø
+327	?	175	Shergaon	bring	BRING	tɕʰ Ø	tɕʰ Ø	tɕʰ Ø
+328	?	177	Duhumbi	brother (elder)	ELDERBRO3	b Ø	b|p Ø	b|p|bj Ø
+329	?	177	Jerigaon	brother (elder)	ELDERBRO3	b Ø	b Ø	b Ø
+330	?	177	Khispi	brother (elder)	ELDERBRO3	b Ø	b|p Ø	b|p|pʰ Ø
+331	?	177	Khoina	brother (elder)	ELDERBRO3	b Ø	b Ø	b Ø
+332		178	Duhumbi	brother (elder)	ELDERBRO2	j a	j|w a|ɔw	j|w|dʑ a|ɔw|e
+333		178	Khispi	brother (elder)	ELDERBRO2	j a	j|w a	j|w|g a
+334		178	Khoitam	brother (elder)	ELDERBRO2	j a	j|w a|uː	j|w|n a|uː|u
+335		178	Rahung	brother (elder)	ELDERBRO2	j a	j|w a|oː	j|w|- a|oː|ow
+336		178	Rupa	brother (elder)	ELDERBRO2	j a	j|b a|uː	j|b|w a|uː|ə
+337		178	Shergaon	brother (elder)	ELDERBRO2	j a	j|h a|uː	j|h|p a|uː
+338		179	Jerigaon	brother (elder)	ELDERBRO1	d u	d|r u|ɔ̃ː	d|r|s u|ɔ̃ː|ɔ
+339		179	Khoina	brother (elder)	ELDERBRO1	d u	d|r u|ɔ̃ː	d|r|t u|ɔ̃ː|ɔ
+340		179	Khoitam	brother (elder)	ELDERBRO1	d u	d|r u|ɔ̃ː	d|r|t u|ɔ̃ː|uˀ
+341		179	Rahung	brother (elder)	ELDERBRO1	d u	d|r u|ɔ̃ː	d|r|tɕʰ u|ɔ̃ː|ɔ
+342		179	Rupa	brother (elder)	ELDERBRO1	d u	d|r u|ə	d|r|t u|ə|ɔ̃ː
+343		179	Shergaon	brother (elder)	ELDERBRO1	d u	d|r u|ɔ̃ː	d|r|tɕʰ u|ɔ̃ː|i
+344	?	181	Khoina	brother, younger	YOUNGERBRO	n Ø	n|r Ø	n|r Ø
+345		184	Jerigaon	light	?	j a ŋ	j|h a|uː ŋ|-	j|h|- a|uː|ɐ ŋ|-|n
+346		184	Khoina	light	?	j a ŋ	j|- a|uː ŋ|-	j|-|x a|uː|ɐ ŋ|-|n
+347		184	Khoitam	light	?	j a ŋ	j|h a|uː ŋ|-	j|h|w a|uː|ə ŋ|-|m
+348		184	Rahung	light	?	j a ŋ	j|h a|uː ŋ|-	j|h|w a|uː|- ŋ|-|m
+349		184	Rupa	light	?	j a ŋ	j|p a|uː ŋ|-	j|p|w a|uː|ə ŋ|-|m
+350		184	Shergaon	light	?	j a ŋ	j|p a|uː ŋ|-	j|p|- a|uː|ɔ̃ː ŋ|-|m
+351	?	186	Khispi	buckwheat, bitter	BUCKWHEATBITTER	Ø Ø	Ø Ø	Ø Ø
+352	?	192	Duhumbi	buffalo	BUFFALO	Ø Ø	Ø Ø	Ø Ø
+353	?	192	Khispi	buffalo	BUFFALO	Ø Ø	Ø Ø	Ø Ø
+354	?	192	Rahung	buffalo	BUFFALO	Ø Ø	Ø Ø	Ø Ø
+355		194	Jerigaon	veranda	?	j a ŋ	j|h a|uː ŋ|-	j|h|- a|uː|ɐ ŋ|-|n
+356		194	Khoina	veranda	?	j a ŋ	j|- a|uː ŋ|-	j|-|x a|uː|ɐ ŋ|-|n
+357		194	Khoitam	veranda	?	j a ŋ	j|h a|uː ŋ|-	j|h|w a|uː|ə ŋ|-|m
+358		194	Rahung	veranda	?	j a ŋ	j|h a|uː ŋ|-	j|h|w a|uː|- ŋ|-|m
+359		194	Rupa	veranda	?	j a ŋ	j|p a|uː ŋ|-	j|p|w a|uː|ə ŋ|-|m
+360		194	Shergaon	veranda	?	j a ŋ	j|p a|uː ŋ|-	j|p|- a|uː|ɔ̃ː ŋ|-|m
+361		195	Jerigaon	burn, roast (vt)	BURNVT	r iː	r|tʰ iː	r|tʰ iː
+362		195	Rahung	burn, roast (vt)	BURNVT	r iː	r iː	r iː
+363		195	Shergaon	burn, roast (vt)	BURNVT	r iː	r|t iː|i	r|t iː|i
+364	?	197	Jerigaon	butterfly	BUTTERFLY	Ø ĩː -	Ø ĩː|ə -|ŋ	Ø ĩː|ə|i -|ŋ|n
+365	?	197	Khispi	butterfly	BUTTERFLY	Ø ɔ -	Ø ɔ|i -|l	Ø ɔ|i -|l|n
+366	?	197	Khoina	butterfly	BUTTERFLY	Ø ɛ̃ː -	Ø ɛ̃ː|y -|ŋ	Ø ɛ̃ː|y|a -|ŋ
+367	?	197	Khoitam	butterfly	BUTTERFLY	Ø ĩː -	Ø ĩː|i -|ŋ	Ø ĩː|i|y -|ŋ
+368	?	197	Rahung	butterfly	BUTTERFLY	Ø ĩː -	Ø ĩː|i -|ŋ	Ø ĩː|i -|ŋ|n
+369	?	198	Duhumbi	butterfly	FLY1	Ø a m	Ø a|ɔ m|ŋ	Ø a|ɔ|u m|ŋ|ɹ
+370	?	198	Khispi	butterfly	FLY1	Ø a m	Ø a|ɔ m|ŋ	Ø a|ɔ|u m|ŋ|l
+371		205	Duhumbi	grind, pound	?	ʑ u	ʑ|ɕ u|i	ʑ|ɕ|z u|i|y
+372		205	Khispi	grind, pound	?	ʑ u	ʑ|z u|i	ʑ|z|ɕ u|i
+373	?	207	Jerigaon	cattle, cow	CATTLE	s Ø	s Ø	s Ø
+374	?	207	Khoitam	cattle, cow	CATTLE	s Ø	s|z Ø	s|z Ø
+375	?	207	Rahung	cattle, cow	CATTLE	s Ø	s Ø	s Ø
+376		208	Duhumbi	cattle, cow	CATTLE	j a	j a|ɔw	j a|ɔw|e
+377		208	Khispi	cattle, cow	CATTLE	j a	j a|ɔw	j a|ɔw|e
+378		208	Khoina	cattle, cow	CATTLE	j uː	j uː|-	j uː|-|yː
+379	?	210	Duhumbi	charcoal	CHARCOAL	kʰ Ø n	kʰ|kʰɹ Ø n	kʰ|kʰɹ|k Ø n
+380	?	211	Duhumbi	charcoal	_fire-prefix	p Ø ŋ	p|l Ø ŋ	p|l Ø ŋ
+381		212	Jerigaon	leech, land	leechland	p a ʔ	p|dʑ a|ɐ ʔ|k	p|dʑ|b a|ɐ|ə ʔ|k
+382		212	Khoina	leech, land	leechland	p a ʔ	p|dʑ a|ɐ ʔ|t	p|dʑ|b a|ɐ|ɔ̃ː ʔ|t|k
+383		212	Khoitam	leech, land	leechland	p a t	p|j a|ə t|k	p|j|b a|ə|ɔː t|k
+384		212	Rahung	leech, land	leechland	p a t	p|dʑ a|- t|k	p|dʑ|b a|-|oː t|k
+385		212	Rupa	leech, land	leechland	p a t	p|b a|ə t|k	p|b|dʑ a|ə|ɔ t|k
+386	?	214	Jerigaon	chest	CHEST	m Ø	m Ø	m Ø
+387	?	214	Khispi	chest	CHEST	m Ø	m|p Ø	m|p Ø
+388	?	214	Shergaon	chest	CHEST	m Ø	m Ø	m Ø
+389		215	Duhumbi	chest	CHEST	g ɔw	g ɔw	g ɔw
+390		215	Jerigaon	chest	CHEST	w ɔ	w ɔ	w ɔ
+391		215	Khispi	chest	CHEST	g ɔw	g ɔw	g ɔw
+392		215	Rahung	chest	CHEST	- o	- o	- o
+393		215	Shergaon	chest	CHEST	j aw	j aw	j aw
+394		216	Duhumbi	leech, water	leechwater	pʰ	pʰ|b	pʰ|b|h
+395		216	Khispi	leech, water	leechwater	pʰ	pʰ|p	pʰ|p|hw
+396		216	Khoina	leech, water	leechwater	pʰ	pʰ|p	pʰ|p|pʰl
+397		216	Rupa	leech, water	leechwater	pʰ	pʰ|pʰl	pʰ|pʰl|b
+398		216	Shergaon	leech, water	leechwater	pʰ	pʰ|p	pʰ|p
+399		217	Shergaon	chew	CHEW	k uː	k uː	k uː
+400	?	221	Khispi	child	CHILD	n Ø	n Ø	n Ø
+401	?	222	Duhumbi	trunk (tree)	?	l Ø	l|ɲ Ø	l|ɲ|ɬ Ø
+402	?	222	Khispi	trunk (tree)	?	l Ø	l|ɲ Ø	l|ɲ Ø
+403	?	222	Rupa	trunk (tree)	?	l Ø	l|d Ø	l|d Ø
+404	?	222	Shergaon	trunk (tree)	?	l Ø	l|- Ø	l|- Ø
+405	?	223	Duhumbi	flour	_na-prefix10	Ø u	Ø u|i	Ø u|i|a
+406		223	Khispi	flour	_na-prefix10	h u	h u|i	h u|i|a
+407	?	225	Duhumbi	chin	_na-prefix9	Ø Ø n	Ø Ø n	Ø Ø n
+408	?	225	Rupa	chin	_na-prefix9	n Ø -	n|ɲ Ø -|n	n|ɲ Ø -|n
+409	?	225	Shergaon	chin	_na-prefix9	n Ø -	n Ø -|n	n Ø -|n
+410		228	Duhumbi	chin	CHIN	w ɔ	w|j ɔ	w|j ɔ
+411		228	Khispi	chin	CHIN	b ɔ	b|j ɔ	b|j ɔ
+412		228	Rupa	chin	CHIN	b y	b|j y	b|j y
+413		228	Shergaon	chin	CHIN	p ɔ	p ɔ	p ɔ
+414		229	Duhumbi	chin	?	k a ɹ	k a|u ɹ|-	k a|u|ɛ ɹ|-
+415		229	Khoitam	chin	?	h uː -	h|kʰ uː|- -	h|kʰ uː|-|ũ -
+416		229	Rahung	chin	?	kʰ uː -	kʰ|pʰ uː|eː -	kʰ|pʰ uː|eː|- -
+417		229	Rupa	chin	?	k oː -	k oː|eː -|w	k oː|eː|u -|w
+418		229	Shergaon	chin	?	k - -	k|kʰ -|ɔ -	k|kʰ -|ɔ -
+419	?	230	Duhumbi	lightning	lightning	Ø i	Ø i|e	Ø i|e|ɛj
+420		230	Khispi	lightning	lightning	kʰ i	kʰ i|a	kʰ i|a|u
+421		230	Khoina	lightning	lightning	g aː	g aː|ɔː	g aː|ɔː
+422	?	230	Khoitam	lightning	lightning	Ø ɛː	Ø ɛː	Ø ɛː
+423		230	Rupa	lightning	lightning	g aː	g aː	g aː
+424		230	Shergaon	lightning	lightning	k aː	k aː|i	k aː|i
+425		232	Duhumbi	civet or spotted wild cat	CIVET	ts o ŋ	ts o ŋ|m	ts o ŋ|m|-
+426		232	Khispi	civet or spotted wild cat	CIVET	ts ɔ ŋ	ts ɔ ŋ|m	ts ɔ ŋ|m|l
+427	?	233	Duhumbi	civet or spotted wild cat	SMALL	tʰ Ø	tʰ Ø	tʰ Ø
+428	?	234	Duhumbi	civet or spotted wild cat	_kha-prefix	Ø u	Ø u|i	Ø u|i|a
+429	?	234	Khispi	civet or spotted wild cat	_kha-prefix	Ø u	Ø u|i	Ø u|i|a
+430	?	234	Rahung	civet or spotted wild cat	_kha-prefix	Ø ə	Ø ə|a	Ø ə|a|eː
+431		236	Duhumbi	civet, palm	PALMCIVET	ɲ u m	ɲ|ŋ u m|ŋ	ɲ|ŋ|n u m|ŋ|-
+432		236	Jerigaon	civet, palm	PALMCIVET	n ø n	n ø|ɛ n	n ø|ɛ n
+433		236	Khispi	civet, palm	PALMCIVET	ɲ u m	ɲ|ŋ u m|ŋ	ɲ|ŋ|n u m|ŋ|w
+434		236	Rahung	civet, palm	PALMCIVET	n ø m	n|pʰ ø|- m	n|pʰ ø|- m
+435		236	Rupa	civet, palm	PALMCIVET	ɲ ɔ m	ɲ|n ɔ m|ŋ	ɲ|n ɔ m|ŋ|-
+436		237	Duhumbi	civet, palm	_sa-prefix	s u	s|ɕ u	s|ɕ|h u
+437	?	237	Jerigaon	civet, palm	_sa-prefix	s Ø	s|z Ø	s|z Ø
+438		237	Khispi	civet, palm	_sa-prefix	s ɔ	s|ɕ ɔ	s|ɕ|h ɔ
+439		237	Rahung	civet, palm	_sa-prefix	s u	s u	s u
+440		237	Rupa	civet, palm	_sa-prefix	s uː	s uː	s uː
+441		238	Jerigaon	clean	CLEAN	s a n	s a|ɛˀ n	s a|ɛˀ|ə n
+442		238	Khoitam	clean	CLEAN	ts a m	ts a|ə m	ts a|ə m
+443		238	Shergaon	clean	CLEAN	s a m	s a m	s a m
+444		239	Duhumbi	bad	BAD2	ɲ ɔ	ɲ|ŋ ɔ|a	ɲ|ŋ ɔ|a|u
+445		239	Khispi	bad	BAD2	ɲ ɔ	ɲ|ŋ ɔ|a	ɲ|ŋ ɔ|a|u
+446		239	Shergaon	bad	BAD2	ɲ u	ɲ u	ɲ u
+447	?	241	Duhumbi	clitoris	CLITORIS	Ø i	Ø i|u	Ø i|u
+448	?	241	Jerigaon	clitoris	CLITORIS	Ø eː	Ø eː	Ø eː
+449	?	241	Khispi	clitoris	CLITORIS	Ø i	Ø i|u	Ø i|u
+450		242	Duhumbi	clitoris	?	dʑ ɔ p	dʑ|ts ɔ|u p|-	dʑ|ts ɔ|u|a p|-
+451		242	Jerigaon	clitoris	?	tɕ ɔ -	tɕ ɔ|ø -	tɕ ɔ|ø|ɛ -
+452		242	Khispi	clitoris	?	dʑ ɔ p	dʑ|ts ɔ|u p|-	dʑ|ts ɔ|u|a p|-
+453		242	Khoina	clitoris	?	dz ɔ -	dz|tɕ ɔ|ø -	dz|tɕ ɔ|ø|ɔ̃ː -
+454		242	Khoitam	clitoris	?	dʑ ɔ p	dʑ|tɕ ɔ|ũː p	dʑ|tɕ|ʨ ɔ|ũː|ɔː p
+455		242	Rahung	clitoris	?	tɕ ɔ p	tɕ ɔ|ø p|-	tɕ ɔ|ø|- p|-
+456		246	Duhumbi	cloud, mist, fog	CLOUD	t i	t|d i	t|d i
+457	?	247	Duhumbi	cloud, mist, fog	_sung-prefix	ɕ Ø m	ɕ|s Ø m	ɕ|s Ø m
+458	?	247	Khispi	cloud, mist, fog	_sung-prefix	ɕ Ø Ø	ɕ Ø Ø	ɕ Ø Ø
+459	?	249	Duhumbi	cockroach	COCKROACH1	Ø Ø -	Ø Ø -	Ø Ø -
+460	?	249	Jerigaon	cockroach	COCKROACH1	pʰ Ø -	pʰ Ø -	pʰ Ø -
+461	?	249	Khoina	cockroach	COCKROACH1	pʰ Ø -	pʰ Ø -	pʰ Ø -
+462	?	250	Duhumbi	cockroach	COCKROACH2	Ø u ŋ	Ø u ŋ	Ø u ŋ
+463	?	250	Jerigaon	cockroach	COCKROACH2	Ø u -	Ø u|ɔ -	Ø u|ɔ -
+464	?	250	Khoina	cockroach	COCKROACH2	Ø u -	Ø u|yː -	Ø u|yː -
+465		251	Jerigaon	scratch	?	d ɔ k	d ɔ|a k|-	d ɔ|a|u k|-
+466		251	Khoitam	scratch	?	d ɔ k	d|dʑ ɔ|a k|-	d|dʑ ɔ|a|yː k|-
+467		251	Rahung	scratch	?	d ɔ k	d|dʑ ɔ|øː k|-	d|dʑ ɔ|øː k|-
+468	?	252	Shergaon	cold	COLD	Ø a n	Ø a n	Ø a n
+469	?	253	Shergaon	cold (vi)	COLDVI	r Ø Ø	r Ø Ø	r Ø Ø
+470	?	256	Duhumbi	come	COME	u Ø	u Ø	u Ø
+471	?	256	Rupa	come	COME	u Ø	u|- Ø	u|-|ũ Ø
+472	?	256	Shergaon	come	COME	u Ø	u|- Ø	u|- Ø
+473		258	Khoina	comparative degree	_comparative	ʂ ɔ k	ʂ|ɕ ɔ|ɐ̃ː k	ʂ|ɕ|s ɔ|ɐ̃ː|ɔː k
+474		258	Rupa	comparative degree	_comparative	s ɔ k	s|ɕ ɔ|ɔ̃ː k	s|ɕ ɔ|ɔ̃ː k
+475		258	Shergaon	comparative degree	_comparative	s ɔ k	s|ɕ ɔ|ɔ̃ː k|t	s|ɕ ɔ|ɔ̃ː k|t
+476		259	Duhumbi	cook	COOK1	tʰj ɛ ŋ	tʰj ɛ ŋ	tʰj ɛ ŋ
+477	?	259	Jerigaon	cook	COOK1	Ø y ŋ	Ø y ŋ	Ø y ŋ
+478	?	259	Khoitam	cook	COOK1	Ø y ŋ	Ø y|ɛˀ ŋ|-	Ø y|ɛˀ ŋ|-
+479		259	Rahung	cook	COOK1	t ə ŋ	t ə|ɛˀ ŋ	t ə|ɛˀ ŋ
+480	?	261	Rahung	copula, negative	_neg-prefix	b Ø	b Ø	b Ø
+481	?	262	Rahung	copula, negative	COP1	Ø yː	Ø yː	Ø yː
+482	?	265	Khispi	cotton	COTTON2	Ø Ø	Ø Ø	Ø Ø
+483	?	266	Khispi	cotton	COTTON1	Ø Ø ŋ	Ø Ø ŋ	Ø Ø ŋ
+484	?	268	Jerigaon	cough (vi)	COUGH	Ø yː	Ø yː	Ø yː
+485	?	268	Shergaon	cough (vi)	COUGH	Ø iː	Ø iː|yː	Ø iː|yː|i
+486	?	270	Jerigaon	cover (v)	COVER	Ø ɛ ŋ	Ø ɛ|ə ŋ|-	Ø ɛ|ə|ɛˀ ŋ|-|ɹ
+487		270	Khispi	cover (v)	COVER	d ɛ ŋ	d ɛ|e ŋ|-	d ɛ|e|i ŋ|-|n
+488		270	Khoina	cover (v)	COVER	tʰ ai ŋ	tʰ ai|ə ŋ|-	tʰ ai|ə|ɛ ŋ|-|j
+489	?	270	Khoitam	cover (v)	COVER	Ø ɛ ŋ	Ø ɛ|a ŋ|-	Ø ɛ|a|ə ŋ|-
+490		270	Rahung	cover (v)	COVER	t ɛ ŋ	t ɛ|a ŋ|-	t ɛ|a|- ŋ|-|k
+491		270	Shergaon	cover (v)	COVER	tʰ ɛ ŋ	tʰ ɛ|ə ŋ|m	tʰ ɛ|ə ŋ|m|-
+492		272	Duhumbi	creeper, vine	VINE	kʰ u	kʰ|kʰɹ u|i	kʰ|kʰɹ|k u|i|y
+493		272	Khispi	creeper, vine	VINE	kʰ u	kʰ u|i	kʰ u|i
+494		272	Rupa	creeper, vine	VINE	kʰ yː	kʰ yː|øː	kʰ yː|øː
+495	?	273	Duhumbi	crow	_bird-prefix	Ø Ø ŋ	Ø Ø ŋ	Ø Ø ŋ
+496	?	273	Shergaon	crow	_bird-prefix	Ø Ø -	Ø Ø -|ŋ	Ø Ø -|ŋ
+497	?	274	Duhumbi	crow	CROW	Ø Ø	Ø Ø	Ø Ø
+498	?	274	Rupa	crow	CROW	Ø Ø	Ø Ø	Ø Ø
+499	?	274	Shergaon	crow	CROW	Ø Ø	Ø Ø	Ø Ø
+500		276	Duhumbi	short	?	tʰ ɔ ŋ	tʰ|t ɔ|a ŋ|m	tʰ|t|m ɔ|a|u ŋ|m|-
+501		276	Khispi	short	?	tʰ ɔ ŋ	tʰ|t ɔ|a ŋ|m	tʰ|t|m ɔ|a|u ŋ|m|l
+502		276	Khoitam	short	?	tʰ u ŋ	tʰ u|uˀ ŋ|-	tʰ u|uˀ ŋ|-
+503		278	Rupa	cucumber	CUCUMBER	pʰl u ŋ	pʰl u|ũ ŋ	pʰl u|ũ ŋ
+504		279	Jerigaon	curcuma sp.	CURCUMA	b øˀ -	b øˀ -	b øˀ -
+505		279	Khispi	curcuma sp.	CURCUMA	b ɔ s	b|m ɔ s|ɕ	b|m ɔ s|ɕ
+506		279	Rupa	curcuma sp.	CURCUMA	b øˀ -	b|pʰ øˀ -	b|pʰ øˀ -
+507		279	Shergaon	curcuma sp.	CURCUMA	b eˀ -	b|pʰ eˀ -	b|pʰ eˀ -
+508	?	280	Jerigaon	cure (vi)	CURE	dʑ a Ø	dʑ a|ɛˀ Ø	dʑ a|ɛˀ Ø
+509	?	280	Rupa	cure (vi)	CURE	dʑ a Ø	dʑ|dz a|aː Ø	dʑ|dz|ʥ a|aː|ɛ Ø
+510	?	280	Shergaon	cure (vi)	CURE	dʑ a Ø	dʑ a|aː Ø	dʑ a|aː Ø
+511	?	281	Khispi	cut	CUT	Ø Ø k	Ø Ø k|s	Ø Ø k|s
+512		282	Duhumbi	dance	DANCE	ɕ a	ɕ|s a|ɔw	ɕ|s a|ɔw|e
+513		282	Khispi	dance	DANCE	ɕ a	ɕ a|ɔw	ɕ a|ɔw|e
+514		283	Duhumbi	trunk (tree)	?	tʰ u ŋ	tʰ|t u|ɔ ŋ|m	tʰ|t|m u|ɔ ŋ|m|-
+515		283	Khispi	trunk (tree)	?	tʰ u ŋ	tʰ|t u|ɔ ŋ|m	tʰ|t|m u|ɔ|a ŋ|m|l
+516		283	Shergaon	trunk (tree)	?	tʰ u ŋ	tʰ|t u|i ŋ	tʰ|t u|i ŋ
+517		285	Jerigaon	daughter-in-law	DAUGHTERINLAW	tɕʰ a n	tɕʰ a|ɛˀ n	tɕʰ a|ɛˀ n
+518		285	Shergaon	daughter-in-law	DAUGHTERINLAW	tɕʰ a m	tɕʰ a m	tɕʰ a m
+519		286	Jerigaon	pull	?	tɕʰ - ɛ ŋ	tɕʰ|k - ɛ|ɛˀ ŋ|-	tɕʰ|k - ɛ|ɛˀ ŋ|-
+520		286	Khoina	pull	?	ʈʂʰ - ai ŋ	ʈʂʰ|g - ai ŋ|-	ʈʂʰ|g|tɕʰ - ai ŋ|-|n
+521		286	Khoitam	pull	?	tɕʰ - ɛ ŋ	tɕʰ|kʰ - ɛ|a ŋ|-	tɕʰ|kʰ - ɛ|a ŋ|-
+522	?	287	Khispi	day after tomorrow	_la-prefix4	l Ø Ø	l|b Ø Ø	l|b Ø Ø
+523	?	288	Khispi	day after tomorrow	DAYAFTERTOM	l Ø	l|b Ø	l|b Ø
+524	?	292	Khoitam	day before two days	_day-before-prefix	Ø Ø -	Ø Ø -	Ø Ø -
+525	?	297	Rahung	day before yesterday	TWODAYS	kʰ Ø k	kʰ|pʰ Ø k	kʰ|pʰ Ø k
+526	?	301	Jerigaon	peas	peas	Ø i -	Ø i|iː -|n	Ø i|iː|ə -|n|ŋ
+527	?	301	Khoina	peas	peas	Ø i -	Ø i|iː -|n	Ø i|iː|aː -|n
+528	?	301	Khoitam	peas	peas	Ø i ŋ	Ø i|iː ŋ|n	Ø i|iː|ə ŋ|n
+529	?	301	Rahung	peas	peas	Ø i ŋ	Ø i|iː ŋ|m	Ø i|iː|ə ŋ|m|n
+530	?	301	Rupa	peas	peas	Ø i n	Ø i|iː n|ŋ	Ø i|iː|ə n|ŋ|-
+531	?	301	Shergaon	peas	peas	Ø i n	Ø i|iː n|ŋ	Ø i|iː|ə n|ŋ
+532	?	302	Jerigaon	deaf	DEAF1	pʰ Ø ŋ	pʰ Ø ŋ|-	pʰ Ø ŋ|-
+533	?	302	Khoina	deaf	DEAF1	b Ø ŋ	b Ø ŋ|-	b Ø ŋ|-|j
+534	?	302	Rahung	deaf	DEAF1	p Ø ŋ	p Ø ŋ|-	p Ø ŋ|-
+535	?	302	Shergaon	deaf	DEAF1	b Ø ŋ	b Ø ŋ|m	b Ø ŋ|m|-
+536		306	Duhumbi	deep	DEEP	gɹ i	gɹ i	gɹ i
+537		306	Khispi	deep	DEEP	g i	g i	g i
+538		307	Duhumbi	lie (n)	?	ɕ	ɕ|s	ɕ|s|h
+539		307	Khispi	lie (n)	?	ɕ	ɕ|s	ɕ|s|h
+540		307	Khoina	lie (n)	?	ʂ	ʂ|s	ʂ|s|ɕ
+541	?	311	Jerigaon	deer, barking	BARKDEER	Ø Ø iː	Ø Ø iː	Ø Ø iː
+542		312	Duhumbi	goat	sa-prefix6	d a	d a	d a
+543		312	Rahung	goat	sa-prefix6	dʑ ɔː	dʑ ɔː	dʑ ɔː
+544		312	Rupa	goat	sa-prefix6	dʑ oː	dʑ oː	dʑ oː
+545		312	Shergaon	goat	sa-prefix6	dʑ oː	dʑ oː	dʑ oː
+546	?	313	Duhumbi	deer, sambar	DEER	Ø u ŋ	Ø u ŋ	Ø u ŋ
+547	?	313	Jerigaon	deer, sambar	DEER	Ø y k	Ø y k	Ø y k
+548	?	313	Rahung	deer, sambar	DEER	Ø y k	Ø y k	Ø y k
+549	?	313	Shergaon	deer, sambar	DEER	Ø u k	Ø u k	Ø u k
+550		314	Jerigaon	defeat (vi)	DEFEAT	pʰ ɔ̃ː ŋ	pʰ ɔ̃ː ŋ|-	pʰ ɔ̃ː ŋ|-
+551		314	Khispi	defeat (vi)	DEFEAT	pʰ a m	pʰ a m	pʰ a m
+552		314	Khoina	defeat (vi)	DEFEAT	pʰ ũː ŋ	pʰ|pʰl ũː|ɔ̃ː ŋ|-	pʰ|pʰl ũː|ɔ̃ː|uː ŋ|-
+553		314	Rupa	defeat (vi)	DEFEAT	pʰ ũː ŋ	pʰ|pʰl ũː|- ŋ|k	pʰ|pʰl|p ũː|-|ɔ ŋ|k|-
+554		314	Shergaon	defeat (vi)	DEFEAT	pʰ ɔ̃ː ŋ	pʰ|p ɔ̃ː|- ŋ|k	pʰ|p ɔ̃ː|- ŋ|k|-
+555		315	Jerigaon	deity, ghost	DEITYGHOST	l ɔː	l ɔː	l ɔː
+556	?	315	Shergaon	deity, ghost	DEITYGHOST	l Ø	l Ø	l Ø
+557		316	Duhumbi	deity, ghost	_ma-prefix10	m u	m u|a	m u|a|i
+558		316	Jerigaon	deity, ghost	_ma-prefix10	m ə	m ə|-	m ə|-|ɔː
+559		316	Khispi	deity, ghost	_ma-prefix10	m u	m|p u|a	m|p u|a|i
+560		316	Rupa	deity, ghost	_ma-prefix10	m ə	m|b ə|-	m|b ə|-|ɔ
+561		316	Shergaon	deity, ghost	_ma-prefix10	m ə	m|b ə|i	m|b ə|i|u
+562		318	Jerigaon	descend	DESCEND	j yː	j|m yː	j|m yː
+563		318	Shergaon	descend	DESCEND	j iː	j iː|yː	j iː|yː|i
+564	?	320	Khoina	dig	DIG	Ø ɔ k	Ø ɔ|ɔː k	Ø ɔ|ɔː k
+565	?	320	Khoitam	dig	DIG	Ø ɔ k	Ø ɔ k	Ø ɔ k
+566	?	320	Shergaon	dig	DIG	Ø ɔ k	Ø ɔ k|t	Ø ɔ k|t
+567		321	Duhumbi	dirty	DIRTY	ʑ ɛ t	ʑ|ɕ ɛ|ɛˀ t	ʑ|ɕ|z ɛ|ɛˀ t
+568		321	Khispi	dirty	DIRTY	ʑ ɛ t	ʑ|z ɛ|ɛː t	ʑ|z|ɕ ɛ|ɛː t
+569		322	Duhumbi	soft / smooth	SMOOTH	d ɔ ŋ	d|t ɔ|a ŋ|m	d|t ɔ|a|u ŋ|m|-
+570		322	Khispi	soft / smooth	SMOOTH	d ɔ ŋ	d|t ɔ|a ŋ|m	d|t ɔ|a|u ŋ|m|l
+571	?	324	Duhumbi	disease	DISEASE	Ø ɔ ŋ	Ø ɔ|a ŋ|m	Ø ɔ|a|u ŋ|m|-
+572	?	324	Khispi	disease	DISEASE	Ø ɔ ŋ	Ø ɔ|a ŋ|m	Ø ɔ|a|u ŋ|m|l
+573	?	324	Shergaon	disease	DISEASE	Ø u ŋ	Ø u ŋ	Ø u ŋ
+574		326	Duhumbi	pull	pull	g i	g|kʰ i|ɛj	g|kʰ|h i|ɛj|u
+575		326	Khispi	pull	pull	g i	g|kʰ i|uj	g|kʰ i|uj|u
+576		326	Rupa	pull	pull	g iː	g iː|yː	g iː|yː
+577		326	Shergaon	pull	pull	g iː	g|k iː|i	g|k iː|i
+578		328	Duhumbi	few, little	FEW	tɕʰ i	tɕʰ|kʰ i|ɛj	tɕʰ|kʰ|k i|ɛj|ɛ
+579		328	Khispi	few, little	FEW	tɕʰ i	tɕʰ|kʰ i|u	tɕʰ|kʰ|tɕ i|u|ej
+580		328	Rupa	few, little	FEW	tɕʰ aː	tɕʰ|ʨʰ aː	tɕʰ|ʨʰ|tsʰ aː
+581		328	Shergaon	few, little	FEW	tɕʰ aː	tɕʰ|kʰ aː|i	tɕʰ|kʰ aː|i
+582	?	330	Duhumbi	dog, wild	DHOLE	Ø a -	Ø a -|ŋ	Ø a -|ŋ
+583	?	330	Khispi	dog, wild	DHOLE	Ø Ø -	Ø Ø -|w	Ø Ø -|w
+584	?	330	Khoitam	dog, wild	DHOLE	Ø Ø -	Ø Ø -|m	Ø Ø -|m
+585	?	332	Rahung	down	DOWN	b Ø	b Ø	b Ø
+586		333	Jerigaon	down (visible)	DOWNVIS	kʰ a	kʰ a	kʰ a
+587		333	Khoina	down (visible)	DOWNVIS	x ə	x ə|a	x ə|a|aː
+588		333	Rupa	down (visible)	DOWNVIS	kʰ a	kʰ a|-	kʰ a|-
+589		333	Shergaon	down (visible)	DOWNVIS	kʰ -	kʰ -|a	kʰ -|a
+590		334	Duhumbi	dragon, thunder, lightning	THUNDER	tɕʰ ɔj	tɕʰ|ɕ ɔj|ɛ	tɕʰ|ɕ|tsʰ ɔj|ɛ
+591		334	Jerigaon	dragon, thunder, lightning	THUNDER	tɕʰ aː	tɕʰ|s aː|ɔː	tɕʰ|s|tɕ aː|ɔː|ɛː
+592		334	Khispi	dragon, thunder, lightning	THUNDER	tɕʰ uj	tɕʰ|ɕ uj|e	tɕʰ|ɕ|tsʰ uj|e
+593		334	Khoitam	dragon, thunder, lightning	THUNDER	tɕʰ aː	tɕʰ|s aː|ɛː	tɕʰ|s|z aː|ɛː|ə
+594		334	Rupa	dragon, thunder, lightning	THUNDER	tɕʰ aː	tɕʰ|tsʰ aː	tɕʰ|tsʰ|ʨʰ aː
+595		334	Shergaon	dragon, thunder, lightning	THUNDER	tɕʰ aː	tɕʰ|tsʰ aː	tɕʰ|tsʰ aː
+596	?	335	Duhumbi	lightning	sky-prefix3	n Ø Ø	n Ø Ø	n Ø Ø
+597		344	Duhumbi	child	_na-prefix8	n u	n|h u|a	n|h|ɲ u|a|i
+598		344	Jerigaon	child	_na-prefix8	n ə	n|h ə|-	n|h ə|-|a
+599		344	Khispi	child	_na-prefix8	n u	n|h u|a	n|h|ɲ u|a|i
+600		344	Khoina	child	_na-prefix8	n ə	n|r ə|a	n|r|h ə|a|y
+601		344	Khoitam	child	_na-prefix8	n ə	n ə|-	n ə|-|u
+602		344	Rahung	child	_na-prefix8	n ə	n|m ə|-	n|m|pʰ ə|-|a
+603		345	Jerigaon	dual	_dual	z i ɹ	z i|ĩː ɹ|ŋ	z i|ĩː|yː ɹ|ŋ
+604	?	345	Khoina	dual	_dual	Ø i -	Ø i|ĩː -|ŋ	Ø i|ĩː|y -|ŋ|n
+605		345	Khoitam	dual	_dual	z i -	z i|- -	z i|- -
+606	?	346	Jerigaon	eagle, buzzard	EAGLE	Ø y ŋ	Ø y ŋ	Ø y ŋ
+607	?	346	Khoina	eagle, buzzard	EAGLE	Ø a ŋ	Ø a ŋ|-	Ø a ŋ|-
+608	?	346	Shergaon	eagle, buzzard	EAGLE	Ø Ø ŋ	Ø Ø ŋ	Ø Ø ŋ
+609		347	Jerigaon	quarrel (v)	quarrelv	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|tɕ u|ɔ|ə ŋ|-|n
+610		347	Khoina	quarrel (v)	quarrelv	ʂ u ŋ	ʂ|tsʰ u|ɔ ŋ|-	ʂ|tsʰ|ɕ u|ɔ|y ŋ|-|n
+611		347	Khoitam	quarrel (v)	quarrelv	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|m
+612		347	Rahung	quarrel (v)	quarrelv	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|m
+613		347	Rupa	quarrel (v)	quarrelv	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|m
+614		347	Shergaon	quarrel (v)	quarrelv	s u ŋ	s|tɕʰ u|ɔ ŋ|-	s|tɕʰ|z u|ɔ|a ŋ|-|m
+615	?	348	Jerigaon	eagle, buzzard	_bird-prefix	Ø ə	Ø ə|ɔ̃	Ø ə|ɔ̃|ɔː
+616	?	348	Khoina	eagle, buzzard	_bird-prefix	Ø ə	Ø ə|ɔː	Ø ə|ɔː
+617	?	348	Shergaon	eagle, buzzard	_bird-prefix	Ø u	Ø u|y	Ø u|y
+618		351	Duhumbi	ear	LEAF	l ɛ p	l|ɹ ɛ|a p|-	l|ɹ|n ɛ|a|aj p|-|j
+619		351	Khispi	ear	LEAF	l ɛ p	l ɛ|e p|-	l ɛ|e|ɔ p|-
+620		351	Khoina	ear	LEAF	l ɛ -	l|h ɛ|a -	l|h ɛ|a|i -
+621		351	Khoitam	ear	LEAF	l a p	l|r a|ɛ p|-	l|r a|ɛ|i p|-
+622		351	Rahung	ear	LEAF	l ɛ p	l|r ɛ|a p|-	l|r|ɹ ɛ|a|ɔ p|-
+623		351	Rupa	ear	LEAF	l a p	l a|ə p|-	l a|ə|iː p|-
+624	?	352	Duhumbi	earthworm	EARTHWORM	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+625	?	352	Shergaon	earthworm	EARTHWORM	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+626		353	Duhumbi	earthworm	_insect-prefix	pʰ u	pʰ u	pʰ u
+627		353	Jerigaon	earthworm	_insect-prefix	pʰ o	pʰ|h o	pʰ|h o
+628		353	Khoina	earthworm	_insect-prefix	pʰ ɔː	pʰ|f ɔː	pʰ|f ɔː
+629		353	Rahung	earthworm	_insect-prefix	pʰ oː	pʰ|h oː	pʰ|h oː
+630	?	353	Shergaon	earthworm	_insect-prefix	pʰ Ø	pʰ Ø	pʰ Ø
+631		354	Duhumbi	earthworm	?	h a	h|hw a|u	h|hw|w a|u
+632		354	Jerigaon	earthworm	?	h ɐ̃ː	h ɐ̃ː|ɔ̃ː	h ɐ̃ː|ɔ̃ː|ə
+633		354	Khispi	earthworm	?	h a	h|hw a|u	h|hw|ɕ a|u
+634		354	Khoina	earthworm	?	x ɐ̃ː	x|h ɐ̃ː|ɔ̃ː	x|h|f ɐ̃ː|ɔ̃ː
+635		354	Shergaon	earthworm	?	h ɔ̃ː	h|k ɔ̃ː	h|k|n ɔ̃ː
+636		355	Duhumbi	earthworm	?	l ɛj	l|n ɛj|ɔj	l|n|ɲ ɛj|ɔj
+637		355	Khispi	earthworm	?	l ej	l|ɲ ej|uj	l|ɲ ej|uj
+638		355	Khoitam	earthworm	?	l ɛː	l|r ɛː|aː	l|r ɛː|aː
+639		355	Rahung	earthworm	?	l ɛː	l|r ɛː|ə	l|r|ɹ ɛː|ə
+640		355	Rupa	earthworm	?	l aː	l|d aː	l|d aː
+641		355	Shergaon	earthworm	?	l aː	l|- aː	l|- aː
+642		356	Duhumbi	earthworm	?	kʰ	kʰ|k	kʰ|k|kʰɹ
+643		356	Khispi	earthworm	?	kʰ	kʰ|k	kʰ|k
+644		356	Khoitam	earthworm	?	kʰ	kʰ|h	kʰ|h
+645		356	Rahung	earthworm	?	kʰ	kʰ|pʰ	kʰ|pʰ
+646		356	Rupa	earthworm	?	kʰ	kʰ|k	kʰ|k
+647		356	Shergaon	earthworm	?	kʰ	kʰ|k	kʰ|k
+648		358	Shergaon	egg	EGG	h u ŋ	h u ŋ	h u ŋ
+649		359	Jerigaon	mouth	?	n ə	n ə|u	n ə|u|y
+650		359	Khoina	mouth	?	n ə	n|r ə|a	n|r ə|a|y
+651		359	Khoitam	mouth	?	n -	n -|ə	n -|ə|y
+652		359	Rahung	mouth	?	n ə	n|m ə|i	n|m|pʰ ə|i|-
+653	?	366	Khispi	elbow	ELBOW1	Ø i	Ø i	Ø i
+654	?	367	Duhumbi	elbow	ELBOW2	h Ø	h|ɬ Ø	h|ɬ Ø
+655	?	367	Khispi	elbow	ELBOW2	h Ø	h Ø	h Ø
+656		368	Duhumbi	elbow	HAND2	i k	i|u k|-	i|u|iˀ k|-|ŋ
+657		368	Khispi	elbow	HAND2	i k	i|u k|-	i|u k|-|ŋ
+658	?	372	Duhumbi	elephant	_sa-prefix	ɕ Ø	ɕ|s Ø	ɕ|s Ø
+659	?	372	Khispi	elephant	_sa-prefix	ɕ Ø	ɕ Ø	ɕ Ø
+660		373	Duhumbi	elephant	ELEPHANT	tʰ ɔ ŋ	tʰ ɔ|ɔˀ ŋ|m	tʰ ɔ|ɔˀ ŋ|m|-
+661		373	Khispi	elephant	ELEPHANT	tʰj ɔ ŋ	tʰj ɔ ŋ|m	tʰj ɔ ŋ|m|l
+662		374	Duhumbi	elephant	_sang-prefix	ɕ ɛ -	ɕ|s ɛ -	ɕ|s ɛ -
+663		374	Khispi	elephant	_sang-prefix	ɕ e -	ɕ e|ɛ -	ɕ e|ɛ -
+664		374	Rupa	elephant	_sang-prefix	s ə -	s|ɕ ə|ɛ -	s|ɕ ə|ɛ -
+665		374	Shergaon	elephant	_sang-prefix	s a -	s|ɕ a -	s|ɕ a -
+666		376	Jerigaon	spit	?	h i -	h|n i|iː -|n	h|n|r i|iː|ə -|n|ŋ
+667		376	Khoina	spit	?	x i -	x|h i|iː -|n	x|h|n i|iː|aː -|n|ŋ
+668		376	Khoitam	spit	?	h i -	h|l i|iː -|n	h|l|n i|iː|ə -|n|ŋ
+669		376	Rahung	spit	?	h i -	h|l i|iː -|n	h|l|n i|iː|ə -|n|ŋ
+670		376	Rupa	spit	?	h i -	h|n i|iː -|n	h|n|l i|iː|ə -|n|ŋ
+671		376	Shergaon	spit	?	h i -	h|n i|iː -|n	h|n|l i|iː|ə -|n|ŋ
+672		377	Duhumbi	frying pan	FRYPAN	j i	j|w i|ɛj	j|w|dʑ i|ɛj|ɛ
+673		377	Jerigaon	frying pan	FRYPAN	j ɛː	j|m ɛː|aː	j|m ɛː|aː|ɛ
+674		377	Khispi	frying pan	FRYPAN	j i	j|w i|ej	j|w|g i|ej|e
+675		377	Shergaon	frying pan	FRYPAN	j aː	j|h aː|i	j|h aː|i
+676	?	378	Khoitam	excrete	EXCRETE	tɕʰ Ø -	tɕʰ|tsʰ Ø -	tɕʰ|tsʰ Ø -
+677		381	Duhumbi	deep	?	r u	r|d u|i	r|d|l u|i|ɔ
+678		381	Khispi	deep	?	l u	l|d u|i	l|d|n u|i|ɔ
+679		381	Khoina	deep	?	r yː	r yː|y	r yː|y|ĩː
+680		381	Rupa	deep	?	r yː	r yː|ɛː	r yː|ɛː|øː
+681		381	Shergaon	deep	?	r iː	r|t iː|yː	r|t iː|yː|i
+682	?	382	Shergaon	face	FACE1	m Ø	m Ø	m Ø
+683		383	Jerigaon	face	FACE2	z y k	z y k|-	z y k|-
+684		383	Khispi	face	FACE2	z u k	z|ʑ u|ɔ k|t	z|ʑ u|ɔ k|t
+685		383	Shergaon	face	FACE2	z u k	z u k|t	z u k|t
+686	?	384	Khoitam	falcon	FALCON1	Ø a ŋ	Ø a ŋ|-	Ø a ŋ|-
+687	?	384	Rahung	falcon	FALCON1	Ø a ŋ	Ø a|u ŋ|-	Ø a|u ŋ|-
+688	?	384	Rupa	falcon	FALCON1	Ø a -	Ø a -|ŋ	Ø a -|ŋ|w
+689	?	384	Shergaon	falcon	FALCON1	Ø a -	Ø a|ɔ -|ŋ	Ø a|ɔ -|ŋ
+690		386	Khoitam	falcon	FALCON2	k ə	k ə|yː	k ə|yː
+691		386	Rahung	falcon	FALCON2	k ə	k ə|a	k ə|a
+692		386	Rupa	falcon	FALCON2	k yː	k|g yː|ə	k|g yː|ə
+693		386	Shergaon	falcon	FALCON2	k iː	k iː|u	k iː|u
+694		387	Duhumbi	left (side)	?	a	a|-	a|-|ɛ
+695		387	Khispi	left (side)	?	a	a|e	a|e|ɔː
+696		387	Rahung	left (side)	?	ə	ə|-	ə|-|a
+697		387	Rupa	left (side)	?	ə	ə|a	ə|a|y
+698		387	Shergaon	left (side)	?	ə	ə|i	ə|i|a
+699		389	Jerigaon	pumpkin	?	s a	s|tɕ a|ɛ	s|tɕ|- a|ɛ|ə
+700		389	Khoina	pumpkin	?	ʂ a	ʂ|s a|i	ʂ|s|ɕ a|i|ɔ̃ː
+701		389	Khoitam	pumpkin	?	s a	s|tɕʰ a|ə	s|tɕʰ|z a|ə|ɔː
+702		389	Rahung	pumpkin	?	s a	s|tɕʰ a|-	s|tɕʰ|tɕ a|-|ɛ
+703		389	Rupa	pumpkin	?	s ə	s|tɕʰ ə|ɔː	s|tɕʰ|z ə|ɔː|oː
+704		390	Duhumbi	far	FAR	tɕʰ a	tɕʰ|ɕ a|u	tɕʰ|ɕ a|u
+705		390	Khispi	far	FAR	tɕʰ a	tɕʰ|d a|u	tɕʰ|d a|u
+706		391	Jerigaon	millet, broomcorn	?	tɕʰ ɐ k	tɕʰ ɐ k|-	tɕʰ ɐ k|-
+707		391	Khispi	millet, broomcorn	?	tɕ a k	tɕ a k|t	tɕ a k|t
+708		391	Khoitam	millet, broomcorn	?	tɕʰ a k	tɕʰ|tsʰ a k	tɕʰ|tsʰ a k
+709	?	392	Khispi	fast	FAST	Ø ɔ k	Ø ɔ k|t	Ø ɔ k|t
+710		393	Jerigaon	potato-bean	?	m ɛ n	m|w ɛ|a n|-	m|w|n ɛ|a|ə n|-
+711		393	Khispi	potato-bean	?	m ɛ n	m|p ɛ|e n|-	m|p ɛ|e|a n|-
+712		393	Khoina	potato-bean	?	m ɛ n	m|b ɛ|a n|-	m|b|w ɛ|a|ə n|-
+713		393	Rahung	potato-bean	?	m a n	m|pʰ a|ɛ n|-	m|pʰ|p a|ɛ|ə n|-
+714		393	Rupa	potato-bean	?	m a n	m|b a|ə n	m|b|ɲ a|ə|ɔ̃ n
+715		393	Shergaon	potato-bean	?	m a n	m|b a|ə n	m|b|ɲ a|ə|i n
+716	?	397	Shergaon	father	FATHER	Ø Ø	Ø Ø	Ø Ø
+717		398	Jerigaon	millet, foxtail	?	kʰ u	kʰ u|uː	kʰ u|uː
+718		398	Khispi	millet, foxtail	?	kʰ a	kʰ a	kʰ a
+719		398	Rahung	millet, foxtail	?	kʰ u	kʰ|pʰ u	kʰ|pʰ u
+720		399	Duhumbi	fear (vi)	FEAR	hw ɔ ŋ	hw|w ɔ|a ŋ|m	hw|w|kʰ ɔ|a|u ŋ|m|-
+721		399	Khispi	fear (vi)	FEAR	hw ɔ ŋ	hw|ɕ ɔ|a ŋ|m	hw|ɕ|h ɔ|a|u ŋ|m|l
+722		401	Khispi	amaranth	AMARANTH	k ɔ ŋ	k ɔ|a ŋ|-	k ɔ|a|u ŋ|-
+723		401	Khoina	amaranth	AMARANTH	k u ŋ	k|kʰ u|ə ŋ|-	k|kʰ|ʈʂʰ u|ə|ɐ̃ː ŋ|-|j
+724		401	Khoitam	amaranth	AMARANTH	k u ŋ	k u|- ŋ|-	k u|-|ɔː ŋ|-
+725		401	Rahung	amaranth	AMARANTH	k u ŋ	k|g u|ə ŋ|-	k|g u|ə|ɔ ŋ|-
+726		401	Rupa	amaranth	AMARANTH	k u ŋ	k|kʰ u|ə ŋ|-	k|kʰ|- u|ə|ɔ ŋ|-|k
+727		401	Shergaon	amaranth	AMARANTH	k u ŋ	k u|ə ŋ|-	k u|ə|ɔ̃ː ŋ|-|m
+728		403	Jerigaon	fence	FENCE	g u ŋ	g u|ɔ ŋ|-	g u|ɔ ŋ|-
+729		403	Khoina	fence	FENCE	g u ŋ	g u|ə ŋ|-	g u|ə|ũː ŋ|-|j
+730		403	Rupa	fence	FENCE	g u ŋ	g u|y ŋ|-	g u|y|ə ŋ|-|k
+731		403	Shergaon	fence	FENCE	g u ŋ	g|k u|ɔ ŋ|-	g|k u|ɔ|- ŋ|-|m
+732		406	Jerigaon	fetch	FETCH	l ɛˀ	l ɛˀ	l ɛˀ
+733		406	Khoina	fetch	FETCH	l a	l|h a	l|h a
+734		407	Duhumbi	year, next	?	s a ŋ	s a|ɔ ŋ|-	s a|ɔ|ɔː ŋ|-
+735		407	Jerigaon	year, next	?	s a ŋ	s|z a|ɐ ŋ|-	s|z a|ɐ|ɛˀ ŋ|-|n
+736		407	Khoina	year, next	?	s a ŋ	s|ʂ a|ɐ ŋ|-	s|ʂ|tsʰ a|ɐ|ə ŋ|-|j
+737		407	Rupa	year, next	?	s a ŋ	s a|u ŋ|-	s a|u|aː ŋ|-|k
+738		407	Shergaon	year, next	?	s a ŋ	s a|uː ŋ|-	s a|uː|aː ŋ|-|m
+739		408	Jerigaon	honey	?	tɕʰ y	tɕʰ|tɕ y|yː	tɕʰ|tɕ|pʰ y|yː|ə
+740		408	Khoina	honey	?	tsʰ yː	tsʰ|tɕʰ yː|y	tsʰ|tɕʰ|ʈʂʰ yː|y|ə
+741		408	Khoitam	honey	?	tɕʰ y	tɕʰ|pʰ y|yː	tɕʰ|pʰ|s y|yː|ə
+742		408	Rahung	honey	?	tɕʰ yː	tɕʰ|b yː|y	tɕʰ|b|tɕ yː|y|ə
+743		408	Rupa	honey	?	tɕʰ yː	tɕʰ|ʨʰ yː|y	tɕʰ|ʨʰ|tsʰ yː|y|ə
+744		408	Shergaon	honey	?	tɕʰ u	tɕʰ|b u|iː	tɕʰ|b|dʑ u|iː|ə
+745		411	Duhumbi	hornet	?	d u	d|tʰ u|i	d|tʰ|t u|i|a
+746		411	Jerigaon	hornet	?	d ə	d|tʰ ə|-	d|tʰ|s ə|-|u
+747		411	Khispi	hornet	?	d u	d|tʰ u|i	d|tʰ|t u|i|a
+748		411	Khoitam	hornet	?	d ə	d|tʰ ə|-	d|tʰ|tɕ ə|-|iː
+749		411	Rahung	hornet	?	d ə	d|tʰ ə|a	d|tʰ|kʰ ə|a|-
+750		411	Shergaon	hornet	?	d ə	d|tʰ ə|u	d|tʰ ə|u|i
+751	?	412	Duhumbi	finger	_a-prefix	Ø a	Ø a|ɔw	Ø a|ɔw|e
+752	?	412	Khoitam	finger	_a-prefix	Ø a	Ø a|u	Ø a|u|ə
+753	?	412	Rahung	finger	_a-prefix	Ø a	Ø a|ə	Ø a|ə|ɔ
+754	?	412	Rupa	finger	_a-prefix	Ø a	Ø a|ə	Ø a|ə|aˀ
+755	?	412	Shergaon	finger	_a-prefix	Ø a	Ø a|ɔ	Ø a|ɔ|aː
+756	?	413	Jerigaon	finger	FINGER	Ø ɔ	Ø ɔ	Ø ɔ
+757	?	413	Khispi	finger	FINGER	Ø a	Ø a	Ø a
+758	?	413	Khoina	finger	FINGER	Ø a	Ø a|ø	Ø a|ø|uː
+759	?	413	Rupa	finger	FINGER	Ø ɔ	Ø ɔ|øˀ	Ø ɔ|øˀ|-
+760	?	413	Shergaon	finger	FINGER	Ø ɔ	Ø ɔ|eˀ	Ø ɔ|eˀ|-
+761		417	Duhumbi	lightning	?	b a	b|p a|ɛ	b|p|bj a|ɛ|u
+762		417	Jerigaon	lightning	?	b a	b|pʰ a|ɛ	b|pʰ|h a|ɛ|ɐ
+763		417	Khispi	lightning	?	b a	b|tɕʰ a|ɛ	b|tɕʰ|p a|ɛ|ɔ
+764		417	Khoina	lightning	?	b a	b|pʰ a|ɛ	b|pʰ|f a|ɛ|ɐ
+765		417	Khoitam	lightning	?	b a	b|pʰ a|ɛ	b|pʰ|p a|ɛ|ɔː
+766		417	Rahung	lightning	?	b a	b|m a|ɛ	b|m|p a|ɛ|oː
+767	?	419	Jerigaon	flame	FLAME	Ø a -	Ø a|ɐ -	Ø a|ɐ|ɛ -
+768	?	419	Khispi	flame	FLAME	Ø a p	Ø a|ɔ p|-	Ø a|ɔ|ɛ p|-
+769	?	419	Khoina	flame	FLAME	Ø a -	Ø a|ɐ -	Ø a|ɐ|ə -
+770	?	419	Rahung	flame	FLAME	Ø a p	Ø a|ə p|-	Ø a|ə|i p|-
+771	?	419	Shergaon	flame	FLAME	Ø a p	Ø a|u p|k	Ø a|u|ɔ p|k
+772	?	420	Duhumbi	float	TAKE	tʰ ɔ Ø	tʰ|t ɔ Ø	tʰ|t|m ɔ Ø
+773	?	420	Khispi	float	TAKE	tʰ Ø Ø	tʰ|tʰj Ø Ø	tʰ|tʰj|t Ø Ø
+774	?	420	Khoina	float	TAKE	tʰ øː Ø	tʰ|d øː Ø	tʰ|d|t øː Ø
+775	?	420	Rupa	float	TAKE	tʰ ø Ø	tʰ|t ø Ø	tʰ|t|d ø Ø
+776	?	420	Shergaon	float	TAKE	tʰ Ø Ø	tʰ|t Ø Ø	tʰ|t|d Ø Ø
+777		421	Jerigaon	flee	FLEE	j ɛ ʔ	j|m ɛ ʔ	j|m ɛ ʔ
+778		421	Khoina	flee	FLEE	j ɛ ʔ	j ɛ ʔ|t	j ɛ ʔ|t
+779		422	Duhumbi	float	FLOAT	r ɛj	r|d ɛj	r|d|l ɛj
+780		422	Khispi	float	FLOAT	l ej	l|d ej	l|d|n ej
+781		422	Khoina	float	FLOAT	r aː	r aː	r aː
+782		422	Rupa	float	FLOAT	r aː	r aː	r aː
+783		422	Shergaon	float	FLOAT	r aː	r|t aː	r|t aː
+784		423	Jerigaon	dog	?	j a	j|w a|uː	j|w|r a|uː|ɐ
+785		423	Khoina	dog	?	j a	j|w a|uː	j|w|r a|uː|ɐ
+786		423	Khoitam	dog	?	j a	j|w a|uː	j|w|r a|uː|ə
+787		423	Rahung	dog	?	j a	j|w a|uː	j|w|r a|uː|-
+788		423	Rupa	dog	?	j a	j|w a|uː	j|w|r a|uː|ə
+789		423	Shergaon	dog	?	j a	j|w a|uː	j|w|r a|uː|ɔ̃ː
+790		427	Duhumbi	sister, younger	sisteryounger	r i ŋ	r|d i|u ŋ|m	r|d|l i|u|iˀ ŋ|m|-
+791		427	Khispi	sister, younger	sisteryounger	l i ŋ	l|d i|u ŋ|m	l|d|n i|u ŋ|m|l
+792		427	Khoina	sister, younger	sisteryounger	r i ŋ	r i|y ŋ|-	r i|y|u ŋ|-|n
+793		428	Duhumbi	flow	FLOW	h u ŋ	h|w u|i ŋ	h|w|kʰ u|i|ɛ ŋ
+794		428	Khispi	flow	FLOW	h u ŋ	h|ɕ u|ɔ ŋ	h|ɕ|j u|ɔ|a ŋ
+795		428	Rahung	flow	FLOW	h y ŋ	h|kʰ y|ə ŋ	h|kʰ y|ə|i ŋ
+796		428	Rupa	flow	FLOW	h y ŋ	h|kʰ y|i ŋ	h|kʰ y|i|u ŋ
+797		428	Shergaon	flow	FLOW	h u m	h|k u|ə m	h|k|kʰ u|ə|i m
+798		429	Jerigaon	sour	sour	tɕ y -	tɕ y|yː -|n	tɕ y|yː|ə -|n|ŋ
+799		429	Khoina	sour	sour	tɕ yː -	tɕ|dz yː|y -|n	tɕ|dz|ts yː|y|ə -|n|ŋ
+800		429	Khoitam	sour	sour	tɕ y -	tɕ|s y|yː -|m	tɕ|s y|yː|ə -|m|ŋ
+801		429	Rahung	sour	sour	tɕ yː m	tɕ|tɕʰ yː|y m|-	tɕ|tɕʰ yː|y|ə m|-|ŋ
+802		429	Rupa	sour	sour	z yː -	z|ts yː|y -|m	z|ts|tsʰ yː|y|ə -|m|ŋ
+803		429	Shergaon	sour	sour	tɕ u -	tɕ|tɕʰ u|iː -|m	tɕ|tɕʰ u|iː|ə -|m|ŋ
+804		430	Jerigaon	flow	FLOW	h ɔː	h|b ɔː	h|b ɔː
+805	?	430	Khispi	flow	FLOW	ɕ Ø	ɕ|w Ø	ɕ|w Ø
+806		430	Khoina	flow	FLOW	b ɔ̃ː	b ɔ̃ː	b ɔ̃ː
+807		430	Khoitam	flow	FLOW	h ũː	h ũː	h ũː
+808		430	Rahung	flow	FLOW	h ɔ	h ɔ|a	h ɔ|a
+809	?	431	Duhumbi	fly (n)	FLYN1	Ø i Ø	Ø i|ɛj Ø	Ø i|ɛj Ø
+810	?	431	Khispi	fly (n)	FLYN1	Ø i Ø	Ø i|ɔ Ø	Ø i|ɔ Ø
+811	?	431	Rahung	fly (n)	FLYN1	Ø ə Ø	Ø ə|ɔ Ø	Ø ə|ɔ Ø
+812	?	432	Duhumbi	fly (n)	_pa-prefix3	bj Ø -	bj Ø -|ŋ	bj Ø -|ŋ
+813	?	432	Khispi	fly (n)	_pa-prefix3	b Ø -	b Ø -	b Ø -
+814		433	Duhumbi	fly (n)	FLYN2	k ɔ ŋ	k|tɕ ɔ|ɔw ŋ|m	k|tɕ|ɕ ɔ|ɔw|ɔˀ ŋ|m|n
+815		433	Khispi	fly (n)	FLYN2	k ɔ ŋ	k|tɕ ɔ|ɔw ŋ|m	k|tɕ|ɕ ɔ|ɔw|o ŋ|m|n
+816		433	Khoitam	fly (n)	FLYN2	tɕ ɔ ŋ	tɕ|tɕʰ ɔ|u ŋ|-	tɕ|tɕʰ|ʨ ɔ|u|ɔː ŋ|-|m
+817		433	Rahung	fly (n)	FLYN2	tɕ ɔ ŋ	tɕ|tɕʰ ɔ|o ŋ|-	tɕ|tɕʰ ɔ|o|oː ŋ|-|m
+818		433	Rupa	fly (n)	FLYN2	k ɔ ŋ	k|z ɔ|a ŋ|n	k|z|tɕʰ ɔ|a|aw ŋ|n|k
+819		433	Shergaon	fly (n)	FLYN2	tɕ ɔ ŋ	tɕ|kʰ ɔ|a ŋ|n	tɕ|kʰ ɔ|a|aw ŋ|n|-
+820	?	435	Duhumbi	sparrow	sparrow	h Ø a	h|ɬ Ø a	h|ɬ Ø a
+821	?	435	Jerigaon	sparrow	sparrow	Ø Ø ɛ	Ø Ø ɛ|uː	Ø Ø ɛ|uː
+822	?	435	Khispi	sparrow	sparrow	h Ø a	h Ø a	h Ø a
+823	?	435	Khoina	sparrow	sparrow	h Ø i	h Ø i|ɐːʰ	h Ø i|ɐːʰ
+824	?	435	Khoitam	sparrow	sparrow	l Ø a	l Ø a	l Ø a
+825	?	435	Rahung	sparrow	sparrow	l Ø ɛ	l Ø ɛ|-	l Ø ɛ|-
+826	?	436	Jerigaon	fodder	FODDER	Ø Ø	Ø Ø	Ø Ø
+827	?	436	Shergaon	fodder	FODDER	Ø ɔ	Ø ɔ	Ø ɔ
+828	?	437	Duhumbi	food	FOOD	h Ø	h|kʰ Ø	h|kʰ|ɕ Ø
+829	?	438	Duhumbi	forehead	_ma-prefix13	m Ø	m Ø	m Ø
+830	?	438	Khispi	forehead	_ma-prefix13	m Ø	m|p Ø	m|p Ø
+831		439	Duhumbi	excrement	FAECES	j ɛj	j|w ɛj	j|w|- ɛj
+832		439	Khispi	excrement	FAECES	j ej	j|w ej	j|w|- ej
+833	?	440	Duhumbi	forest	FOREST2	ɕ Ø Ø	ɕ|s Ø Ø	ɕ|s Ø Ø
+834	?	440	Khispi	forest	FOREST2	ɕ Ø Ø	ɕ Ø Ø	ɕ Ø Ø
+835	?	441	Jerigaon	forest	FOREST1	Ø a ŋ	Ø a|ɐ ŋ|-	Ø a|ɐ|ɛˀ ŋ|-|ɹ
+836	?	441	Khoina	forest	FOREST1	Ø a ŋ	Ø a|ɐ ŋ|-	Ø a|ɐ|ɔ̃ː ŋ|-|n
+837	?	441	Khoitam	forest	FOREST1	Ø a ŋ	Ø a|ɔ̃ː ŋ|-	Ø a|ɔ̃ː|ə ŋ|-
+838	?	441	Rahung	forest	FOREST1	Ø a ŋ	Ø a|ɔ̃ː ŋ|k	Ø a|ɔ̃ː|ə ŋ|k
+839		442	Duhumbi	garlic	?	s i ŋ	s|ɕ i|u ŋ|m	s|ɕ|h i|u|iˀ ŋ|m|-
+840		442	Khispi	garlic	?	s i ŋ	s|ɕ i|u ŋ|m	s|ɕ|h i|u|ɔ ŋ|m|l
+841		442	Rahung	garlic	?	s i ŋ	s i|ɔ ŋ	s i|ɔ ŋ
+842	?	443	Duhumbi	forest	PEAK	r Ø	r|d Ø	r|d|l Ø
+843		443	Khispi	forest	PEAK	l i	l|d i	l|d|h i
+844		443	Khoitam	forest	PEAK	r ə	r|l ə	r|l ə
+845		443	Rahung	forest	PEAK	r ə	r|n ə	r|n ə
+846		443	Rupa	forest	PEAK	r a	r|l a	r|l|ɲ a
+847		443	Shergaon	forest	PEAK	r ə	r|l ə	r|l|t ə
+848	?	444	Duhumbi	forget	FORGET	Ø a k	Ø a k	Ø a k
+849		447	Jerigaon	friend	FRIEND1	r ɔ k	r ɔ|a k|-	r ɔ|a|u k|-
+850		447	Khoitam	friend	FRIEND1	r ɔ k	r ɔ|a k|-	r ɔ|a|yː k|-
+851		447	Rahung	friend	FRIEND1	r ɔ k	r ɔ|øː k|-	r ɔ|øː k|-
+852		448	Duhumbi	friend	_kha-prefix7	kʰ i	kʰ|g i	kʰ|g|k i
+853		448	Khispi	friend	_kha-prefix7	kʰ i	kʰ|g i	kʰ|g i
+854		448	Rupa	friend	_kha-prefix7	g ə	g|kʰ ə	g|kʰ ə
+855		448	Shergaon	friend	_kha-prefix7	kʰ i	kʰ|g i	kʰ|g i
+856		449	Duhumbi	sparrow	sparrow	ts o m	ts|tɕ o|ɛ m|ŋ	ts|tɕ|k o|ɛ|ɔ m|ŋ|-
+857		449	Jerigaon	sparrow	sparrow	tɕ ɔ n	tɕ|s ɔ|ə n|m	tɕ|s|tɕʰ ɔ|ə|o n|m|-
+858		449	Khispi	sparrow	sparrow	ts o m	ts|tɕ o|e m|ŋ	ts|tɕ|k o|e|ɔ m|ŋ|-
+859		449	Khoina	sparrow	sparrow	ts ɔ n	ts|tɕ ɔ|ɛ n|m	ts|tɕ|d ɔ|ɛ n|m|-
+860		449	Rupa	sparrow	sparrow	ts a m	ts|k a|o m|-	ts|k|z a|o m|-|ŋ
+861		449	Shergaon	sparrow	sparrow	tɕ a m	tɕ|kʰ a|o m|-	tɕ|kʰ|s a|o m|-
+862	?	452	Duhumbi	frog	PEAK	r Ø	r|d Ø	r|d|l Ø
+863	?	452	Khispi	frog	PEAK	l Ø	l|d Ø	l|d|n Ø
+864	?	452	Shergaon	frog	PEAK	r Ø	r|t Ø	r|t Ø
+865		453	Jerigaon	frog	FOREST	d y ŋ	d|r y|yː ŋ|-	d|r|s y|yː|ə ŋ|-|n
+866		453	Khoina	frog	FOREST	d yː ŋ	d|r yː|y ŋ|-	d|r|t yː|y|ə ŋ|-|n
+867		453	Khoitam	frog	FOREST	d y ŋ	d|r y|yː ŋ|-	d|r|t y|yː|ə ŋ|-|m
+868		453	Rahung	frog	FOREST	d yː ŋ	d|r yː|y ŋ|-	d|r|tɕʰ yː|y|ə ŋ|-|m
+869		453	Rupa	frog	FOREST	d yː ŋ	d|r yː|y ŋ|-	d|r|t yː|y|ə ŋ|-|m
+870		453	Shergaon	frog	FOREST	d u ŋ	d|r u|iː ŋ|-	d|r|tɕʰ u|iː|ə ŋ|-|m
+871		454	Khoina	okay	?	ɐː -	ɐː|uː -	ɐː|uː -
+872		454	Rupa	okay	?	ɔ -	ɔ|- -|j	ɔ|- -|j
+873		454	Shergaon	okay	?	- -	- -|j	- -|j
+874	?	455	Duhumbi	frog	_kha-prefix8	Ø u	Ø u|a	Ø u|a|ɔː
+875	?	455	Khispi	frog	_kha-prefix8	Ø u	Ø u|a	Ø u|a|-
+876	?	455	Khoina	frog	_kha-prefix8	Ø a	Ø a|ə	Ø a|ə|-
+877	?	455	Shergaon	frog	_kha-prefix8	Ø ə	Ø ə|-	Ø ə|-|a
+878	?	458	Jerigaon	wait	?	Ø a ŋ	Ø a|ɛˀ ŋ	Ø a|ɛˀ ŋ
+879		458	Rahung	wait	?	ɹ a ŋ	ɹ a|ə ŋ|-	ɹ a|ə|u ŋ|-
+880		458	Shergaon	wait	?	l a ŋ	l a|ɔ ŋ|-	l a|ɔ ŋ|-
+881		459	Khispi	rain (n)	?	tsʰ u	tsʰ u	tsʰ u
+882	?	459	Shergaon	rain (n)	?	Ø Ø	Ø Ø	Ø Ø
+883	?	460	Duhumbi	frying pan	_kha-prefix9	kʰ Ø	kʰ|kʰɹ Ø	kʰ|kʰɹ|k Ø
+884	?	460	Jerigaon	frying pan	_kha-prefix9	kʰ Ø	kʰ Ø	kʰ Ø
+885	?	460	Khispi	frying pan	_kha-prefix9	kʰ Ø	kʰ Ø	kʰ Ø
+886	?	460	Shergaon	frying pan	_kha-prefix9	kʰ Ø	kʰ Ø	kʰ Ø
+887		461	Duhumbi	that side	?	ɔ	ɔ|ɔˀ	ɔ|ɔˀ|ɛj
+888		461	Jerigaon	that side	?	ɔ	ɔ|ə	ɔ|ə|ɐ
+889		461	Khoina	that side	?	ɔ	ɔ|y	ɔ|y|ɐ̃ː
+890		461	Rahung	that side	?	ɔ	ɔ|o	ɔ|o|-
+891		461	Rupa	that side	?	ɔ	ɔ|ɔ̃ː	ɔ|ɔ̃ː|ɔ̃
+892		461	Shergaon	that side	?	ɔ	ɔ|o	ɔ|o|a
+893		462	Khoina	full	_ba-suffix	b a	b a|ə	b a|ə|aː
+894		462	Khoitam	full	_ba-suffix	b a	b a|ũː	b a|ũː
+895		462	Shergaon	full	_ba-suffix	b a	b a	b a
+896		463	Jerigaon	much	?	k a	k|tɕ a|uː	k|tɕ|kʰ a|uː|ɐ
+897		463	Khoina	much	?	k a	k|kʰ a|uː	k|kʰ|tɕ a|uː|ɐ
+898		463	Khoitam	much	?	k a	k|tɕ a|uː	k|tɕ|h a|uː|ə
+899		463	Rahung	much	?	k a	k|tɕ a|uː	k|tɕ|kʰ a|uː|-
+900		463	Rupa	much	?	k a	k|kʰ a|uː	k|kʰ|h a|uː|ə
+901		463	Shergaon	much	?	k a	k|kʰ a|uː	k|kʰ a|uː|ɔ̃ː
+902		465	Duhumbi	gall, bile	GALL	ɕ i	ɕ i|iˀ	ɕ i|iˀ|u
+903		466	Duhumbi	fruit	FRUIT	l a ŋ	l|ɬ a|ɛ ŋ|m	l|ɬ a|ɛ|ɔ ŋ|m|-
+904		466	Jerigaon	fruit	FRUIT	l a ŋ	l a|ɐ ŋ|-	l a|ɐ|ɛ ŋ|-
+905		466	Khispi	fruit	FRUIT	l a ŋ	l a|ɔ ŋ|m	l a|ɔ|ɛ ŋ|m|l
+906		466	Khoina	fruit	FRUIT	l a ŋ	l|h a|ɐ ŋ|-	l|h a|ɐ|ɛ ŋ|-|n
+907		468	Jerigaon	garden	GARDEN2	tɕʰ ø ɹ	tɕʰ ø|ɛ ɹ	tɕʰ ø|ɛ|- ɹ
+908		468	Khoina	garden	GARDEN2	tsʰ ø ɹ	tsʰ|tɕʰ ø|ə ɹ	tsʰ|tɕʰ|ʈʂʰ ø|ə|i ɹ
+909		468	Rahung	garden	GARDEN2	tɕʰ ø ɹ	tɕʰ ø|- ɹ	tɕʰ ø|-|eː ɹ
+910		468	Rupa	garden	GARDEN2	tɕʰ ɔ ɹ	tɕʰ|ʨʰ ɔ|ə ɹ	tɕʰ|ʨʰ|tsʰ ɔ|ə|y ɹ
+911		468	Shergaon	garden	GARDEN2	tɕʰ ɔ ɹ	tɕʰ ɔ|u ɹ	tɕʰ ɔ|u|a ɹ
+912		469	Jerigaon	garden	GARDEN1	s ɔ ɹ	s|z ɔ|ɔ̃ː ɹ	s|z ɔ|ɔ̃ː|ɛːʰ ɹ
+913		469	Khoina	garden	GARDEN1	s aː ɹ	s|ʂ aː|ɔ̃ː ɹ	s|ʂ aː|ɔ̃ː|øː ɹ
+914		469	Khoitam	garden	GARDEN1	s ɔː ɹ	s ɔː|ĩː ɹ	s ɔː|ĩː|ɛːʰ ɹ
+915		469	Rahung	garden	GARDEN1	s ɔ ɹ	s ɔ|yː ɹ	s ɔ|yː|ɛːʰ ɹ
+916		469	Rupa	garden	GARDEN1	s aː ɹ	s aː|ɔ̃ː ɹ	s aː|ɔ̃ː|ø ɹ
+917		469	Shergaon	garden	GARDEN1	s aː ɹ	s aː|a ɹ	s aː|a|ɔ ɹ
+918		471	Rahung	garlic	CHILI	m ø k	m|pʰ ø k	m|pʰ|- ø k
+919		472	Jerigaon	wet	?	s i ŋ	s|- i|ĩː ŋ|-	s|- i|ĩː|yː ŋ|-
+920		472	Khoina	wet	?	ʂ i ŋ	ʂ|ɕ i|ĩː ŋ|-	ʂ|ɕ|s i|ĩː|y ŋ|-|n
+921		472	Rupa	wet	?	s i ŋ	s i|y ŋ	s i|y|iː ŋ
+922		475	Khoina	keep, remain	?	r uː	r uː|-	r uː|-|yː
+923		475	Khoitam	keep, remain	?	r uː	r uː|-	r uː|-|ũː
+924		475	Rahung	keep, remain	?	r uː	r uː|-	r uː|-|a
+925		475	Shergaon	keep, remain	?	r uː	r|t uː	r|t uː
+926		476	Duhumbi	goat	goat	zj -	zj -	zj -
+927		476	Khispi	goat	goat	z u	z|dʑ u	z|dʑ u
+928		477	Khoina	goitre	goitre	d a	d a|ə	d a|ə
+929	?	478	Khoina	goitre	goitre	r Ø -	r Ø -	r Ø -
+930		480	Jerigaon	soda ash	SODAASH	r iː	r iː|yː	r iː|yː
+931		480	Khispi	soda ash	SODAASH	l i	l|ɕ i	l|ɕ i
+932		480	Khoitam	soda ash	SODAASH	r iː	r iː|-	r iː|-
+933		480	Shergaon	soda ash	SODAASH	r iː	r iː|i	r iː|i
+934	?	481	Khispi	good	good	Ø Ø p	Ø Ø p|-	Ø Ø p|-
+935		482	Jerigaon	shoulder	?	t y ŋ	t|tʰ y|yː ŋ|-	t|tʰ|d y|yː|ə ŋ|-|n
+936		482	Khoina	shoulder	?	t yː ŋ	t|tʰ yː|y ŋ|-	t|tʰ|d yː|y|ə ŋ|-|n
+937		482	Khoitam	shoulder	?	t y ŋ	t|tʰ y|yː ŋ|-	t|tʰ|d y|yː|ə ŋ|-|m
+938		482	Rahung	shoulder	?	t yː ŋ	t|tʰ yː|y ŋ|-	t|tʰ|d yː|y|ə ŋ|-|m
+939		482	Rupa	shoulder	?	t yː ŋ	t|tʰ yː|y ŋ|-	t|tʰ|d yː|y|ə ŋ|-|m
+940		482	Shergaon	shoulder	?	t u ŋ	t|tʰ u|iː ŋ|-	t|tʰ|d u|iː|ə ŋ|-|m
+941		483	Khoina	goral	goral	z ɛ n	z ɛ n	z ɛ n
+942		484	Duhumbi	gourd	gourd	kʰ a	kʰ|kʰɹ a	kʰ|kʰɹ|k a
+943		484	Jerigaon	gourd	gourd	kʰ -	kʰ|g -|uː	kʰ|g -|uː
+944		484	Khoitam	gourd	gourd	kʰ -	kʰ|g -|ə	kʰ|g -|ə
+945		484	Rupa	gourd	gourd	kʰ -	kʰ|k -|uː	kʰ|k|g -|uː
+946		484	Shergaon	gourd	gourd	kʰ -	kʰ|k -|uː	kʰ|k -|uː
+947		485	Duhumbi	gourd	gourd	tɕʰ ɔ ŋ	tɕʰ|ɕ ɔ ŋ	tɕʰ|ɕ ɔ ŋ
+948		485	Jerigaon	gourd	gourd	tɕʰ u ŋ	tɕʰ u|ɔ ŋ|-	tɕʰ u|ɔ ŋ|-
+949		485	Khoitam	gourd	gourd	tɕʰ u ŋ	tɕʰ u ŋ|-	tɕʰ u ŋ|-
+950		485	Rupa	gourd	gourd	tɕʰ u ŋ	tɕʰ|ʨʰ u|y ŋ|k	tɕʰ|ʨʰ|kʰ u|y|- ŋ|k|-
+951		485	Shergaon	gourd	gourd	tɕʰ u ŋ	tɕʰ u|ɔ ŋ|k	tɕʰ u|ɔ|- ŋ|k|-
+952		486	Duhumbi	grandfather	grandfather	s a	s|ɕ a|ɔw	s|ɕ|ts a|ɔw|e
+953		486	Jerigaon	grandfather	grandfather	s uː	s|z uː|u	s|z uː|u
+954		486	Khispi	grandfather	grandfather	s a	s|ɕ a|ɔw	s|ɕ|ts a|ɔw|e
+955		486	Khoitam	grandfather	grandfather	s uː	s|ts uː	s|ts uː
+956		486	Shergaon	grandfather	grandfather	s uː	s uː	s uː
+957		488	Jerigaon	angry (vi)	ANGRY1	tɕʰ i k	tɕʰ|tɕ i|iː k|-	tɕʰ|tɕ i|iː|ə k|-|ŋ
+958		488	Khoina	angry (vi)	ANGRY1	tsʰ i k	tsʰ|ts i|iː k|-	tsʰ|ts i|iː|aː k|-|ŋ
+959		488	Khoitam	angry (vi)	ANGRY1	tɕʰ i k	tɕʰ|tɕ i|iː k|-	tɕʰ|tɕ i|iː|ə k|-|ŋ
+960		488	Rahung	angry (vi)	ANGRY1	tɕʰ i k	tɕʰ|tɕ i|iː k|ŋ	tɕʰ|tɕ i|iː|ə k|ŋ|-
+961		488	Rupa	angry (vi)	ANGRY1	tɕʰ i k	tɕʰ|tsʰ i|iː k|ŋ	tɕʰ|tsʰ|ts i|iː|ə k|ŋ
+962		488	Shergaon	angry (vi)	ANGRY1	tɕ i k	tɕ i|iː k|-	tɕ i|iː|ə k|-|ŋ
+963		491	Duhumbi	green	green	ɔ	ɔ|ɔˀ	ɔ|ɔˀ
+964		491	Khispi	green	green	ɔ	ɔ	ɔ
+965	?	495	Jerigaon	gum	gum	Ø ĩː Ø	Ø ĩː|yː Ø	Ø ĩː|yː|ɛ̃ĩ Ø
+966	?	495	Khispi	gum	gum	Ø i Ø	Ø i Ø	Ø i Ø
+967	?	495	Khoitam	gum	gum	Ø i Ø	Ø i|- Ø	Ø i|-|ĩː Ø
+968	?	495	Shergaon	gum	gum	Ø i Ø	Ø i Ø	Ø i Ø
+969	?	498	Duhumbi	hail	hail	n Ø -	n|h Ø -|m	n|h|ɲ Ø -|m
+970	?	498	Khispi	hail	hail	n Ø -	n|h Ø -|m	n|h|ɲ Ø -|m
+971	?	498	Shergaon	hail	hail	n Ø -	n Ø -	n Ø -
+972	?	499	Duhumbi	hail	hail	j Ø ŋ	j|w Ø ŋ|m	j|w|dʑ Ø ŋ|m|-
+973	?	499	Khispi	hail	hail	j Ø ŋ	j|w Ø ŋ|m	j|w|g Ø ŋ|m|l
+974	?	499	Rahung	hail	hail	j Ø ŋ	j|h Ø ŋ|-	j|h Ø ŋ|-
+975	?	499	Shergaon	hail	hail	j Ø ŋ	j|h Ø ŋ|-	j|h Ø ŋ|-
+976		500	Duhumbi	hair (body): feather	hairbodyfeather	m u -	m u -	m u -
+977		501	Duhumbi	left (side)	?	b u	b|p u|a	b|p|bj u|a|i
+978		501	Jerigaon	left (side)	?	b ə	b|pʰ ə|-	b|pʰ|h ə|-|a
+979		501	Khispi	left (side)	?	b u	b|tɕʰ u|a	b|tɕʰ|p u|a|i
+980		501	Khoina	left (side)	?	b ə	b|pʰ ə|a	b|pʰ|f ə|a|y
+981		501	Khoitam	left (side)	?	b ə	b|pʰ ə|-	b|pʰ|p ə|-|u
+982		501	Rahung	left (side)	?	b ə	b|m ə|-	b|m|p ə|-|a
+983		504	Jerigaon	halt, stop	haltstop	k ɐ k	k ɐ k|-	k ɐ k|-
+984	?	504	Khispi	halt, stop	haltstop	Ø a k	Ø a|i k|s	Ø a|i k|s|t
+985		504	Khoitam	halt, stop	haltstop	k a k	k a|yː k	k a|yː k
+986		504	Rupa	halt, stop	haltstop	kʰ a k	kʰ a|ə k|p	kʰ a|ə|ɐ k|p
+987		504	Shergaon	halt, stop	haltstop	k a k	k a|u k|t	k a|u k|t
+988		505	Jerigaon	fall	FALL1	tɕʰ uː	tɕʰ|tɕ uː|u	tɕʰ|tɕ|- uː|u
+989		505	Khoina	fall	FALL1	tsʰ uː	tsʰ|- uː|-	tsʰ|- uː|-|yː
+990		505	Khoitam	fall	FALL1	tɕʰ uː	tɕʰ uː|-	tɕʰ uː|-
+991		505	Shergaon	fall	FALL1	tɕʰ uː	tɕʰ uː	tɕʰ uː
+992		507	Duhumbi	hard	hard	ts a	ts|ɕ a|ɔw	ts|ɕ|tɕ a|ɔw|e
+993		507	Khispi	hard	hard	ts a	ts|ɕ a|ɔw	ts|ɕ|tɕ a|ɔw|e
+994		507	Khoina	hard	hard	ts uː	ts|dz uː|-	ts|dz uː|-|yː
+995		508	Duhumbi	sparrow	?	r i	r|l i|ɛj	r|l|d i|ɛj|e
+996		508	Jerigaon	sparrow	?	r ɛː	r|l ɛː|aː	r|l|kʰ ɛː|aː|ɛ
+997		508	Khispi	sparrow	?	l i	l|d i|ej	l|d|kʰ i|ej|a
+998		508	Khoina	sparrow	?	r aː	r|l aː|ɔː	r|l|g aː|ɔː
+999		508	Rupa	sparrow	?	r aː	r|l aː	r|l|g aː
+1000		508	Shergaon	sparrow	?	r aː	r|l aː|i	r|l|k aː|i
+1001		509	Jerigaon	hatch	hatch	tɕ ɔ k	tɕ|tɕʰ ɔ|o k|-	tɕ|tɕʰ ɔ|o k|-
+1002		509	Khispi	hatch	hatch	ts ɔ k	ts|tɕʰ ɔ k|s	ts|tɕʰ ɔ k|s|t
+1003		509	Rupa	hatch	hatch	ts ɔ k	ts|tɕʰ ɔ|o k|p	ts|tɕʰ|tɕ ɔ|o k|p
+1004		509	Shergaon	hatch	hatch	tɕ ɔ k	tɕ ɔ|o k|t	tɕ ɔ|o k|t
+1005		511	Khoina	head	head	kʰ ɛ	kʰ|g ɛ	kʰ|g ɛ
+1006	?	512	Jerigaon	ant	_soil-prefix3	kʰ ə Ø	kʰ|tɕʰ ə|yː Ø	kʰ|tɕʰ|k ə|yː Ø
+1007	?	512	Khoina	ant	_soil-prefix3	kʰ a Ø	kʰ|ʈʂʰ a|u Ø	kʰ|ʈʂʰ|g a|u|iˀ Ø
+1008	?	512	Khoitam	ant	_soil-prefix3	kʰ ə Ø	kʰ|tɕʰ ə|- Ø	kʰ|tɕʰ|k ə|-|i Ø
+1009	?	512	Rahung	ant	_soil-prefix3	kʰ ə Ø	kʰ|tɕʰ ə|i Ø	kʰ|tɕʰ|k ə|i|eˀ Ø
+1010	?	512	Rupa	ant	_soil-prefix3	kʰ ə Ø	kʰ|g ə|eˀ Ø	kʰ|g|k ə|eˀ Ø
+1011	?	512	Shergaon	ant	_soil-prefix3	kʰ ə Ø	kʰ|k ə Ø	kʰ|k|g ə Ø
+1012	?	513	Duhumbi	heart	heart	ɕ Ø	ɕ|s Ø	ɕ|s Ø
+1013	?	513	Khispi	heart	heart	ɕ Ø	ɕ Ø	ɕ Ø
+1014	?	514	Jerigaon	heart	heart	tʰ a Ø	tʰ a|uː Ø	tʰ a|uː|ɐ Ø
+1015		514	Khoina	heart	heart	tʰ a -	tʰ|d a|uː -	tʰ|d|t a|uː|ɐ -
+1016		514	Khoitam	heart	heart	tʰ a -	tʰ|t a|uː -	tʰ|t a|uː|ə -
+1017		514	Rahung	heart	heart	tʰ a -	tʰ|t a|uː -	tʰ|t a|uː|- -
+1018		514	Rupa	heart	heart	tʰ a -	tʰ|d a|uː -	tʰ|d|t a|uː|ə -
+1019	?	514	Shergaon	heart	heart	tʰ a Ø	tʰ|d a|uː Ø	tʰ|d|t a|uː|ɔ̃ː Ø
+1020	?	515	Jerigaon	hearth, fireplace	hearthfireplace	b Ø -	b Ø -	b Ø -
+1021	?	515	Khoina	hearth, fireplace	hearthfireplace	b Ø -	b Ø -	b Ø -
+1022	?	516	Jerigaon	hearth, fireplace	hearthfireplace	r ɛ Ø	r|tʰ ɛ Ø	r|tʰ ɛ Ø
+1023	?	516	Khoina	hearth, fireplace	hearthfireplace	r ø Ø	r ø Ø	r ø Ø
+1024		518	Duhumbi	afternoon	AFTERNOON	ɲ ɔw	ɲ|ŋ ɔw|a	ɲ|ŋ|m ɔw|a|ɔː
+1025		518	Jerigaon	afternoon	AFTERNOON	n ɔ	n ɔ|ɔː	n ɔ|ɔː
+1026		518	Khispi	afternoon	AFTERNOON	ɲ ɔw	ɲ|ŋ ɔw|ɔː	ɲ|ŋ|m ɔw|ɔː|u
+1027		518	Khoina	afternoon	AFTERNOON	n ɔ	n|r ɔ|ɔ̃ː	n|r ɔ|ɔ̃ː|ɔː
+1028		518	Khoitam	afternoon	AFTERNOON	n ɔ	n|m ɔ|ɔː	n|m ɔ|ɔː
+1029		518	Rahung	afternoon	AFTERNOON	n o	n|m o|ɔ	n|m o|ɔ|oː
+1030		520	Duhumbi	here	here	tʰ ɔː	tʰ|t ɔː	tʰ|t|m ɔː
+1031		520	Khispi	here	here	tʰ ɔː	tʰ|t ɔː	tʰ|t|m ɔː
+1032		521	Duhumbi	here	here	r u ŋ	r|d u|ɔ ŋ|-	r|d|l u|ɔ ŋ|-|m
+1033		521	Khispi	here	here	l ɔ ŋ	l|d ɔ|u ŋ|-	l|d|n ɔ|u ŋ|-|m
+1034		521	Khoina	here	here	r u -	r u|- -	r u|-|yː -
+1035		521	Rupa	here	here	r y -	r y|uː -|ŋ	r y|uː|u -|ŋ
+1036		521	Shergaon	here	here	r ɔ -	r|t ɔ|ə -|ŋ	r|t ɔ|ə|u -|ŋ
+1037	?	524	Khoina	hold	hold	Ø ø n	Ø ø|ɔ n	Ø ø|ɔ n
+1038		524	Rahung	hold	hold	z ø m	z ø|ɔ m|-	z ø|ɔ m|-
+1039	?	525	Rahung	honey	honey	Ø iː	Ø iː	Ø iː
+1040		526	Jerigaon	angry (vi)	ANGRY3	k i	k|tɕ i|iː	k|tɕ|kʰ i|iː|ə
+1041		526	Khoina	angry (vi)	ANGRY3	k i	k|kʰ i|iː	k|kʰ|tɕ i|iː|aː
+1042		526	Khoitam	angry (vi)	ANGRY3	k i	k|tɕ i|iː	k|tɕ|h i|iː|ə
+1043		526	Rahung	angry (vi)	ANGRY3	k i	k|tɕ i|iː	k|tɕ|kʰ i|iː|ə
+1044		526	Rupa	angry (vi)	ANGRY3	k i	k|kʰ i|iː	k|kʰ|h i|iː|ə
+1045		526	Shergaon	angry (vi)	ANGRY3	k i	k|kʰ i|iː	k|kʰ i|iː|ə
+1046	?	528	Duhumbi	hornbill	hornbill	l Ø ŋ	l|ɲ Ø ŋ|-	l|ɲ|ɬ Ø ŋ|-|m
+1047	?	528	Jerigaon	hornbill	hornbill	l Ø -	l Ø -	l Ø -
+1048	?	528	Khispi	hornbill	hornbill	l Ø ŋ	l|ɲ Ø ŋ|-	l|ɲ Ø ŋ|-|m
+1049	?	528	Rupa	hornbill	hornbill	l Ø -	l|d Ø -|ŋ	l|d Ø -|ŋ
+1050	?	528	Shergaon	hornbill	hornbill	l Ø -	l|- Ø -|ŋ	l|- Ø -|ŋ
+1051		531	Duhumbi	hornbill	hornbill	pʰ ɔ	pʰ ɔ|a	pʰ ɔ|a|u
+1052		531	Jerigaon	hornbill	hornbill	h u	h u|ɔ	h u|ɔ|ə
+1053		531	Khispi	hornbill	hornbill	pʰ ɔ	pʰ|n ɔ|a	pʰ|n ɔ|a|u
+1054		531	Khoina	hornbill	hornbill	f u	f|h u|ə	f|h u|ə|-
+1055		531	Rupa	hornbill	hornbill	pʰ u	pʰ u|y	pʰ u|y|uː
+1056		531	Shergaon	hornbill	hornbill	pʰ u	pʰ|n u|ə	pʰ|n u|ə|ɔ
+1057		532	Duhumbi	hornbill	hornbill	b a ŋ	b|w a ŋ|-	b|w|j a ŋ|-|m
+1058		532	Jerigaon	hornbill	hornbill	w ɔ̃ː -	w|j ɔ̃ː -|ŋ	w|j ɔ̃ː -|ŋ|ɹ
+1059		532	Khispi	hornbill	hornbill	b a ŋ	b|w a ŋ|-	b|w|j a ŋ|-|m
+1060		532	Khoitam	hornbill	hornbill	w ũː -	w ũː|ɔ̃ː -|ŋ	w ũː|ɔ̃ː -|ŋ
+1061		532	Rahung	hornbill	hornbill	w ɔ ŋ	w|j ɔ|ɔ̃ː ŋ|-	w|j|pʰ ɔ|ɔ̃ː|ũː ŋ|-|k
+1062		532	Shergaon	hornbill	hornbill	w ɔ ŋ	w ɔ ŋ|-	w ɔ ŋ|-
+1063	?	533	Khispi	hornet	hornet	Ø Ø k	Ø Ø k|-	Ø Ø k|-
+1064	?	533	Khoina	hornet	hornet	Ø Ø -	Ø Ø -|k	Ø Ø -|k
+1065	?	533	Rahung	hornet	hornet	Ø Ø k	Ø Ø k|-	Ø Ø k|-
+1066	?	533	Rupa	hornet	hornet	Ø Ø k	Ø Ø k|-	Ø Ø k|-
+1067	?	533	Shergaon	hornet	hornet	Ø Ø -	Ø Ø -	Ø Ø -
+1068	?	534	Jerigaon	hornet	hornet	tɕʰ Ø	tɕʰ Ø	tɕʰ Ø
+1069	?	534	Khispi	hornet	hornet	tɕʰ Ø	tɕʰ Ø	tɕʰ Ø
+1070	?	534	Rahung	hornet	hornet	Ø Ø	Ø Ø	Ø Ø
+1071	?	534	Shergaon	hornet	hornet	tɕʰ Ø	tɕʰ Ø	tɕʰ Ø
+1072	?	539	Jerigaon	horsefly	horsefly	p Ø -	p Ø -	p Ø -
+1073	?	539	Khispi	horsefly	horsefly	p Ø -	p Ø -	p Ø -
+1074	?	539	Rupa	horsefly	horsefly	p Ø -	p|b Ø -|m	p|b Ø -|m
+1075	?	539	Shergaon	horsefly	horsefly	p Ø -	p|pl Ø -	p|pl|b Ø -
+1076		540	Jerigaon	horsefly	horsefly	t ɛ m	t ɛ|i m|-	t ɛ|i m|-
+1077		540	Khispi	horsefly	horsefly	t a m	t a|u m|ŋ	t a|u m|ŋ|-
+1078		540	Rahung	horsefly	horsefly	t ɛ m	t ɛ|i m|ŋ	t ɛ|i m|ŋ
+1079		540	Rupa	horsefly	horsefly	t ɔː m	t ɔː|y m|ŋ	t ɔː|y m|ŋ
+1080		540	Shergaon	horsefly	horsefly	t ɔː m	t ɔː|u m	t ɔː|u m
+1081		541	Duhumbi	horsefly	horsefly	l a	l|n a|u	l|n|ɲ a|u|ɛ
+1082		541	Jerigaon	horsefly	horsefly	l a	l a|ɛˀ	l a|ɛˀ|ɛ
+1083		541	Khispi	horsefly	horsefly	l a	l|ɲ a|ɔ	l|ɲ a|ɔ|ɛ
+1084		541	Rahung	horsefly	horsefly	l a	l|ɹ a|ə	l|ɹ|r a|ə|ɔ̃
+1085		541	Rupa	horsefly	horsefly	l a	l|d a|ə	l|d a|ə|-
+1086		541	Shergaon	horsefly	horsefly	l a	l|- a|ə	l|- a|ə|-
+1087	?	542	Khispi	spear	spear	dʑ Ø Ø	dʑ Ø Ø	dʑ Ø Ø
+1088		543	Duhumbi	star	da-prefix	d i	d|tʰ i|ɔ	d|tʰ|t i|ɔ|a
+1089		543	Khispi	star	da-prefix	d u	d|t u|ɔ	d|t|ts u|ɔ|a
+1090		543	Khoitam	star	da-prefix	d ə	d|tɕ ə|y	d|tɕ|dʑ ə|y|ɔ
+1091		543	Rahung	star	da-prefix	d y	d|l y|ɔ	d|l|tɕ y|ɔ|ɔː
+1092		543	Rupa	star	da-prefix	d i	d|n i|ɔ̃ː	d|n|t i|ɔ̃ː|oː
+1093		543	Shergaon	star	da-prefix	d ɔ	d|t ɔ|oː	d|t ɔ|oː|ə
+1094	?	545	Jerigaon	how many	howmany	Ø ɛˀ Ø	Ø ɛˀ|yː Ø	Ø ɛˀ|yː Ø
+1095	?	545	Khoitam	how many	howmany	Ø i Ø	Ø i|- Ø	Ø i|- Ø
+1096		546	Duhumbi	ascend	_soil-prefix4	kʰ a n	kʰ|k a|u n|m	kʰ|k|g a|u|ɛ n|m|-
+1097		546	Khispi	ascend	_soil-prefix4	kʰ a n	kʰ|g a|ɔ n|-	kʰ|g|k a|ɔ|u n|-|ŋ
+1098		546	Khoina	ascend	_soil-prefix4	kʰ a -	kʰ|g a|ə -|n	kʰ|g|x a|ə|aː -|n
+1099		546	Khoitam	ascend	_soil-prefix4	kʰ a ŋ	kʰ|kʰw a|ə ŋ|-	kʰ|kʰw|h a|ə|i ŋ|-|n
+1100		546	Rupa	ascend	_soil-prefix4	kʰ a -	kʰ|g a|ə -	kʰ|g|k a|ə|- -
+1101		546	Shergaon	ascend	_soil-prefix4	kʰ a -	kʰ|k a|ə -|n	kʰ|k|g a|ə|- -|n
+1102	?	547	Duhumbi	how many	howmany	Ø u	Ø u|i	Ø u|i|a
+1103	?	547	Jerigaon	how many	howmany	Ø ə	Ø ə|u	Ø ə|u|ɔː
+1104	?	547	Khispi	how many	howmany	Ø u	Ø u|i	Ø u|i|a
+1105	?	547	Khoitam	how many	howmany	Ø ə	Ø ə|-	Ø ə|-|u
+1106	?	548	Duhumbi	how many	howmany	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1107	?	548	Jerigaon	how many	howmany	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1108	?	548	Khoitam	how many	howmany	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1109	?	548	Rupa	how many	howmany	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1110		551	Jerigaon	sun, day	sunday	m yː	m|w yː|iː	m|w|n yː|iː
+1111		551	Khoina	sun, day	sunday	m yː	m|n yː|ɔː	m|n|w yː|ɔː|iː
+1112		551	Rupa	sun, day	sunday	m yː	m|ɲ yː	m|ɲ|b yː
+1113		551	Shergaon	sun, day	sunday	m iː	m|n iː|uː	m|n|b iː|uː
+1114	?	564	Duhumbi	husband	husband	j Ø	j Ø	j Ø
+1115		566	Jerigaon	ice	ice	h ɛ k	h|k ɛ|a k	h|k ɛ|a|ɐ k
+1116		566	Khoina	ice	ice	x ɛ t	x|kʰ ɛ|ə t	x|kʰ ɛ|ə|ɐ t
+1117		572	Duhumbi	intestines	intestines	l ɔj	l|ɬ ɔj|ɔ	l|ɬ ɔj|ɔ
+1118		572	Khispi	intestines	intestines	l uj	l uj|u	l uj|u|a
+1119		573	Jerigaon	bat	BAT2	j a ŋ	j a|ɐ ŋ|-	j a|ɐ|ɛˀ ŋ|-
+1120		573	Khoina	bat	BAT2	j a ŋ	j a|ɐ ŋ|-	j a|ɐ|ə ŋ|-|n
+1121		573	Rahung	bat	BAT2	w a ŋ	w a|ə ŋ	w a|ə ŋ
+1122	?	574	Duhumbi	iron	iron	Ø Ø	Ø Ø	Ø Ø
+1123	?	574	Khispi	iron	iron	Ø Ø	Ø Ø	Ø Ø
+1124		576	Duhumbi	up there	upthere	tʰ a ŋ	tʰ|t a|ɔ ŋ|m	tʰ|t|m a|ɔ|u ŋ|m|-
+1125		576	Khispi	up there	upthere	tʰ a ŋ	tʰ|t a|ɔ ŋ|m	tʰ|t|m a|ɔ|u ŋ|m|l
+1126		576	Khoina	up there	upthere	tʰ a ŋ	tʰ|t a|ə ŋ|-	tʰ|t a|ə|aː ŋ|-|n
+1127		577	Khoina	jackal	jackal	r u ŋ	r u ŋ|-	r u ŋ|-|n
+1128		577	Khoitam	jackal	jackal	r u ŋ	r u ŋ|-	r u ŋ|-
+1129		577	Rahung	jackal	jackal	r u ŋ	r u ŋ	r u ŋ
+1130	?	578	Khoina	jackal	jackal	m i Ø	m|b i Ø	m|b i Ø
+1131	?	578	Khoitam	jackal	jackal	m a Ø	m|j a Ø	m|j a Ø
+1132	?	578	Rahung	jackal	jackal	m a Ø	m|pʰ a Ø	m|pʰ|p a Ø
+1133	?	579	Jerigaon	jump	jump	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1134	?	579	Shergaon	jump	jump	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1135		581	Duhumbi	morning	?	r a	r|d a|ɔw	r|d|l a|ɔw|e
+1136		581	Khispi	morning	?	l a	l|d a|ɔw	l|d|n a|ɔw|e
+1137		581	Khoina	morning	?	r uː	r uː|-	r uː|-|yː
+1138		583	Duhumbi	kick (v)	kickv	kʰ u	kʰ u|i	kʰ u|i|y
+1139		583	Khispi	kick (v)	kickv	kʰ u	kʰ u|i	kʰ u|i
+1140	?	586	Duhumbi	trivet	trivet	tɕ Ø	tɕ Ø	tɕ Ø
+1141	?	586	Jerigaon	trivet	trivet	tɕ Ø	tɕ Ø	tɕ Ø
+1142	?	586	Khispi	trivet	trivet	tɕ Ø	tɕ Ø	tɕ Ø
+1143	?	586	Khoina	trivet	trivet	tɕ Ø	tɕ Ø	tɕ Ø
+1144	?	587	Jerigaon	kiss (n)	kissn	Ø ɔ -	Ø ɔ -	Ø ɔ -
+1145	?	587	Shergaon	kiss (n)	kissn	Ø Ø p	Ø Ø p	Ø Ø p
+1146	?	588	Duhumbi	knee	knee	pʰ Ø k	pʰ|pɕ Ø k|-	pʰ|pɕ|p Ø k|-|s
+1147	?	588	Khispi	knee	knee	pʰ Ø k	pʰ|pɕ Ø k|-	pʰ|pɕ|p Ø k|-|s
+1148	?	588	Shergaon	knee	knee	pʰ Ø k	pʰ Ø k|t	pʰ Ø k|t
+1149		591	Jerigaon	knee	knee	tɕ l - k	tɕ|h l|- -|a k|ŋ	tɕ|h|kʰ l|- -|a k|ŋ
+1150		591	Khoina	knee	knee	tɕ l a k	tɕ|x l|- a k|ŋ	tɕ|x l|- a k|ŋ
+1151		591	Khoitam	knee	knee	tɕ l - k	tɕ|h l|- -|a k|ŋ	tɕ|h|kʰ l|- -|a k|ŋ
+1152		591	Rahung	knee	knee	tɕ ɹ - k	tɕ|h ɹ|- -|u k|ŋ	tɕ|h|kʰ ɹ|- -|u|oː k|ŋ
+1153		591	Rupa	knee	knee	k l u k	k|kʰ l|- u|a k	k|kʰ l|- u|a|oː k
+1154	?	597	Rahung	langur	langur	Ø ə	Ø ə|u	Ø ə|u|eː
+1155	?	597	Shergaon	langur	langur	Ø ə	Ø ə|i	Ø ə|i|u
+1156	?	601	Khispi	late (vi)	latevi	j Ø t	j Ø t|-	j Ø t|-|s
+1157	?	601	Khoina	late (vi)	latevi	j Ø -	j Ø -|t	j Ø -|t
+1158	?	601	Shergaon	late (vi)	latevi	j Ø -	j Ø -	j Ø -
+1159	?	607	Duhumbi	leech, land	leechland	Ø ɛ Ø	Ø ɛ|a Ø	Ø ɛ|a|ɔ Ø
+1160	?	607	Khispi	leech, land	leechland	Ø ɛ Ø	Ø ɛ|- Ø	Ø ɛ|-|a Ø
+1161	?	607	Shergaon	leech, land	leechland	Ø a Ø	Ø a|- Ø	Ø a|- Ø
+1162	?	608	Duhumbi	leech, land	leechland	pʰ Ø	pʰ|pɕ Ø	pʰ|pɕ|p Ø
+1163	?	608	Khispi	leech, land	leechland	pʰ Ø	pʰ|pɕ Ø	pʰ|pɕ|p Ø
+1164	?	608	Shergaon	leech, land	leechland	pʰ Ø	pʰ Ø	pʰ Ø
+1165	?	609	Duhumbi	leech, water	leechwater	tɕ Ø i Ø	tɕ Ø i|iˀ Ø	tɕ Ø i|iˀ|u Ø
+1166	?	609	Rupa	leech, water	leechwater	tɕʰ Ø i p	tɕʰ|ʨ Ø i|ə p	tɕʰ|ʨ Ø i|ə p
+1167	?	612	Duhumbi	left (side)	leftside	Ø Ø	Ø Ø	Ø Ø
+1168	?	612	Khispi	left (side)	leftside	Ø Ø	Ø Ø	Ø Ø
+1169		614	Duhumbi	brain	HEAD	r ɔ k	r|d ɔ|a k|-	r|d|l ɔ|a|u k|-|s
+1170		614	Khispi	brain	HEAD	l ɔ k	l|d ɔ|a k|-	l|d|n ɔ|a|u k|-|s
+1171		614	Khoina	brain	HEAD	r u k	r u|- k|t	r u|-|ə k|t|p
+1172		614	Rupa	brain	HEAD	r u k	r u|uː k|t	r u|uː|ə k|t|-
+1173		614	Shergaon	brain	HEAD	r u k	r|t u|ə k|t	r|t u|ə|- k|t|-
+1174	?	616	Duhumbi	left (side)	leftside	t ɛ Ø	t|tʰj ɛ|ɔ Ø	t|tʰj ɛ|ɔ Ø
+1175	?	616	Khispi	left (side)	leftside	t e Ø	t|d e|ɔ Ø	t|d|tʰ e|ɔ Ø
+1176	?	616	Khoina	left (side)	leftside	t ɛ Ø	t|tʰ ɛ|ɐ̃ː Ø	t|tʰ|d ɛ|ɐ̃ː Ø
+1177		616	Khoitam	left (side)	leftside	t ɛ -	t ɛ -	t ɛ -
+1178	?	616	Rupa	left (side)	leftside	t a Ø	t|tʰ a|ɔ̃ː Ø	t|tʰ|p a|ɔ̃ː Ø
+1179	?	616	Shergaon	left (side)	leftside	t a Ø	t|tʰ a|ɔ̃ː Ø	t|tʰ a|ɔ̃ː Ø
+1180	?	617	Duhumbi	pheasant, kalij	?	Ø Ø	Ø Ø	Ø Ø
+1181	?	617	Khispi	pheasant, kalij	?	Ø Ø	Ø Ø	Ø Ø
+1182		622	Duhumbi	lie (n)	lien	t ɛ	t|d ɛ|ɔ	t|d ɛ|ɔ
+1183		622	Khispi	lie (n)	lien	t ɛ	t ɛ	t ɛ
+1184		624	Jerigaon	lift completely, carry	liftcompletelycarry	kʰ a ŋ	kʰ|k a|ɐ ŋ|-	kʰ|k a|ɐ|ɛˀ ŋ|-
+1185		624	Khoina	lift completely, carry	liftcompletelycarry	kʰ a ŋ	kʰ|g a|ɐ ŋ|-	kʰ|g a|ɐ|ə ŋ|-|n
+1186		624	Rahung	lift completely, carry	liftcompletelycarry	kʰ a ŋ	kʰ|pʰ a|ə ŋ	kʰ|pʰ a|ə ŋ
+1187	?	625	Duhumbi	light	light	Ø ɔ k	Ø ɔ k	Ø ɔ k
+1188		626	Duhumbi	brain	_kha-prefix1	kʰ	kʰ|g	kʰ|g|kʰɹ
+1189		626	Khispi	brain	_kha-prefix1	kʰ	kʰ|g	kʰ|g
+1190		626	Khoina	brain	_kha-prefix1	kʰ	kʰ|g	kʰ|g
+1191		626	Rupa	brain	_kha-prefix1	kʰ	kʰ|g	kʰ|g|k
+1192		626	Shergaon	brain	_kha-prefix1	kʰ	kʰ|g	kʰ|g|k
+1193		628	Duhumbi	butterfly	BUTTERFLY	pʰ ɔ	pʰ ɔ	pʰ ɔ
+1194	?	628	Khispi	butterfly	BUTTERFLY	pʰ Ø	pʰ Ø	pʰ Ø
+1195		628	Rahung	butterfly	BUTTERFLY	pʰr ɔ	pʰr ɔ	pʰr ɔ
+1196		628	Rupa	butterfly	BUTTERFLY	pʰl ɔ̃ː	pʰl ɔ̃ː	pʰl ɔ̃ː
+1197	?	628	Shergaon	butterfly	BUTTERFLY	pl Ø	pl|pʰl Ø	pl|pʰl Ø
+1198	?	631	Khispi	cook	COOK1	Ø a ŋ	Ø a ŋ|-	Ø a ŋ|-
+1199	?	631	Khoina	cook	COOK1	Ø ɔ ŋ	Ø ɔ ŋ|j	Ø ɔ ŋ|j|-
+1200	?	631	Khoitam	cook	COOK1	Ø ɔ ŋ	Ø ɔ ŋ|-	Ø ɔ ŋ|-
+1201	?	631	Shergaon	cook	COOK1	Ø Ø ŋ	Ø Ø ŋ|m	Ø Ø ŋ|m
+1202		633	Duhumbi	lightning	lightning	t a p	t|tʰ a|ɛ p|mp	t|tʰ|d a|ɛ|ɔ p|mp|-
+1203		633	Jerigaon	lightning	lightning	t a -	t|tʰ a|ɛ -	t|tʰ a|ɛ|ɐ -
+1204		633	Khispi	lightning	lightning	t a p	t|tʰ a|ɛ p|-	t|tʰ a|ɛ|ɔ p|-|mp
+1205		633	Khoina	lightning	lightning	t a -	t|tʰ a|ɐ -	t|tʰ a|ɐ|ɛ -
+1206		633	Rahung	lightning	lightning	t a p	t a|ɛ p|-	t a|ɛ|ə p|-
+1207		634	Duhumbi	lightning	lightning	m u	m|b u|ɛj	m|b|h u|ɛj
+1208		634	Jerigaon	lightning	lightning	m o	m|w o|yː	m|w o|yː|iː
+1209		634	Khispi	lightning	lightning	m u	m|b u|uj	m|b|h u|uj
+1210		634	Khoina	lightning	lightning	m ɔː	m|b ɔː|yː	m|b|w ɔː|yː|iː
+1211		634	Khoitam	lightning	lightning	m -	m -|yː	m -|yː|iː
+1212		634	Rahung	lightning	lightning	m oː	m|pʰ oː|yː	m|pʰ|p oː|yː|iː
+1213		635	Jerigaon	like, love	likelove	h ɔ -	h ɔ -	h ɔ -
+1214	?	635	Khispi	like, love	likelove	h Ø n	h Ø n|-	h Ø n|-
+1215	?	635	Shergaon	like, love	likelove	h Ø n	h Ø n	h Ø n
+1216	?	638	Shergaon	listen, heed	listenheed	n u Ø	n u Ø	n u Ø
+1217	?	640	Duhumbi	liver	liver	Ø Ø i n	Ø Ø i n	Ø Ø i n
+1218		642	Duhumbi	down	_allative	t u -	t|d u|ɔ -	t|d u|ɔ|a -
+1219		642	Khispi	down	_allative	t u -	t|tʰ u|ɔ -	t|tʰ u|ɔ|a -
+1220		642	Khoina	down	_allative	t ø ŋ	t|tʰ ø|y ŋ|-	t|tʰ|ʈʂʰ ø|y|ɔ̃ː ŋ|-
+1221		642	Khoitam	down	_allative	t ɔ n	t|tʰ ɔ|ɔ̃ː n|-	t|tʰ ɔ|ɔ̃ː|ũː n|-|ŋ
+1222		642	Rahung	down	_allative	t - n	t|tʰ -|ɔ̃ː n|-	t|tʰ -|ɔ̃ː|ũː n|-|ŋ
+1223		644	Jerigaon	load (n)	loadn	j u ŋ	j|m u ŋ	j|m u ŋ
+1224		644	Shergaon	load (n)	loadn	j u ŋ	j u ŋ	j u ŋ
+1225		647	Duhumbi	down	_locative	r ɔ	r|d ɔ|ɔw	r|d|l ɔ|ɔw|ɔˀ
+1226		647	Jerigaon	down	_locative	r ɔ	r ɔ|y	r ɔ|y|o
+1227		647	Khispi	down	_locative	l ɔ	l|d ɔ|ɔw	l|d|n ɔ|ɔw|a
+1228		647	Rahung	down	_locative	r ɔ	r|n ɔ|o	r|n ɔ|o|a
+1229		647	Rupa	down	_locative	r ɔ	r|ɲ ɔ|aw	r|ɲ ɔ|aw|a
+1230		647	Shergaon	down	_locative	r ɔ	r|t ɔ|aw	r|t ɔ|aw|a
+1231		648	Duhumbi	look	look	l ɛ n	l|ɲ ɛ|a n|ɹ	l|ɲ|ɬ ɛ|a|ɔ n|ɹ|ŋ
+1232		648	Khispi	look	look	l ɛ n	l|ɲ ɛ|- n|l	l|ɲ ɛ|-|a n|l|ŋ
+1233		648	Shergaon	look	look	l a n	l|- a|- n|-	l|- a|- n|-
+1234	?	651	Duhumbi	lungs	lungs	r Ø	r|d Ø	r|d|l Ø
+1235	?	651	Khispi	lungs	lungs	l Ø	l|d Ø	l|d|n Ø
+1236	?	651	Rahung	lungs	lungs	r Ø	r|n Ø	r|n Ø
+1237	?	651	Rupa	lungs	lungs	r Ø	r|ɲ Ø	r|ɲ Ø
+1238	?	651	Shergaon	lungs	lungs	r Ø	r|t Ø	r|t Ø
+1239	?	652	Duhumbi	lungs	lungs	s Ø	s|ɕ Ø	s|ɕ|h Ø
+1240	?	652	Khispi	lungs	lungs	s Ø	s|ɕ Ø	s|ɕ|h Ø
+1241		653	Jerigaon	dream (n)	?	kʰ a -	kʰ|tɕʰ a|uː -|n	kʰ|tɕʰ|k a|uː|ɐ -|n|ŋ
+1242		653	Khoina	dream (n)	?	kʰ a -	kʰ|ʈʂʰ a|uː -|n	kʰ|ʈʂʰ|g a|uː|ɐ -|n|ŋ
+1243		653	Khoitam	dream (n)	?	kʰ a -	kʰ|tɕʰ a|uː -|n	kʰ|tɕʰ|k a|uː|ə -|n|ŋ
+1244		653	Rahung	dream (n)	?	kʰ a -	kʰ|tɕʰ a|uː -|n	kʰ|tɕʰ|k a|uː|- -|n|ŋ
+1245		653	Rupa	dream (n)	?	kʰ a -	kʰ|g a|uː -|n	kʰ|g|k a|uː|ə -|n|ŋ
+1246		653	Shergaon	dream (n)	?	kʰ a -	kʰ|k a|uː -|n	kʰ|k|g a|uː|ɔ̃ː -|n|ŋ
+1247	?	656	Khispi	macaque	macaque	ɕ Ø	ɕ|tɕʰ Ø	ɕ|tɕʰ Ø
+1248		657	Khispi	macaque	?	d ɔ ŋ	d ɔ ŋ|-	d ɔ ŋ|-
+1249		659	Jerigaon	machete	machete	d uː	d uː|u	d uː|u
+1250	?	661	Rupa	maize	maize	ts y Ø	ts|c y Ø	ts|c y Ø
+1251	?	661	Shergaon	maize	maize	tɕ i Ø	tɕ i Ø	tɕ i Ø
+1252	?	664	Jerigaon	make	make	tɕʰ - Ø	tɕʰ -|eˀ Ø	tɕʰ -|eˀ|e Ø
+1253	?	664	Khoitam	make	make	tɕʰ - Ø	tɕʰ|tsʰ -|eˀ Ø	tɕʰ|tsʰ -|eˀ|e Ø
+1254	?	664	Rahung	make	make	tɕʰ - Ø	tɕʰ -|eˀ Ø	tɕʰ -|eˀ|e Ø
+1255	?	664	Rupa	make	make	tsʰ - Ø	tsʰ -|eˀ Ø	tsʰ -|eˀ|e Ø
+1256	?	664	Shergaon	make	make	tɕʰ - Ø	tɕʰ -|e Ø	tɕʰ -|e|ɔ Ø
+1257	?	670	Jerigaon	manure	manure	Ø Ø	Ø Ø	Ø Ø
+1258	?	670	Khispi	manure	manure	Ø Ø	Ø Ø	Ø Ø
+1259	?	670	Shergaon	manure	manure	Ø Ø	Ø Ø	Ø Ø
+1260		671	Jerigaon	manure	manure	w uː	w uː|u	w uː|u
+1261		671	Khispi	manure	manure	b a	b a|u	b a|u
+1262		671	Khoitam	manure	manure	w uː	w uː	w uː
+1263		671	Rupa	manure	manure	w uː	w uː|oː	w uː|oː|u
+1264		671	Shergaon	manure	manure	w uː	w uː|-	w uː|-|o
+1265		673	Duhumbi	marrow	marrow	ɲ ɔ	ɲ|ŋ ɔ	ɲ|ŋ ɔ
+1266		673	Khispi	marrow	marrow	ɲ ɔ	ɲ|ŋ ɔ	ɲ|ŋ ɔ
+1267		673	Shergaon	marrow	marrow	ɲ iː	ɲ iː	ɲ iː
+1268		674	Duhumbi	field	?	ɕ a ŋ	ɕ|s a|ɛ ŋ|m	ɕ|s|ts a|ɛ|u ŋ|m|-
+1269		674	Jerigaon	field	?	s a ŋ	s|z a|ɛ ŋ|-	s|z a|ɛ|ɐ ŋ|-|ɹ
+1270		674	Khispi	field	?	ɕ a ŋ	ɕ|s a|ɛ ŋ|m	ɕ|s|ts a|ɛ|ɔ ŋ|m|-
+1271		674	Khoina	field	?	ʂ a ŋ	ʂ|s a|ɛ ŋ|-	ʂ|s|ɕ a|ɛ|ɐ ŋ|-|n
+1272		674	Khoitam	field	?	s a ŋ	s|ts a|ɛ ŋ|-	s|ts|tɕ a|ɛ|ɔː ŋ|-|m
+1273		674	Rahung	field	?	s a ŋ	s|tɕ a|ɛ ŋ|-	s|tɕ a|ɛ|oː ŋ|-|k
+1274		683	Jerigaon	meet	meet	s yː	s yː	s yː
+1275		683	Rahung	meet	meet	s yː	s yː	s yː
+1276		683	Shergaon	meet	meet	s iː	s|ɕ iː|yː	s|ɕ iː|yː|i
+1277		685	Jerigaon	creeper, vine	ROPE	tʰ a k	tʰ a|uː k|-	tʰ a|uː|ɐ k|-|ŋ
+1278		685	Khoina	creeper, vine	ROPE	tʰ a k	tʰ|d a|uː k|-	tʰ|d|t a|uː|ɐ k|-|ŋ
+1279		685	Khoitam	creeper, vine	ROPE	tʰ a k	tʰ|t a|uː k|-	tʰ|t a|uː|ə k|-|ŋ
+1280		685	Rahung	creeper, vine	ROPE	tʰ a k	tʰ|t a|uː k|ŋ	tʰ|t a|uː|- k|ŋ|-
+1281		685	Rupa	creeper, vine	ROPE	tʰ a k	tʰ|d a|uː k|ŋ	tʰ|d|t a|uː|ə k|ŋ
+1282		685	Shergaon	creeper, vine	ROPE	tʰ a k	tʰ|d a|uː k|-	tʰ|d|t a|uː|ɔ̃ː k|-|ŋ
+1283		686	Jerigaon	middle / centre	middlecentre	tɕ u ŋ	tɕ u|øː ŋ	tɕ u|øː ŋ
+1284		686	Khoitam	middle / centre	middlecentre	tɕ u ŋ	tɕ u|ɛˀ ŋ|-	tɕ u|ɛˀ|ũː ŋ|-
+1285		686	Rahung	middle / centre	middlecentre	tɕ u ŋ	tɕ u|ɛˀ ŋ|-	tɕ u|ɛˀ|ũ ŋ|-
+1286		686	Shergaon	middle / centre	middlecentre	tɕ u ŋ	tɕ u|ɔ ŋ|-	tɕ u|ɔ ŋ|-
+1287		687	Jerigaon	millet, broomcorn	sky-prefix4	n ə -	n ə|ɔː -	n ə|ɔː -
+1288		687	Khispi	millet, broomcorn	sky-prefix4	ɲ i ŋ	ɲ i ŋ|-	ɲ i ŋ|-
+1289		688	Jerigaon	settle	?	tɕʰ a k	tɕʰ a|ɐ k|-	tɕʰ a|ɐ|ɛˀ k|-
+1290		688	Khoina	settle	?	tsʰ a k	tsʰ a|ɐ k	tsʰ a|ɐ|ə k
+1291	?	689	Duhumbi	millet, finger	milletfinger	g Ø	g Ø	g Ø
+1292	?	689	Khispi	millet, finger	milletfinger	g Ø	g Ø	g Ø
+1293		690	Duhumbi	millet, finger	milletfinger	ts a m	ts|ɕ a m|ŋ	ts|ɕ|tɕ a m|ŋ
+1294		690	Khispi	millet, finger	milletfinger	ts ɔ m	ts|ɕ ɔ m|ŋ	ts|ɕ|tɕ ɔ m|ŋ
+1295		692	Duhumbi	cockroach	COCKROACH2	n ɔ ŋ	n|ɬ ɔ|a ŋ|m	n|ɬ ɔ|a|u ŋ|m|-
+1296	?	692	Jerigaon	cockroach	COCKROACH2	Ø u ŋ	Ø u|ɔ ŋ|-	Ø u|ɔ|- ŋ|-
+1297		692	Khispi	cockroach	COCKROACH2	l ɔ ŋ	l ɔ|a ŋ|m	l ɔ|a|u ŋ|m|l
+1298		692	Khoina	cockroach	COCKROACH2	l u ŋ	l u|yː ŋ|-	l u|yː|ũː ŋ|-|n
+1299	?	698	Duhumbi	morning	morning	ɲ Ø	ɲ|ŋ Ø	ɲ|ŋ Ø
+1300		698	Jerigaon	morning	morning	n ɔ̃	n ɔ̃|ɔː	n ɔ̃|ɔː
+1301	?	698	Khispi	morning	morning	ɲ Ø	ɲ|ŋ Ø	ɲ|ŋ Ø
+1302		698	Khoina	morning	morning	n ɔː	n|r ɔː	n|r ɔː
+1303		706	Jerigaon	mountain peak	?	r iː	r iː	r iː
+1304		706	Khoina	mountain peak	?	r -	r -	r -
+1305		706	Shergaon	mountain peak	?	r ə	r ə	r ə
+1306		707	Duhumbi	mountain peak	mountainpeak	b a	b|w a|ɔw	b|w|j a|ɔw|e
+1307		707	Jerigaon	mountain peak	mountainpeak	w uː	w|j uː|u	w|j uː|u
+1308		707	Khispi	mountain peak	mountainpeak	b a	b|w a|u	b|w|j a|u|ɔw
+1309		707	Khoina	mountain peak	mountainpeak	w uː	w|j uː|-	w|j uː|-|yː
+1310		707	Rupa	mountain peak	mountainpeak	w uː	w|b uː|oː	w|b|j uː|oː|u
+1311		707	Shergaon	mountain peak	mountainpeak	w uː	w|p uː|o	w|p uː|o
+1312	?	711	Jerigaon	mouth	mouth	Ø Ø -	Ø Ø -	Ø Ø -
+1313	?	712	Duhumbi	mouth	mouth	tɕ Ø	tɕ Ø	tɕ Ø
+1314	?	712	Khispi	mouth	mouth	p Ø	p|tɕ Ø	p|tɕ Ø
+1315	?	712	Khoina	mouth	mouth	tsʰ Ø	tsʰ Ø	tsʰ Ø
+1316	?	712	Rupa	mouth	mouth	tsʰ Ø	tsʰ Ø	tsʰ Ø
+1317	?	712	Shergaon	mouth	mouth	tsʰ Ø	tsʰ|tɕʰ Ø	tsʰ|tɕʰ Ø
+1318		721	Jerigaon	naga, serpent deity	nagaserpentdeity	r yː	r yː|o	r yː|o|iː
+1319		721	Khoina	naga, serpent deity	nagaserpentdeity	r yː	r|h yː|ɔː	r|h|n yː|ɔː|iː
+1320		721	Khoitam	naga, serpent deity	nagaserpentdeity	l yː	l|n yː|-	l|n yː|-|eː
+1321		721	Rahung	naga, serpent deity	nagaserpentdeity	r yː	r|l yː|oː	r|l|pʰ yː|oː|iː
+1322		721	Shergaon	naga, serpent deity	nagaserpentdeity	l iː	l|p iː|yː	l|p iː|yː|i
+1323	?	733	Jerigaon	neck	neck	Ø u -	Ø u -|ŋ	Ø u -|ŋ
+1324	?	733	Shergaon	neck	neck	Ø u ŋ	Ø u ŋ|-	Ø u ŋ|-
+1325	?	734	Jerigaon	neck	neck	Ø Ø -	Ø Ø -	Ø Ø -
+1326	?	734	Rupa	neck	neck	Ø Ø -	Ø Ø -|n	Ø Ø -|n
+1327	?	734	Shergaon	neck	neck	Ø Ø -	Ø Ø -|n	Ø Ø -|n
+1328	?	738	Jerigaon	need to, have to	needtohaveto	Ø eˀ -	Ø eˀ -	Ø eˀ -
+1329	?	738	Shergaon	need to, have to	needtohaveto	Ø eˀ -	Ø eˀ -	Ø eˀ -
+1330		742	Jerigaon	net for fishing	netforfishing	tɕʰ u k	tɕʰ u|øː k	tɕʰ u|øː k
+1331		742	Khoitam	net for fishing	netforfishing	tɕʰ u k	tɕʰ|tsʰ u|ɛˀ k	tɕʰ|tsʰ u|ɛˀ|ũː k
+1332		742	Rahung	net for fishing	netforfishing	tɕʰ u k	tɕʰ u|ɛˀ k	tɕʰ u|ɛˀ|ũ k
+1333		742	Shergaon	net for fishing	netforfishing	tɕʰ u k	tɕʰ u|ɔ k	tɕʰ u|ɔ k
+1334		745	Jerigaon	night	night	n ə -	n ə|ɔː -	n ə|ɔː -
+1335		750	Khoina	nominaliser	nominaliser	b a	b a|ə	b a|ə|uː
+1336		750	Khoitam	nominaliser	nominaliser	b a	b a|ə	b a|ə|u
+1337		750	Rupa	nominaliser	nominaliser	b a	b a|ə	b a|ə|aˀ
+1338		750	Shergaon	nominaliser	nominaliser	b a	b a|aː	b a|aː|-
+1339		752	Duhumbi	noon	noon	h a	h|w a|ɔ	h|w|kʰ a|ɔ|u
+1340		752	Khispi	noon	noon	h a	h|ɕ a|ɔ	h|ɕ|l a|ɔ|u
+1341		753	Jerigaon	noon	noon	b - -	b|dʑ -|i -|ʔ	b|dʑ|w -|i|yː -|ʔ
+1342		753	Khoina	noon	noon	b y -	b|w y|ə -|ʔ	b|w|dʑ y|ə|i -|ʔ
+1343		753	Khoitam	noon	noon	b y -	b|dʑ y|- -|ʔ	b|dʑ|w y|-|i -|ʔ
+1344		753	Rahung	noon	noon	b y -	b|dʑ y|i -|ʔ	b|dʑ|w y|i|eˀ -|ʔ
+1345		753	Rupa	noon	noon	b i -	b|w i|ə -|t	b|w|dʑ i|ə|y -|t
+1346		753	Shergaon	noon	noon	b a -	b|w a|u -|t	b|w|dʑ a|u -|t
+1347	?	755	Rahung	nose	nose	n Ø -	n|m Ø -|ŋ	n|m|pʰ Ø -|ŋ
+1348	?	755	Rupa	nose	nose	n Ø -	n|ɲ Ø -	n|ɲ Ø -
+1349		759	Duhumbi	oil	oil	tʰ ɔw	tʰ|t ɔw|a	tʰ|t|m ɔw|a|ɛ
+1350		759	Jerigaon	oil	oil	tʰ ɔː	tʰ|t ɔː	tʰ|t ɔː
+1351		759	Khispi	oil	oil	tʰ a	tʰ|t a|u	tʰ|t|m a|u|e
+1352		759	Khoina	oil	oil	tʰ ɔː	tʰ|t ɔː|ɐː	tʰ|t|ʈʂʰ ɔː|ɐː
+1353		760	Jerigaon	see	?	ə -	ə -	ə -
+1354		760	Khoina	see	?	y -	y -	y -
+1355		760	Khoitam	see	?	ə -	ə -	ə -
+1356		766	Duhumbi	other	other	b u	b|p u	b|p|bj u
+1357	?	766	Jerigaon	other	other	b Ø	b Ø	b Ø
+1358		766	Khispi	other	other	b u	b|p u	b|p|pʰ u
+1359		766	Khoina	other	other	b ĩː	b ĩː|ɔː	b ĩː|ɔː
+1360	?	766	Shergaon	other	other	b Ø	b Ø	b Ø
+1361		767	Duhumbi	other	other	ɛ	ɛ|e	ɛ|e
+1362		767	Khispi	other	other	ɛ	ɛ|i	ɛ|i|e
+1363		767	Shergaon	other	other	ə	ə|a	ə|a
+1364	?	768	Duhumbi	otter	otter	ɲ Ø	ɲ|ŋ Ø	ɲ|ŋ Ø
+1365	?	768	Khispi	otter	otter	ɲ Ø	ɲ|ŋ Ø	ɲ|ŋ Ø
+1366		769	Duhumbi	otter	otter	m a k	m a|u k|-	m a|u|ɛ k|-|ŋ
+1367		769	Khispi	otter	otter	m a k	m|p a|u k|-	m|p a|u|ɛ k|-|ŋ
+1368	?	770	Duhumbi	outside	outside	Ø	Ø	Ø
+1369	?	770	Khispi	outside	outside	Ø	Ø	Ø
+1370		771	Duhumbi	outside	outside	hw a	hw|w a|u	hw|w|kʰ a|u
+1371		771	Khispi	outside	outside	hw a	hw|ɕ a|u	hw|ɕ|h a|u
+1372	?	775	Jerigaon	palm, sole	palmsole	Ø a Ø	Ø a|ɐ Ø	Ø a|ɐ|ɛˀ Ø
+1373	?	775	Khoina	palm, sole	palmsole	Ø a Ø	Ø a|ɐ Ø	Ø a|ɐ|ə Ø
+1374		776	Duhumbi	palm, sole	palmsole	tʰ a	tʰ|tʰj a|ɔ	tʰ|tʰj|t a|ɔ
+1375		776	Khispi	palm, sole	palmsole	tʰ a	tʰ|d a|ɔ	tʰ|d|t a|ɔ
+1376		776	Khoitam	palm, sole	palmsole	tʰ ũː	tʰ ũː|ɔ̃ː	tʰ ũː|ɔ̃ː
+1377		776	Rahung	palm, sole	palmsole	tʰ ũː	tʰ|t ũː|ɔ̃ː	tʰ|t ũː|ɔ̃ː|a
+1378		776	Shergaon	palm, sole	palmsole	tʰ ɔ̃ː	tʰ|t ɔ̃ː	tʰ|t ɔ̃ː
+1379		777	Jerigaon	palm, sole	palmsole	l a	l a|ɐ	l a|ɐ|ɛˀ
+1380		777	Khoina	palm, sole	palmsole	h a	h a|ɐ	h a|ɐ|ɔ̃ː
+1381		777	Khoitam	palm, sole	palmsole	l a	l a|ɔ̃ː	l a|ɔ̃ː|ə
+1382		777	Rahung	palm, sole	palmsole	r a	r a|ɔ̃ː	r a|ɔ̃ː|i
+1383		777	Shergaon	palm, sole	palmsole	l a	l a|u	l a|u|ɔ
+1384		778	Duhumbi	pangolin	pangolin	b u	b|w u	b|w|j u
+1385	?	778	Jerigaon	pangolin	pangolin	w Ø	w Ø	w Ø
+1386		778	Khispi	pangolin	pangolin	b a	b|w a	b|w|j a
+1387	?	778	Rupa	pangolin	pangolin	w Ø	w Ø	w Ø
+1388	?	778	Shergaon	pangolin	pangolin	w Ø	w Ø	w Ø
+1389		779	Duhumbi	pangolin	pangolin	ɕ u	ɕ|s u|ɔ	ɕ|s|tɕʰ u|ɔ
+1390		779	Jerigaon	pangolin	pangolin	s a	s|tɕʰ a|y	s|tɕʰ|z a|y
+1391		779	Khispi	pangolin	pangolin	ɕ u	ɕ|s u|a	ɕ|s|tɕʰ u|a
+1392		779	Khoina	pangolin	pangolin	ʂ a	ʂ|s a|ə	ʂ|s|ɕ a|ə|y
+1393		779	Rupa	pangolin	pangolin	s ə	s|tɕʰ ə|y	s|tɕʰ|ɕ ə|y
+1394		779	Shergaon	pangolin	pangolin	s ə	s|tɕʰ ə|u	s|tɕʰ|ɕ ə|u|i
+1395	?	781	Khispi	partridge	partridge	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1396	?	781	Khoina	partridge	partridge	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1397	?	781	Rupa	partridge	partridge	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1398	?	786	Duhumbi	partridge	partridge	kʰ Ø	kʰ Ø	kʰ Ø
+1399	?	786	Khispi	partridge	partridge	h Ø	h Ø	h Ø
+1400		786	Khoina	partridge	partridge	f ə	f ə	f ə
+1401		786	Rahung	partridge	partridge	h ə	h|pʰ ə	h|pʰ ə
+1402		786	Rupa	partridge	partridge	f ə	f|b ə	f|b ə
+1403		786	Shergaon	partridge	partridge	f ə	f|b ə	f|b ə
+1404		787	Khoina	path, road	pathroad	m u	m|b u|ɔ̃ː	m|b u|ɔ̃ː
+1405		787	Khoitam	path, road	pathroad	m u	m|j u|ɛˀ	m|j u|ɛˀ|uˀ
+1406		787	Rahung	path, road	pathroad	m u	m|pʰ u|ɛˀ	m|pʰ|p u|ɛˀ|a
+1407		791	Jerigaon	patient marker	patientmarker	r iː	r iː	r iː
+1408	?	791	Shergaon	patient marker	patientmarker	Ø iː	Ø iː|i	Ø iː|i
+1409	?	794	Duhumbi	peas	peas	b Ø Ø	b|w Ø Ø	b|w Ø Ø
+1410	?	794	Khispi	peas	peas	m Ø i	m|w Ø i	m|w Ø i
+1411	?	796	Duhumbi	pheasant, kalij	pheasantkalij	kʰ a Ø k	kʰ a Ø k|-	kʰ a Ø k|-|ŋ
+1412	?	796	Khispi	pheasant, kalij	pheasantkalij	kʰ Ø Ø k	kʰ Ø Ø k|-	kʰ Ø Ø k|-|ŋ
+1413		800	Duhumbi	pheasant, tragopan	pheasanttragopan	h ɔ	h|hw ɔ|a	h|hw|w ɔ|a|u
+1414		800	Khispi	pheasant, tragopan	pheasanttragopan	h ɔ	h|hw ɔ|a	h|hw|ɕ ɔ|a|u
+1415		800	Khoina	pheasant, tragopan	pheasanttragopan	x u	x|h u|ɔ	x|h|f u|ɔ|ũː
+1416		800	Rahung	pheasant, tragopan	pheasanttragopan	h u	h|kʰ u	h|kʰ u
+1417		800	Shergaon	pheasant, tragopan	pheasanttragopan	h u	h|k u|ɔ	h|k u|ɔ
+1418	?	801	Khispi	pheasant, tragopan	pheasanttragopan	b a Ø	b a Ø	b a Ø
+1419	?	801	Khoina	pheasant, tragopan	pheasanttragopan	b aː Ø	b aː Ø	b aː Ø
+1420	?	801	Rahung	pheasant, tragopan	pheasanttragopan	b ɔ Ø	b ɔ Ø	b ɔ Ø
+1421	?	805	Duhumbi	pillow	pillow	ɕ e Ø	ɕ|s e Ø	ɕ|s e Ø
+1422	?	805	Khispi	pillow	pillow	ɕ aj Ø	ɕ aj Ø	ɕ aj Ø
+1423		807	Jerigaon	pinch	pinch	tɕ i k	tɕ i k|-	tɕ i k|-
+1424		807	Shergaon	pinch	pinch	tɕ i k	tɕ i k|t	tɕ i k|t
+1425	?	812	Rahung	plait	plait	pʰ Ø oː	pʰ Ø oː	pʰ Ø oː
+1426	?	812	Shergaon	plait	plait	pʰ Ø uː	pʰ Ø uː	pʰ Ø uː
+1427	?	814	Jerigaon	plant  (vt)	plantvt	Ø ɐː -	Ø ɐː -	Ø ɐː -
+1428	?	814	Shergaon	plant  (vt)	plantvt	p Ø -	p Ø -|j	p Ø -|j
+1429	?	815	Jerigaon	play	play	l Ø -	l Ø -	l Ø -
+1430	?	815	Khoitam	play	play	l Ø -	l|r Ø -	l|r Ø -
+1431	?	815	Rahung	play	play	l Ø -	l|r Ø -	l|r|n Ø -
+1432	?	816	Duhumbi	play	play	Ø ɛ ŋ	Ø ɛ|a ŋ|m	Ø ɛ|a|aj ŋ|m|n
+1433	?	816	Khispi	play	play	Ø ɛ ŋ	Ø ɛ|i ŋ|m	Ø ɛ|i|aj ŋ|m|n
+1434	?	816	Khoina	play	play	Ø ai ŋ	Ø ai|ɛ ŋ|-	Ø ai|ɛ|a ŋ|-|j
+1435	?	816	Rupa	play	play	Ø ɛ ŋ	Ø ɛ|a ŋ|n	Ø ɛ|a ŋ|n|-
+1436	?	816	Shergaon	play	play	Ø ɛ ŋ	Ø ɛ|a ŋ|n	Ø ɛ|a|- ŋ|n|-
+1437	?	817	Jerigaon	plough (v)	ploughv	w Ø -	w Ø -	w Ø -
+1438	?	817	Shergaon	plough (v)	ploughv	w Ø -	w Ø -|j	w Ø -|j
+1439	?	818	Shergaon	plural	plural	tʰ Ø -	tʰ|t Ø -	tʰ|t Ø -
+1440		823	Jerigaon	pour	pour	r y k	r y|i k|-	r y|i|ə k|-|ŋ
+1441		823	Khoina	pour	pour	r y k	r|n y|i k|ŋ	r|n y|i|a k|ŋ
+1442		823	Khoitam	pour	pour	l y k	l|n y|i k|ŋ	l|n y|i k|ŋ|-
+1443		823	Rahung	pour	pour	r y k	r|pʰ y|i k|ŋ	r|pʰ y|i k|ŋ|-
+1444		824	Jerigaon	present	present	d i	d|t i	d|t|s i
+1445		824	Khoitam	present	present	d ɛ	d|t ɛ	d|t|tɕʰ ɛ
+1446		824	Rahung	present	present	d ɛ	d|l ɛ	d|l|t ɛ
+1447		824	Rupa	present	present	d i	d|n i|iː	d|n|p i|iː
+1448		824	Shergaon	present	present	d i	d|t i	d|t|tɕʰ i
+1449		825	Khoina	prohibitive prefix	prohibitiveprefix	d a	d a|ə	d a|ə
+1450		829	Duhumbi	pumpkin	pumpkin	pʰ ɕ ɔ ŋ	pʰ|pɕ ɕ ɔ|a ŋ|m	pʰ|pɕ|p ɕ ɔ|a|u ŋ|m|n
+1451		829	Khispi	pumpkin	pumpkin	pʰ ɕ ɔ ŋ	pʰ|pɕ ɕ ɔ|a ŋ|m	pʰ|pɕ|p ɕ ɔ|a|u ŋ|m|n
+1452		829	Rupa	pumpkin	pumpkin	pʰ l u ŋ	pʰ|p l u|- ŋ|n	pʰ|p l u|-|ũ ŋ|n|k
+1453		829	Shergaon	pumpkin	pumpkin	pʰ l u ŋ	pʰ|p l u|- ŋ|n	pʰ|p l u|- ŋ|n|k
+1454		830	Duhumbi	pumpkin	pumpkin	m a	m a|u	m a|u|ɛ
+1455		830	Khispi	pumpkin	pumpkin	m a	m|p a|ɔ	m|p a|ɔ|ɛ
+1456		830	Rupa	pumpkin	pumpkin	m a	m|b a|ə	m|b a|ə|-
+1457		830	Shergaon	pumpkin	pumpkin	m a	m|b a|ə	m|b a|ə|-
+1458	?	833	Jerigaon	pumpkin	pumpkin	b Ø u m	b|h Ø u|ɔ m	b|h Ø u|ɔ|uː m
+1459	?	833	Khoina	pumpkin	pumpkin	b Ø u m	b|p Ø u|yː m	b|p|f Ø u|yː|uː m
+1460	?	833	Khoitam	pumpkin	pumpkin	b Ø u m	b|p Ø u|uː m	b|p|f Ø u|uː|ɛˀ m
+1461	?	833	Rahung	pumpkin	pumpkin	b Ø u ŋ	b|p Ø u|uː ŋ	b|p|pʰ Ø u|uː|ɛˀ ŋ
+1462	?	839	Khispi	put	put	t Ø j	t|d Ø j|-	t|d Ø j|-
+1463	?	841	Shergaon	quarrel (v)	quarrelv	Ø Ø -	Ø Ø -|j	Ø Ø -|j
+1464		843	Jerigaon	question	question	j a	j|m a|ɐ	j|m a|ɐ|ɛˀ
+1465		843	Khoina	question	question	j a	j a|ɐ	j a|ɐ|ə
+1466		843	Shergaon	question	question	j a	j a	j a
+1467		849	Duhumbi	rice, husked	?	tɕʰ a	tɕʰ|ɕ a|ɔw	tɕʰ|ɕ|tsʰ a|ɔw|e
+1468		849	Khispi	rice, husked	?	tɕʰ a	tɕʰ|ɕ a|u	tɕʰ|ɕ|tsʰ a|u|ɔw
+1469		849	Rupa	rice, husked	?	tɕʰ uː	tɕʰ|tsʰ uː|oː	tɕʰ|tsʰ|ʨʰ uː|oː|u
+1470		849	Shergaon	rice, husked	?	tɕʰ uː	tɕʰ uː|-	tɕʰ uː|-|o
+1471	?	852	Duhumbi	rainbow	rainbow	b Ø m	b Ø m|-	b Ø m|-|ŋ
+1472	?	852	Khispi	rainbow	rainbow	p Ø m	p Ø m	p Ø m
+1473	?	853	Duhumbi	rainbow	rainbow	ɹ Ø -	ɹ|ɬ Ø -|m	ɹ|ɬ Ø -|m
+1474	?	853	Khispi	rainbow	rainbow	l Ø -	l Ø -|m	l Ø -|m
+1475		855	Duhumbi	rainbow	rainbow	kʰ i	kʰ|kʰɹ i|ɛ	kʰ|kʰɹ|k i|ɛ
+1476		855	Jerigaon	rainbow	rainbow	kʰ ə	kʰ|tɕʰ ə	kʰ|tɕʰ|k ə
+1477		855	Khispi	rainbow	rainbow	kʰ i	kʰ i|ɛ	kʰ i|ɛ
+1478		855	Khoina	rainbow	rainbow	kʰ y	kʰ|ʈʂʰ y|ə	kʰ|ʈʂʰ|g y|ə
+1479		855	Khoitam	rainbow	rainbow	kʰ ə	kʰ|tɕʰ ə|u	kʰ|tɕʰ|kʰw ə|u
+1480		855	Rahung	rainbow	rainbow	kʰ -	kʰ|tɕʰ -|ə	kʰ|tɕʰ|h -|ə
+1481		856	Jerigaon	reap	reap	r ɔ̃ː -	r ɔ̃ː -	r ɔ̃ː -
+1482		856	Khispi	reap	reap	l a m	l|ɕ a m|-	l|ɕ a m|-
+1483		856	Khoina	reap	reap	r ũː -	r ũː|ɔ̃ː -	r ũː|ɔ̃ː|yː -
+1484		856	Shergaon	reap	reap	r ɔ̃ː -	r ɔ̃ː -	r ɔ̃ː -
+1485		857	Jerigaon	recognise	recognise	ĩˀ -	ĩˀ -	ĩˀ -
+1486	?	857	Shergaon	recognise	recognise	Ø -	Ø -	Ø -
+1487	?	864	Jerigaon	rest (n)	restn	tɕ Ø Ø	tɕ Ø Ø	tɕ Ø Ø
+1488	?	864	Shergaon	rest (n)	restn	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1489	?	867	Duhumbi	rib	rib	w Ø	w Ø	w Ø
+1490	?	867	Khoina	rib	rib	Ø i	Ø i	Ø i
+1491	?	868	Duhumbi	rib	rib	r Ø Ø	r|l Ø Ø	r|l|lj Ø Ø
+1492	?	868	Khoina	rib	rib	r Ø Ø	r Ø Ø	r Ø Ø
+1493		871	Khoina	rice, unhusked, paddy	riceunhuskedpaddy	ʂ ɛː	ʂ|ɕ ɛː	ʂ|ɕ|s ɛː
+1494		871	Rahung	rice, unhusked, paddy	riceunhuskedpaddy	s eː	s eː	s eː
+1495		872	Jerigaon	rice, unhusked, paddy	sky-prefix5	n u	n|h u|ə	n|h u|ə|y
+1496		872	Khoina	rice, unhusked, paddy	sky-prefix5	n ɔ	n|r ɔ|a	n|r|h ɔ|a|y
+1497		872	Rahung	rice, unhusked, paddy	sky-prefix5	n ə	n|pʰ ə|a	n|pʰ|h ə|a
+1498		874	Jerigaon	ride, mount	ridemount	ɛ̃ĩ -	ɛ̃ĩ|y -	ɛ̃ĩ|y|yː -
+1499		874	Khoina	ride, mount	ridemount	ɛ̃ː -	ɛ̃ː|y -	ɛ̃ː|y|u -
+1500		874	Khoitam	ride, mount	ridemount	ĩː -	ĩː|ə -	ĩː|ə|- -
+1501		874	Rahung	ride, mount	ridemount	ĩː -	ĩː|a -	ĩː|a|i -
+1502		874	Shergaon	ride, mount	ridemount	ɛ̃ː -	ɛ̃ː|ɛ -	ɛ̃ː|ɛ -
+1503	?	881	Jerigaon	roof	roof	Ø a m	Ø a|ɛˀ m	Ø a|ɛˀ m
+1504	?	881	Shergaon	roof	roof	Ø a m	Ø a m	Ø a m
+1505	?	882	Jerigaon	roof	roof	tɕʰ Ø -	tɕʰ Ø -	tɕʰ Ø -
+1506	?	882	Shergaon	roof	roof	tɕʰ Ø ŋ	tɕʰ Ø ŋ	tɕʰ Ø ŋ
+1507		886	Duhumbi	root	root	h i	h|w i	h|w|kʰ i
+1508		886	Khispi	root	root	h i	h|ɕ i	h|ɕ|j i
+1509		886	Shergaon	root	root	h ĩː	h|k ĩː	h|k ĩː
+1510		888	Duhumbi	rope	rope	ɕ	ɕ|s	ɕ|s
+1511		888	Khispi	rope	rope	ɕ	ɕ	ɕ
+1512		888	Khoitam	rope	rope	s	s	s
+1513		888	Rahung	rope	rope	s	s	s
+1514		888	Rupa	rope	rope	s	s	s
+1515		888	Shergaon	rope	rope	s	s	s
+1516		891	Duhumbi	round, small object	roundsmallobject	l a k	l|n a|ɔ k|-	l|n|ɬ a|ɔ|u k|-|ŋ
+1517		891	Jerigaon	round, small object	roundsmallobject	l a k	l a|ɛ k|-	l a|ɛ|ɛˀ k|-
+1518		891	Khispi	round, small object	roundsmallobject	l a k	l a|ɔ k|-	l a|ɔ|i k|-|ŋ
+1519		891	Khoitam	round, small object	roundsmallobject	l a k	l|r a|ɛ k|-	l|r a|ɛ|i k|-
+1520		891	Rahung	round, small object	roundsmallobject	l a k	l|r a|ɛ k|-	l|r|ɹ a|ɛ|ə k|-
+1521	?	894	Jerigaon	round, small object	roundsmallobject	b Ø Ø	b Ø Ø	b Ø Ø
+1522		895	Duhumbi	rub	rub	n u ŋ	n|h u|ɔ ŋ|m	n|h|ɲ u|ɔ ŋ|m|-
+1523		895	Khispi	rub	rub	n u ŋ	n|h u|ɔ ŋ|m	n|h|ɲ u|ɔ|a ŋ|m|l
+1524		895	Khoitam	rub	rub	n y ŋ	n y ŋ|-	n y ŋ|-
+1525		895	Shergaon	rub	rub	n u ŋ	n u|i ŋ	n u|i ŋ
+1526		896	Jerigaon	rub; sharpen	rubsharpen	z yː -	z yː -	z yː -
+1527		896	Shergaon	rub; sharpen	rubsharpen	z iː -	z iː -	z iː -
+1528	?	897	Duhumbi	run	run	Ø e	Ø e	Ø e
+1529	?	897	Jerigaon	run	run	Ø ɛː	Ø ɛː	Ø ɛː
+1530	?	897	Khispi	run	run	Ø a	Ø a	Ø a
+1531	?	897	Khoitam	run	run	Ø ɛː	Ø ɛː	Ø ɛː
+1532	?	899	Jerigaon	saliva	saliva	tɕ Ø Ø	tɕ Ø Ø	tɕ Ø Ø
+1533	?	899	Rupa	saliva	saliva	tɕʰ ɛː Ø	tɕʰ ɛː Ø	tɕʰ ɛː Ø
+1534	?	899	Shergaon	saliva	saliva	Ø Ø Ø	Ø Ø Ø	Ø Ø Ø
+1535	?	900	Duhumbi	saliva	saliva	Ø a	Ø a|u	Ø a|u|ɛ
+1536		900	Jerigaon	saliva	saliva	t a	t a|ɛˀ	t a|ɛˀ|ɛ
+1537	?	900	Khispi	saliva	saliva	Ø a	Ø a|ɔ	Ø a|ɔ|ɛ
+1538		900	Rupa	saliva	saliva	p a	p a|ə	p a|ə|-
+1539		900	Shergaon	saliva	saliva	t a	t a|ə	t a|ə|-
+1540	?	908	Duhumbi	sand	sand	Ø i	Ø i|ɛ	Ø i|ɛ|ɔ
+1541		908	Khispi	sand	sand	tɕʰ i	tɕʰ i	tɕʰ i
+1542		908	Rupa	sand	sand	b ɔʰ	b ɔʰ|ɔ	b ɔʰ|ɔ
+1543		908	Shergaon	sand	sand	b iː	b iː|ɔ	b iː|ɔ|ɔʰ
+1544	?	912	Duhumbi	scratch	scratch	h Ø -	h|hw Ø -	h|hw|w Ø -
+1545	?	912	Khispi	scratch	scratch	h Ø -	h|hw Ø -	h|hw|ɕ Ø -
+1546		912	Khoina	scratch	scratch	x aː -	x|h aː -	x|h|f aː -
+1547		912	Shergaon	scratch	scratch	h aː ŋ	h|k aː ŋ	h|k|n aː ŋ
+1548		913	Jerigaon	search	search	s ɔː -	s|z ɔː -	s|z ɔː -
+1549		913	Shergaon	search	search	s a w	s a w	s a w
+1550	?	923	Khoina	sew	sew	tsʰ Ø -	tsʰ Ø -	tsʰ Ø -
+1551	?	923	Rupa	sew	sew	tɕʰ Ø -	tɕʰ|ʨʰ Ø -|w	tɕʰ|ʨʰ|ʨ Ø -|w
+1552	?	923	Shergaon	sew	sew	tɕʰ Ø -	tɕʰ Ø -|ŋ	tɕʰ Ø -|ŋ
+1553		924	Duhumbi	shade	shade	tɕʰ a p	tɕʰ|ɕ a|ɔ p	tɕʰ|ɕ a|ɔ|ɔː p
+1554		924	Jerigaon	shade	shade	tɕʰ a -	tɕʰ a|ɐ -	tɕʰ a|ɐ|ɛˀ -
+1555		924	Khoina	shade	shade	tɕʰ a -	tɕʰ|tsʰ a|ɐ -	tɕʰ|tsʰ|ʈʂʰ a|ɐ|ɛ -
+1556		924	Rahung	shade	shade	tɕʰ a p	tɕʰ a|i p	tɕʰ a|i|ə p
+1557		924	Shergaon	shade	shade	tɕʰ a p	tɕʰ a|u p	tɕʰ a|u|ɔ p
+1558		926	Jerigaon	shake	shake	kʰ i -	kʰ i|yː -	kʰ i|yː|ɛ̃ː -
+1559		926	Khoitam	shake	shake	kʰ i -	kʰ i|iː -|ŋ	kʰ i|iː|- -|ŋ|n
+1560		926	Rahung	shake	shake	kʰ i -	kʰ|pʰ i|ə -|n	kʰ|pʰ i|ə|ĩː -|n
+1561		926	Shergaon	shake	shake	kʰ i -	kʰ i -	kʰ i -
+1562	?	932	Khoitam	sheep	sheep	s Ø	s|z Ø	s|z Ø
+1563	?	936	Khoina	shoe, footwear	leg-prefix	l Ø	l|h Ø	l|h Ø
+1564		937	Jerigaon	shoe, footwear	shoefootwear	r ɔ̃ː -	r ɔ̃ː|i -|m	r ɔ̃ː|i|u -|m
+1565		937	Khoina	shoe, footwear	shoefootwear	r ũː -	r|h ũː|ɔ̃ː -|n	r|h|n ũː|ɔ̃ː|i -|n
+1566		937	Khoitam	shoe, footwear	shoefootwear	l ũː -	l|n ũː|ɔ̃ː -|ŋ	l|n ũː|ɔ̃ː|u -|ŋ|m
+1567		937	Rahung	shoe, footwear	shoefootwear	r ũː -	r|l ũː|ɔ̃ː -|ŋ	r|l|pʰ ũː|ɔ̃ː|i -|ŋ|n
+1568		937	Shergaon	shoe, footwear	shoefootwear	l ɔ̃ː -	l|p ɔ̃ː|u -|n	l|p ɔ̃ː|u -|n
+1569		943	Khoina	shoulder	shoulder	pʰ a k	pʰ a|ə k	pʰ a|ə|aː k
+1570		944	Rupa	tooth	?	tʰ y ŋ	tʰ y ŋ	tʰ y ŋ
+1571		945	Duhumbi	shoulder	shoulder	l u	l|ɹ u|a	l|ɹ|h u|a|i
+1572		945	Jerigaon	shoulder	shoulder	l ə	l|r ə|-	l|r ə|-|a
+1573		945	Khispi	shoulder	shoulder	l u	l|h u|a	l|h u|a|i
+1574		945	Khoina	shoulder	shoulder	l ə	l|h ə|a	l|h|r ə|a|y
+1575		945	Khoitam	shoulder	shoulder	l ə	l|r ə|-	l|r ə|-|u
+1576		945	Rahung	shoulder	shoulder	l ə	l|r ə|-	l|r|ɹ ə|-|a
+1577		946	Duhumbi	shoulder	shoulder	j a	j|w a|i	j|w|dʑ a|i|ɛ
+1578		946	Jerigaon	shoulder	shoulder	j ə	j|m ə|a	j|m ə|a|y
+1579		946	Khispi	shoulder	shoulder	j i	j|w i|a	j|w|g i|a|e
+1580		946	Khoina	shoulder	shoulder	j a	j a|ə	j a|ə|ɛ
+1581		946	Rupa	shoulder	shoulder	j ə	j|w ə	j|w ə
+1582		946	Shergaon	shoulder	shoulder	j ə	j|h ə	j|h ə
+1583		949	Duhumbi	sick (vi)	sickvi	k ɔ	k ɔ|a	k ɔ|a|u
+1584		949	Jerigaon	sick (vi)	sickvi	k u	k u|ɔ	k u|ɔ|-
+1585		949	Khispi	sick (vi)	sickvi	k ɔ	k ɔ|a	k ɔ|a|u
+1586		949	Rahung	sick (vi)	sickvi	k u	k u|ə	k u|ə
+1587		949	Rupa	sick (vi)	sickvi	k u	k|g u|y	k|g u|y|ə
+1588		949	Shergaon	sick (vi)	sickvi	k u	k u|ɔ	k u|ɔ|ə
+1589		950	Duhumbi	silver	silver	ɲ i n	ɲ|ŋ i|u n	ɲ|ŋ i|u|iˀ n
+1590		950	Khispi	silver	silver	ɲ i n	ɲ|ŋ i|u n	ɲ|ŋ i|u n
+1591		951	Jerigaon	silver	silver	n u -	n|- u|ɔ -	n|- u|ɔ|ə -
+1592		951	Khoina	silver	silver	n u -	n|- u|ɔ -	n|- u|ɔ|y -
+1593		951	Khoitam	silver	silver	n u -	n|- u|ɔ -	n|- u|ɔ|a -
+1594		951	Rahung	silver	silver	n u -	n|- u|ɔ -	n|- u|ɔ|a -
+1595		951	Rupa	silver	silver	ɲ u -	ɲ u|ɔ -|j	ɲ u|ɔ|a -|j
+1596		951	Shergaon	silver	silver	ɲ u -	ɲ u|ɔ -|j	ɲ u|ɔ|a -|j
+1597	?	952	Rahung	sing	sing	t Ø -	t Ø -	t Ø -
+1598	?	952	Shergaon	sing	sing	t Ø -	t Ø -|j	t Ø -|j
+1599	?	953	Khoitam	sister, elder	sisterelder	Ø yː	Ø yː|i	Ø yː|i|ɔː
+1600	?	953	Rahung	sister, elder	sisterelder	Ø yː	Ø yː|eː	Ø yː|eː|i
+1601	?	953	Rupa	sister, elder	sisterelder	Ø yː	Ø yː|eː	Ø yː|eː|i
+1602	?	953	Shergaon	sister, elder	sisterelder	Ø iː	Ø iː|yː	Ø iː|yː|i
+1603	?	955	Jerigaon	sister, younger	sisteryounger	n Ø Ø	n|h Ø Ø	n|h Ø Ø
+1604	?	955	Khoina	sister, younger	sisteryounger	n - Ø	n|r - Ø	n|r - Ø
+1605	?	955	Shergaon	sister, younger	sisteryounger	n ə Ø	n ə Ø	n ə Ø
+1606		956	Jerigaon	sister, younger	sisteryounger	ɛ	ɛ|a	ɛ|a
+1607		956	Khoina	sister, younger	sisteryounger	a	a|ə	a|ə|aː
+1608		956	Shergaon	sister, younger	sisteryounger	a	a	a
+1609		965	Khispi	sit	sit	d u ŋ	d u|ɔ ŋ|-	d u|ɔ ŋ|-
+1610	?	981	Duhumbi	small	da-suffix2	d Ø	d Ø	d Ø
+1611		984	Jerigaon	smell (n)	smelln	s ĩː -	s|tɕ ĩː|i -	s|tɕ|- ĩː|i|y -
+1612		984	Khoina	smell (n)	smelln	ʂ ĩː -	ʂ|s ĩː|y -	ʂ|s|ɕ ĩː|y|u -
+1613		984	Khoitam	smell (n)	smelln	s ĩː -	s|tɕ ĩː|i -	s|tɕ|z ĩː|i|ə -
+1614		984	Rahung	smell (n)	smelln	s ĩː -	s|tɕʰ ĩː|y -	s|tɕʰ|tɕ ĩː|y|a -
+1615		984	Shergaon	smell (n)	smelln	s ĩː -	s|ɕ ĩː -	s|ɕ ĩː -
+1616	?	987	Duhumbi	smell (vi)	SMELL2	ɲ Ø -	ɲ|ŋ Ø -	ɲ|ŋ Ø -
+1617	?	987	Khispi	smell (vi)	SMELL2	ɲ Ø -	ɲ|ŋ Ø -	ɲ|ŋ Ø -
+1618		987	Khoina	smell (vi)	SMELL2	n aː -	n|r aː -	n|r aː -
+1619		990	Duhumbi	snake	SNAKE	tɕʰ a m	tɕʰ|k a m|ŋ	tɕʰ|k a m|ŋ
+1620		990	Khispi	snake	SNAKE	tɕʰ ɔ m	tɕʰ|kʰ ɔ m|ŋ	tɕʰ|kʰ ɔ m|ŋ
+1621		992	Jerigaon	snatch away	SNATCH	kʰ ɔ	kʰ|tɕʰ ɔ	kʰ|tɕʰ|k ɔ
+1622		992	Khispi	snatch away	SNATCH	kʰ ɔw	kʰ ɔw	kʰ ɔw
+1623		992	Khoina	snatch away	SNATCH	kʰ ɔ	kʰ|ʈʂʰ ɔ	kʰ|ʈʂʰ|g ɔ
+1624		992	Khoitam	snatch away	SNATCH	kʰ ɔ	kʰ|tɕʰ ɔ	kʰ|tɕʰ|kʰw ɔ
+1625		992	Rahung	snatch away	SNATCH	kʰ o	kʰ|tɕʰ o	kʰ|tɕʰ|h o
+1626		992	Shergaon	snatch away	SNATCH	kʰ aw	kʰ aw	kʰ aw
+1627	?	997	Jerigaon	soda ash	_kha-prefix	kʰ Ø	kʰ Ø	kʰ Ø
+1628	?	997	Khispi	soda ash	_kha-prefix	kʰ Ø	kʰ Ø	kʰ Ø
+1629	?	997	Khoitam	soda ash	_kha-prefix	kʰ Ø	kʰ Ø	kʰ Ø
+1630	?	997	Shergaon	soda ash	_kha-prefix	kʰ Ø	kʰ Ø	kʰ Ø
+1631	?	1006	Jerigaon	song	SONG2	Ø Ø	Ø Ø	Ø Ø
+1632	?	1006	Khoina	song	SONG2	Ø Ø	Ø Ø	Ø Ø
+1633	?	1006	Khoitam	song	SONG2	Ø Ø	Ø Ø	Ø Ø
+1634	?	1006	Shergaon	song	SONG2	Ø Ø	Ø Ø	Ø Ø
+1635	?	1008	Jerigaon	song	SONG1	Ø Ø	Ø Ø	Ø Ø
+1636	?	1008	Khoina	song	SONG1	Ø Ø	Ø Ø	Ø Ø
+1637		1013	Khoitam	sour	sour	b u	b u	b u
+1638	?	1013	Shergaon	sour	sour	Ø Ø	Ø Ø	Ø Ø
+1639		1014	Duhumbi	sour	sour	kʰ ɛ	kʰ ɛ|i	kʰ ɛ|i
+1640		1014	Khispi	sour	sour	kʰ e	kʰ e|i	kʰ e|i
+1641		1017	Jerigaon	sow, broadcast	sowbroadcast	pʰ i k	pʰ i k	pʰ i k
+1642		1017	Rahung	sow, broadcast	sowbroadcast	pʰ i k	pʰ i k	pʰ i k
+1643		1017	Shergaon	sow, broadcast	sowbroadcast	pʰ i t	pʰ i t	pʰ i t
+1644		1018	Duhumbi	sow, broadcast	sowbroadcast	h ɛ	h|w ɛ|ɔ	h|w|kʰ ɛ|ɔ|e
+1645		1018	Jerigaon	sow, broadcast	sowbroadcast	h eˀ	h eˀ|ɛ	h eˀ|ɛ
+1646		1018	Khispi	sow, broadcast	sowbroadcast	h ɛ	h|ɕ ɛ|e	h|ɕ|j ɛ|e
+1647		1018	Shergaon	sow, broadcast	sowbroadcast	h eˀ	h|k eˀ	h|k eˀ
+1648	?	1023	Jerigaon	sparrow	sparrow	Ø u	Ø u|ɔː	Ø u|ɔː
+1649	?	1023	Khoina	sparrow	sparrow	Ø ɔ	Ø ɔ	Ø ɔ
+1650		1024	Jerigaon	sparrow	sparrow	l i ŋ	l|r i|iː ŋ|-	l|r|fl i|iː|ə ŋ|-|n
+1651		1024	Khoina	sparrow	sparrow	l i ŋ	l|r i|iː ŋ|-	l|r|h i|iː|aː ŋ|-|n
+1652		1024	Khoitam	sparrow	sparrow	l i ŋ	l|r i|iː ŋ|-	l|r|pʰl i|iː|ə ŋ|-|m
+1653		1024	Rahung	sparrow	sparrow	l i ŋ	l|r i|iː ŋ|-	l|r|pʰl i|iː|ə ŋ|-|m
+1654		1024	Rupa	sparrow	sparrow	l i ŋ	l|r i|iː ŋ|-	l|r|d i|iː|ə ŋ|-|m
+1655		1024	Shergaon	sparrow	sparrow	l i ŋ	l|r i|iː ŋ|-	l|r|pʰl i|iː|ə ŋ|-|m
+1656		1025	Jerigaon	sparrow	sparrow	d a k	d|r a|uː k|-	d|r|s a|uː|ɐ k|-|ŋ
+1657		1025	Khoina	sparrow	sparrow	d a k	d|r a|uː k|-	d|r|t a|uː|ɐ k|-|ŋ
+1658		1025	Khoitam	sparrow	sparrow	d a k	d|r a|uː k|-	d|r|t a|uː|ə k|-|ŋ
+1659		1025	Rahung	sparrow	sparrow	d a k	d|r a|uː k|ŋ	d|r|tɕʰ a|uː|- k|ŋ|-
+1660		1025	Rupa	sparrow	sparrow	d a k	d|r a|uː k|ŋ	d|r|t a|uː|ə k|ŋ
+1661		1025	Shergaon	sparrow	sparrow	d a k	d|r a|uː k|-	d|r|tɕʰ a|uː|ɔ̃ː k|-|ŋ
+1662	?	1028	Khispi	speak	speak	Ø a w	Ø a w	Ø a w
+1663	?	1028	Khoitam	speak	speak	Ø ɔ̃ː -	Ø ɔ̃ː -	Ø ɔ̃ː -
+1664	?	1029	Duhumbi	speak	speak	ɕ Ø i	ɕ|s Ø i|u	ɕ|s|ts Ø i|u|ɛ
+1665	?	1029	Jerigaon	speak	speak	s Ø eː	s|z Ø eː	s|z Ø eː
+1666	?	1029	Khispi	speak	speak	ɕ Ø i	ɕ|s Ø i|u	ɕ|s|ts Ø i|u
+1667	?	1029	Khoina	speak	speak	ʂ Ø ɛː	ʂ|s Ø ɛː|eː	ʂ|s|ɕ Ø ɛː|eː
+1668	?	1029	Khoitam	speak	speak	s Ø eː	s|ts Ø eː	s|ts|z Ø eː
+1669		1029	Shergaon	speak	speak	s t eː	s|ɕ t eː	s|ɕ t eː
+1670	?	1034	Rupa	spicy, pungent	spicypungent	p Ø -	p Ø -|j	p Ø -|j
+1671	?	1034	Shergaon	spicy, pungent	spicypungent	p Ø -	p Ø -|j	p Ø -|j
+1672		1037	Jerigaon	spider	spider	g a -	g|kʰ a|ə -|ŋ	g|kʰ a|ə|i -|ŋ|m
+1673		1037	Khoitam	spider	spider	g i -	g|kʰ i|a -|ŋ	g|kʰ|dʑ i|a|u -|ŋ|m
+1674		1037	Rahung	spider	spider	g a -	g|kʰ a|ə -|ŋ	g|kʰ|dʑ a|ə|i -|ŋ|n
+1675		1037	Rupa	spider	spider	g a -	g|ʥ a|ə -|ŋ	g|ʥ a|ə|y -|ŋ
+1676		1037	Shergaon	spider	spider	g a -	g|k a|ə -|n	g|k|dʑ a|ə|ɔ -|n|ŋ
+1677	?	1038	Duhumbi	spider	spider	Ø Ø Ø Ø	Ø Ø Ø Ø	Ø Ø Ø Ø
+1678	?	1038	Khispi	spider	spider	Ø Ø Ø Ø	Ø Ø Ø Ø	Ø Ø Ø Ø
+1679	?	1038	Khoina	spider	spider	d ɹ Ø Ø	d ɹ Ø Ø	d ɹ Ø Ø
+1680	?	1039	Khoina	spider	spider	Ø Ø j	Ø Ø j	Ø Ø j
+1681	?	1040	Jerigaon	spider	spider	pʰ Ø	pʰ Ø	pʰ Ø
+1682		1040	Khoitam	spider	spider	pʰ ɛːʰ	pʰ|p ɛːʰ	pʰ|p ɛːʰ
+1683		1040	Rahung	spider	spider	pʰ ɛːʰ	pʰ|p ɛːʰ	pʰ|p ɛːʰ
+1684	?	1040	Rupa	spider	spider	pʰ Ø	pʰ|b Ø	pʰ|b Ø
+1685	?	1040	Shergaon	spider	spider	pʰ Ø	pʰ|b Ø	pʰ|b Ø
+1686		1041	Duhumbi	spider	spider	n a	n|ɲ a|u	n|ɲ|ŋ a|u|ɛ
+1687		1041	Khispi	spider	spider	n a	n|ɲ a|ɔ	n|ɲ|ŋ a|ɔ|u
+1688		1041	Khoina	spider	spider	n a	n|r a|ə	n|r a|ə|aː
+1689		1041	Khoitam	spider	spider	n a	n a|ə	n a|ə|i
+1690		1041	Rupa	spider	spider	n a	n|ɲ a|ə	n|ɲ a|ə|-
+1691		1041	Shergaon	spider	spider	n a	n|ɲ a|ə	n|ɲ a|ə|-
+1692	?	1044	Rahung	spirit, soul, shadow	spiritsoulshadow	Ø	Ø	Ø
+1693		1046	Duhumbi	spit	spit	kʰ ɔ	kʰ ɔ	kʰ ɔ
+1694		1046	Khispi	spit	spit	kʰ ɔ	kʰ ɔ	kʰ ɔ
+1695		1048	Rahung	spit	throw	tʰ øˀ -	tʰ øˀ -	tʰ øˀ -
+1696		1048	Shergaon	spit	throw	tʰ eˀ -	tʰ eˀ -	tʰ eˀ -
+1697	?	1052	Khoina	split	split	tsʰ Ø -	tsʰ Ø -	tsʰ Ø -
+1698	?	1052	Khoitam	split	split	z Ø k	z Ø k	z Ø k
+1699	?	1052	Shergaon	split	split	Ø Ø -	Ø Ø -	Ø Ø -
+1700	?	1056	Khispi	squirrel	squirrel	ts Ø l	ts Ø l|-	ts Ø l|-
+1701	?	1056	Rahung	squirrel	squirrel	tɕ Ø ŋ	tɕ Ø ŋ	tɕ Ø ŋ
+1702	?	1057	Duhumbi	squirrel	squirrel	k Ø	k Ø	k Ø
+1703	?	1057	Khispi	squirrel	squirrel	Ø i	Ø i	Ø i
+1704		1057	Rahung	squirrel	squirrel	g ɛ	g ɛ	g ɛ
+1705	?	1058	Duhumbi	squirrel	squirrel	ɕ Ø ɔ p	ɕ|s Ø ɔ|u p|-	ɕ|s|ts Ø ɔ|u|a p|-
+1706	?	1058	Jerigaon	squirrel	squirrel	s Ø ɔ -	s|z Ø ɔ|ø -	s|z Ø ɔ|ø|ɛ -
+1707	?	1058	Khispi	squirrel	squirrel	ɕ Ø ɔ p	ɕ|s Ø ɔ|u p|-	ɕ|s|ts Ø ɔ|u|a p|-
+1708	?	1058	Khoina	squirrel	squirrel	ʂ Ø ɔ -	ʂ|s Ø ɔ|ø -	ʂ|s|ɕ Ø ɔ|ø|ɔ̃ː -
+1709	?	1058	Khoitam	squirrel	squirrel	s Ø ɔ p	s|ts Ø ɔ|ũː p	s|ts|tɕ Ø ɔ|ũː|ɔː p
+1710		1058	Rahung	squirrel	squirrel	s t ɔ p	s|tɕ t ɔ|ø p|-	s|tɕ t ɔ|ø|- p|-
+1711		1060	Khispi	squirrel, flying	squirrelflying	tɕʰ ɔ l	tɕʰ|tɕ ɔ l|-	tɕʰ|tɕ|d ɔ l|-
+1712		1060	Rupa	squirrel, flying	squirrelflying	tɕʰ u -	tɕʰ|ʨʰ u -	tɕʰ|ʨʰ|tsʰ u -
+1713		1060	Shergaon	squirrel, flying	squirrelflying	tɕʰ u -	tɕʰ u -	tɕʰ u -
+1714	?	1062	Duhumbi	squirrel, flying	squirrelflying	j Ø	j|w Ø	j|w|dʑ Ø
+1715		1062	Khispi	squirrel, flying	squirrelflying	j a	j|w a	j|w|g a
+1716		1062	Rahung	squirrel, flying	squirrelflying	j ɔ̃ː	j|h ɔ̃ː	j|h ɔ̃ː
+1717	?	1062	Rupa	squirrel, flying	squirrelflying	j Ø	j|w Ø	j|w Ø
+1718	?	1062	Shergaon	squirrel, flying	squirrelflying	j Ø	j|h Ø	j|h Ø
+1719	?	1063	Duhumbi	squirrel, flying	squirrelflying	kʰ Ø ɔ Ø	kʰ|ɕ Ø ɔ|ɔː Ø	kʰ|ɕ|tɕʰ Ø ɔ|ɔː Ø
+1720	?	1063	Jerigaon	squirrel, flying	squirrelflying	tɕʰ Ø ɔ Ø	tɕʰ|k Ø ɔ|a Ø	tɕʰ|k|tɕ Ø ɔ|a Ø
+1721	?	1063	Khispi	squirrel, flying	squirrelflying	kʰ Ø ɔ Ø	kʰ|ɕ Ø ɔ Ø	kʰ|ɕ|tɕʰ Ø ɔ Ø
+1722	?	1063	Khoina	squirrel, flying	squirrelflying	ʈʂʰ Ø ɔ Ø	ʈʂʰ|tɕʰ Ø ɔ|a Ø	ʈʂʰ|tɕʰ|g Ø ɔ|a Ø
+1723	?	1063	Khoitam	squirrel, flying	squirrelflying	tɕʰ Ø ɔ Ø	tɕʰ|kʰ Ø ɔ|a Ø	tɕʰ|kʰ Ø ɔ|a Ø
+1724	?	1063	Shergaon	squirrel, flying	squirrelflying	kʰ Ø a Ø	kʰ|tɕʰ Ø a Ø	kʰ|tɕʰ Ø a Ø
+1725		1064	Khoitam	stab	stab	dʑ u k	dʑ u|ɛˀ k|-	dʑ u|ɛˀ|ũː k|-
+1726		1064	Rahung	stab	stab	dʑ u k	dʑ u|ɛˀ k|-	dʑ u|ɛˀ|ũ k|-
+1727		1066	Duhumbi	star	star	ʑ u k	ʑ|ɕ u k|-	ʑ|ɕ|z u k|-|ŋ
+1728		1066	Khispi	star	star	ʑ u k	ʑ|z u|ɔ k|-	ʑ|z|ɕ u|ɔ k|-|ŋ
+1729		1067	Duhumbi	star	star	tɕʰ u ŋ	tɕʰ|ɕ u|i ŋ|m	tɕʰ|ɕ|tsʰ u|i ŋ|m|-
+1730		1067	Jerigaon	star	star	tɕʰ y ŋ	tɕʰ|tɕ y|i ŋ|-	tɕʰ|tɕ y|i ŋ|-
+1731		1067	Khispi	star	star	tɕʰ u ŋ	tɕʰ|ɕ u|ɔ ŋ|m	tɕʰ|ɕ|tsʰ u|ɔ ŋ|m|-
+1732		1067	Khoina	star	star	tsʰ y ŋ	tsʰ|tɕʰ y|a ŋ|-	tsʰ|tɕʰ|ʈʂʰ y|a|i ŋ|-|n
+1733		1067	Rupa	star	star	tɕʰ y ŋ	tɕʰ|tsʰ y|i ŋ|-	tɕʰ|tsʰ|ʨʰ y|i|ə ŋ|-
+1734	?	1070	Jerigaon	steam	steam	h Ø -	h Ø -|ŋ	h Ø -|ŋ
+1735	?	1070	Khispi	steam	steam	h Ø ŋ	h Ø ŋ	h Ø ŋ
+1736	?	1070	Rupa	steam	steam	l Ø ŋ	l|n Ø ŋ|-	l|n|h Ø ŋ|-
+1737	?	1070	Shergaon	steam	steam	p Ø ŋ	p|l Ø ŋ|-	p|l Ø ŋ|-
+1738		1071	Jerigaon	steam	steam	p ɔː	p|m ɔː|ɛˀ	p|m ɔː|ɛˀ
+1739		1071	Khispi	steam	steam	p a	p a	p a
+1740		1071	Khoina	steam	steam	p ɔː	p|b ɔː|a	p|b ɔː|a|uː
+1741		1071	Khoitam	steam	steam	p oː	p|m oː|ɔː	p|m oː|ɔː|uː
+1742		1071	Rupa	steam	steam	p oː	p|m oː|uː	p|m|b oː|uː|-
+1743		1071	Shergaon	steam	steam	p oː	p|m oː|uː	p|m|pl oː|uː|-
+1744		1075	Duhumbi	stich	stich	ts a k	ts|ɕ a|ɛ k|-	ts|ɕ|tɕ a|ɛ|u k|-|ŋ
+1745		1075	Jerigaon	stich	stich	tɕ ɐ k	tɕ|tɕʰ ɐ|ɔ k|-	tɕ|tɕʰ ɐ|ɔ k|-
+1746		1075	Khispi	stich	stich	ts a k	ts|ɕ a|u k|-	ts|ɕ|tɕʰ a|u|ɛ k|-|ŋ
+1747		1075	Khoitam	stich	stich	tɕ a k	tɕ a|ɔː k|-	tɕ a|ɔː|ɔ k|-
+1748		1075	Rahung	stich	stich	tɕ a k	tɕ a|oː k|-	tɕ a|oː|ɔ k|-
+1749	?	1076	Shergaon	stick	stick	kʰ Ø -	kʰ Ø -|j	kʰ Ø -|j
+1750	?	1078	Jerigaon	story	story	t a Ø	t a Ø	t a Ø
+1751	?	1078	Rupa	story	story	t aˀ Ø	t aˀ Ø	t aˀ Ø
+1752	?	1078	Shergaon	story	story	t Ø Ø	t Ø Ø	t Ø Ø
+1753		1079	Duhumbi	story	story	kʰ a ɹ	kʰ|k a|u ɹ|-	kʰ|k|kʰɹ a|u|ɔ ɹ|-
+1754		1079	Jerigaon	story	story	kʰ a ɹ	kʰ|g a|ɛˀ ɹ	kʰ|g a|ɛˀ|ɛ ɹ
+1755		1079	Khispi	story	story	kʰ a ɹ	kʰ|k a|ɔ ɹ|-	kʰ|k a|ɔ|u ɹ|-
+1756		1079	Khoitam	story	story	kʰ a ɹ	kʰ|h a|ə ɹ	kʰ|h|g a|ə|i ɹ
+1757		1079	Rupa	story	story	kʰ a ɹ	kʰ|k a|ə ɹ	kʰ|k|g a|ə|- ɹ
+1758		1079	Shergaon	story	story	kʰ a ɹ	kʰ|k a|ə ɹ	kʰ|k a|ə|u ɹ
+1759	?	1085	Duhumbi	stump (tree)	stumptree	tʰj Ø ɔ Ø	tʰj Ø ɔ|a Ø	tʰj Ø ɔ|a|ɛ Ø
+1760	?	1085	Jerigaon	stump (tree)	stumptree	Ø Ø ɔ Ø	Ø Ø ɔ|ɐ Ø	Ø Ø ɔ|ɐ|a Ø
+1761	?	1085	Khispi	stump (tree)	stumptree	d Ø ɔ Ø	d Ø ɔ|a Ø	d Ø ɔ|a|u Ø
+1762	?	1085	Khoina	stump (tree)	stumptree	tʰ Ø ɔ Ø	tʰ Ø ɔ|ɐ Ø	tʰ Ø ɔ|ɐ|ɔ̃ː Ø
+1763	?	1085	Khoitam	stump (tree)	stumptree	Ø Ø ɔ Ø	Ø Ø ɔ|ũː Ø	Ø Ø ɔ|ũː|y Ø
+1764	?	1085	Shergaon	stump (tree)	stumptree	tʰ Ø ɔ Ø	tʰ Ø ɔ|o Ø	tʰ Ø ɔ|o|a Ø
+1765		1087	Jerigaon	stump (tree)	stumptree	d y -	d y|yː -|n	d y|yː|ə -|n|ŋ
+1766		1087	Khoina	stump (tree)	stumptree	d yː -	d yː|y -|n	d yː|y|ə -|n|ŋ
+1767		1087	Khoitam	stump (tree)	stumptree	d y -	d|tɕʰ y|yː -|m	d|tɕʰ y|yː|ə -|m|ŋ
+1768		1087	Rahung	stump (tree)	stumptree	d yː m	d|tɕʰ yː|y m|-	d|tɕʰ yː|y|ə m|-|ŋ
+1769		1087	Rupa	stump (tree)	stumptree	t yː -	t|tɕʰ yː|y -|m	t|tɕʰ yː|y|ə -|m|ŋ
+1770		1087	Shergaon	stump (tree)	stumptree	t u -	t|tɕʰ u|iː -|m	t|tɕʰ u|iː|ə -|m|ŋ
+1771		1089	Khoina	suck	suck	ʐ y -	ʐ|z y|ɔː -	ʐ|z y|ɔː -
+1772		1089	Rupa	suck	suck	z yː -	z yː -	z yː -
+1773		1090	Duhumbi	suck	suck	kʰ ɛ ŋ	kʰ|tɕʰ ɛ|i ŋ|m	kʰ|tɕʰ ɛ|i|a ŋ|m|-
+1774		1090	Khispi	suck	suck	kʰ ɛ ŋ	kʰ ɛ|i ŋ|m	kʰ ɛ|i|a ŋ|m|l
+1775		1090	Khoitam	suck	suck	tɕʰ ɛ ŋ	tɕʰ|tsʰ ɛ|a ŋ|-	tɕʰ|tsʰ ɛ|a ŋ|-
+1776		1090	Shergaon	suck	suck	kʰ ɛ ŋ	kʰ ɛ ŋ	kʰ ɛ ŋ
+1777		1095	Duhumbi	sun, day	sunday	n u	n|h u|i	n|h|ɲ u|i|y
+1778		1095	Khispi	sun, day	sunday	n u	n|h u|i	n|h|ɲ u|i
+1779		1095	Khoitam	sun, day	sunday	n yː	n yː|-	n yː|-
+1780		1095	Rahung	sun, day	sunday	n yː	n|pʰ yː	n|pʰ|m yː
+1781		1098	Duhumbi	sweet	sweet	ts i	ts|ɕ i	ts|ɕ|tɕ i
+1782		1098	Jerigaon	sweet	sweet	tɕ ĩː	tɕ|tɕʰ ĩː|ɛ̃ĩ	tɕ|tɕʰ ĩː|ɛ̃ĩ|ɛ̃ː
+1783		1098	Khispi	sweet	sweet	ts i	ts|ɕ i	ts|ɕ|tɕʰ i
+1784		1106	Duhumbi	takin	takin	tsʰ u	tsʰ|dʑ u|a	tsʰ|dʑ|tɕ u|a|i
+1785		1106	Khispi	takin	takin	tsʰ u	tsʰ|p u|a	tsʰ|p|d u|a|i
+1786		1106	Khoina	takin	takin	tsʰ ə	tsʰ ə|a	tsʰ ə|a|yː
+1787		1106	Khoitam	takin	takin	tɕʰ ə	tɕʰ|s ə|u	tɕʰ|s ə|u
+1788		1106	Rupa	takin	takin	tɕʰ ə	tɕʰ|tsʰ ə|yː	tɕʰ|tsʰ ə|yː|a
+1789		1106	Shergaon	takin	takin	tsʰ ə	tsʰ|tɕʰ ə|i	tsʰ|tɕʰ ə|i|u
+1790		1107	Duhumbi	takin	takin	tɕʰ u m	tɕʰ|kʰ u m|ŋ	tɕʰ|kʰ|ɕ u m|ŋ|ɹ
+1791		1107	Khispi	takin	takin	tɕʰ u m	tɕʰ|kʰ u m|ŋ	tɕʰ|kʰ|ɕ u m|ŋ|l
+1792		1107	Khoina	takin	takin	tsʰ ø n	tsʰ|tɕʰ ø n|m	tsʰ|tɕʰ|ʈʂʰ ø n|m
+1793		1107	Khoitam	takin	takin	tɕʰ ɔ m	tɕʰ|s ɔ m|n	tɕʰ|s|tsʰ ɔ m|n|ŋ
+1794		1107	Rupa	takin	takin	tɕʰ ɔ m	tɕʰ|kʰ ɔ|øˀ m|ŋ	tɕʰ|kʰ|tsʰ ɔ|øˀ|ø m|ŋ|n
+1795		1107	Shergaon	takin	takin	tɕʰ ɔ m	tɕʰ|kʰ ɔ|eˀ m|n	tɕʰ|kʰ ɔ|eˀ|e m|n
+1796		1114	Jerigaon	tear (vt)	tearvt	z eˀ -	z eˀ -	z eˀ -
+1797		1114	Shergaon	tear (vt)	tearvt	z eˀ -	z eˀ -	z eˀ -
+1798		1115	Duhumbi	tell	tell	ɕ a t	ɕ|s a t	ɕ|s a t
+1799		1115	Jerigaon	tell	tell	s ɐˀ -	s ɐˀ -	s ɐˀ -
+1800	?	1117	Duhumbi	that	that	tʰ Ø	tʰ|t Ø	tʰ|t|m Ø
+1801	?	1117	Khispi	that	that	tʰ Ø	tʰ|t Ø	tʰ|t|m Ø
+1802	?	1119	Khoina	that side	thatside	tʰ Ø ɔː	tʰ|d Ø ɔː	tʰ|d|t Ø ɔː
+1803	?	1119	Rupa	that side	thatside	tʰ Ø aː	tʰ|d Ø aː	tʰ|d Ø aː
+1804	?	1119	Shergaon	that side	thatside	tʰ Ø aː	tʰ|d Ø aː	tʰ|d|t Ø aː
+1805	?	1120	Duhumbi	that side	thatside	kʰ Ø	kʰ|kʰɹ Ø	kʰ|kʰɹ|k Ø
+1806		1120	Jerigaon	that side	thatside	kʰ øː	kʰ øː	kʰ øː
+1807	?	1120	Khispi	that side	thatside	kʰ Ø	kʰ Ø	kʰ Ø
+1808		1120	Khoitam	that side	thatside	kʰ ĩː	kʰ ĩː	kʰ ĩː
+1809		1120	Rahung	that side	thatside	kʰ yː	kʰ|pʰ yː	kʰ|pʰ yː
+1810	?	1126	Khispi	thick	thick	tʰ Ø Ø	tʰ Ø Ø	tʰ Ø Ø
+1811	?	1127	Jerigaon	thief	thief	Ø Ø ɔː -	Ø Ø ɔː -	Ø Ø ɔː -
+1812	?	1127	Rahung	thief	thief	Ø Ø oː -	Ø Ø oː|ɔː -|w	Ø Ø oː|ɔː -|w
+1813	?	1127	Shergaon	thief	thief	Ø Ø a w	Ø Ø a w	Ø Ø a w
+1814	?	1129	Jerigaon	thief	thief	dʑ Ø	dʑ Ø	dʑ Ø
+1815		1129	Rahung	thief	thief	dʑ y	dʑ y	dʑ y
+1816	?	1129	Shergaon	thief	thief	dʑ Ø	dʑ Ø	dʑ Ø
+1817	?	1131	Khoina	thigh	thigh	pʰ Ø uː	pʰ Ø uː|-	pʰ Ø uː|-|yː
+1818		1132	Khispi	thin	thin	tɕ a p	tɕ a p|-	tɕ a p|-
+1819		1137	Jerigaon	thing	thing	m ə	m ə	m ə
+1820		1137	Khoina	thing	thing	m a	m a	m a
+1821	?	1137	Shergaon	thing	thing	m Ø	m Ø	m Ø
+1822		1138	Duhumbi	thing	thing	tɕʰ i ŋ	tɕʰ|ɕ i|u ŋ|m	tɕʰ|ɕ|tsʰ i|u|ɔw ŋ|m|-
+1823		1138	Jerigaon	thing	thing	tɕʰ i ŋ	tɕʰ|tɕ i|ĩː ŋ|-	tɕʰ|tɕ i|ĩː|ɛ ŋ|-
+1824		1138	Khispi	thing	thing	tɕʰ i ŋ	tɕʰ|ɕ i|u ŋ|m	tɕʰ|ɕ|tsʰ i|u|ɔw ŋ|m|l
+1825		1138	Khoina	thing	thing	tsʰ i ŋ	tsʰ|tɕʰ i|y ŋ|-	tsʰ|tɕʰ|ʈʂʰ i|y|ĩː ŋ|-|j
+1826		1138	Shergaon	thing	thing	tɕʰ i ŋ	tɕʰ i|u ŋ|m	tɕʰ i|u ŋ|m|-
+1827		1140	Duhumbi	think	think	tʰ i n	tʰ|t i|u n	tʰ|t|m i|u|iˀ n
+1828		1140	Khispi	think	think	tʰ i n	tʰ|t i|u n	tʰ|t|m i|u n
+1829	?	1143	Duhumbi	this	this	tʰ Ø Ø	tʰ|t Ø Ø	tʰ|t|m Ø Ø
+1830	?	1143	Khispi	this	this	tʰ Ø Ø	tʰ|t Ø Ø	tʰ|t|m Ø Ø
+1831	?	1148	Rupa	thousand	thousand	Ø ɔ	Ø ɔ	Ø ɔ
+1832	?	1148	Shergaon	thousand	thousand	Ø a	Ø a	Ø a
+1833		1149	Rupa	thousand	thousand	t ɔ ŋ	t ɔ ŋ|k	t ɔ ŋ|k
+1834		1149	Shergaon	thousand	thousand	t ɔ ŋ	t ɔ ŋ|k	t ɔ ŋ|k
+1835	?	1155	Duhumbi	thunder (vi)	thundervi	h u Ø	h|hw u|a Ø	h|hw|w u|a|ɛ Ø
+1836		1155	Jerigaon	thunder (vi)	thundervi	h y k	h y|i k	h y|i|ə k
+1837		1155	Khispi	thunder (vi)	thundervi	h u s	h|hw u|a s	h|hw|ɕ u|a|ɔ s
+1838		1155	Khoina	thunder (vi)	thundervi	x y k	x|h y|i k	x|h|f y|i|a k
+1839		1155	Rahung	thunder (vi)	thundervi	h y k	h|kʰ y|i k	h|kʰ y|i|oː k
+1840		1160	Jerigaon	tiger	tiger	n a -	n|r a|uː -|n	n|r|l a|uː|ɐ -|n|ŋ
+1841		1160	Khoina	tiger	tiger	n a -	n|ɲ a|uː -|n	n|ɲ|l a|uː|ɐ -|n|ŋ
+1842		1160	Khoitam	tiger	tiger	n a -	n|l a|uː -|m	n|l a|uː|ə -|m|ŋ
+1843		1160	Rahung	tiger	tiger	n a m	n|l a|uː m|-	n|l a|uː|- m|-|ŋ
+1844		1160	Rupa	tiger	tiger	ɲ a -	ɲ|j a|uː -|m	ɲ|j|n a|uː|ə -|m|ŋ
+1845		1160	Shergaon	tiger	tiger	ɲ a -	ɲ|n a|uː -|m	ɲ|n|- a|uː|ɔ̃ː -|m|ŋ
+1846		1161	Duhumbi	till (hoe)	tillhoe	tɕʰ ɔ k	tɕʰ|ɕ ɔ|ɔˀ k|-	tɕʰ|ɕ ɔ|ɔˀ k|-|ŋ
+1847		1161	Khispi	till (hoe)	tillhoe	tɕʰ ɔ k	tɕʰ|d ɔ k|-	tɕʰ|d ɔ k|-|ŋ
+1848	?	1162	Khispi	tired (vi)	tiredvi	Ø Ø j	Ø Ø j|-	Ø Ø j|-
+1849	?	1162	Rahung	tired (vi)	tiredvi	Ø Ø -	Ø Ø -	Ø Ø -
+1850	?	1162	Shergaon	tired (vi)	tiredvi	Ø Ø -	Ø Ø -|j	Ø Ø -|j|p
+1851	?	1166	Khoina	together with	togetherwith	d Ø Ø	d Ø Ø	d Ø Ø
+1852	?	1169	Duhumbi	tomorrow	tomorrow	Ø Ø	Ø Ø	Ø Ø
+1853	?	1169	Khispi	tomorrow	tomorrow	Ø Ø	Ø Ø	Ø Ø
+1854	?	1175	Rupa	tooth	tooth	Ø - -	Ø - -	Ø - -
+1855		1179	Jerigaon	trivet	trivet	p ɛ ɹ	p|s ɛ|eˀ ɹ	p|s|dʑ ɛ|eˀ|a ɹ
+1856		1179	Khoina	trivet	trivet	p ɛ ɹ	p|tsʰ ɛ|ai ɹ	p|tsʰ|dʑ ɛ|ai|ɛˀ ɹ
+1857		1179	Khoitam	trivet	trivet	p a ɹ	p|s a|ɛ ɹ	p|s|j a|ɛ|eˀ ɹ
+1858		1179	Rahung	trivet	trivet	p ɛ ɹ	p|tɕʰ ɛ|a ɹ	p|tɕʰ|dʑ ɛ|a|eˀ ɹ
+1859		1179	Rupa	trivet	trivet	p a ɹ	p|tsʰ a|ɛ ɹ	p|tsʰ|b a|ɛ|eˀ ɹ
+1860		1179	Shergaon	trivet	trivet	p a ɹ	p|tsʰ a|ɛ ɹ	p|tsʰ|pl a|ɛ|eˀ ɹ
+1861	?	1186	Duhumbi	tusk	tusk	ɲ Ø	ɲ|ŋ Ø	ɲ|ŋ Ø
+1862	?	1186	Jerigaon	tusk	tusk	n Ø	n Ø	n Ø
+1863	?	1186	Khispi	tusk	tusk	ɲ Ø	ɲ|ŋ Ø	ɲ|ŋ Ø
+1864	?	1186	Shergaon	tusk	tusk	ɲ Ø	ɲ Ø	ɲ Ø
+1865	?	1188	Jerigaon	twist	twist	tɕʰ Ø Ø	tɕʰ Ø Ø	tɕʰ Ø Ø
+1866	?	1188	Khispi	twist	twist	kʰ Ø -	kʰ Ø -	kʰ Ø -
+1867	?	1188	Shergaon	twist	twist	kʰ Ø Ø	kʰ Ø Ø	kʰ Ø Ø
+1868	?	1191	Rahung	up there	upthere	l Ø a Ø	l|r Ø a|ə Ø	l|r|n Ø a|ə Ø
+1869		1194	Jerigaon	uproot	uproot	pʰ y ŋ	pʰ|h y|yː ŋ	pʰ|h y|yː ŋ
+1870		1194	Khoina	uproot	uproot	pʰ y ŋ	pʰ|f y|yː ŋ	pʰ|f y|yː ŋ
+1871		1194	Rahung	uproot	uproot	pʰ i ŋ	pʰ|h i ŋ	pʰ|h i ŋ
+1872		1194	Shergaon	uproot	uproot	pʰ i ŋ	pʰ i ŋ	pʰ i ŋ
+1873		1196	Jerigaon	vagina	vagina	tʰ ɔː -	tʰ ɔː|a -	tʰ ɔː|a|ɐ -
+1874		1196	Khoina	vagina	vagina	tʰ ɔː -	tʰ|t ɔː|ə -	tʰ|t ɔː|ə|a -
+1875		1196	Khoitam	vagina	vagina	tʰ ɔː -	tʰ ɔː|a -	tʰ ɔː|a|ɔ̃ː -
+1876		1196	Rahung	vagina	vagina	tʰ oː -	tʰ oː|a -|w	tʰ oː|a|ɔː -|w
+1877		1198	Duhumbi	vegetable, leafy	vegetableleafy	h a	h|hw a|ɛ	h|hw|w a|ɛ
+1878		1198	Jerigaon	vegetable, leafy	vegetableleafy	h ɐ̃	h ɐ̃|-	h ɐ̃|-
+1879		1198	Khispi	vegetable, leafy	vegetableleafy	h a	h|hw a|i	h|hw|ɕ a|i
+1880		1198	Khoina	vegetable, leafy	vegetableleafy	x ɐ̃	x|h ɐ̃|a	x|h|f ɐ̃|a
+1881		1198	Khoitam	vegetable, leafy	vegetableleafy	h ɔ̃	h ɔ̃|a	h ɔ̃|a
+1882	?	1199	Rahung	veranda	veranda	Ø Ø ŋ	Ø Ø ŋ	Ø Ø ŋ
+1883	?	1200	Duhumbi	veranda	veranda	Ø a	Ø a|u	Ø a|u|ɛ
+1884	?	1200	Khispi	veranda	veranda	Ø a	Ø a|ɔ	Ø a|ɔ|u
+1885	?	1200	Khoitam	veranda	veranda	Ø a	Ø a|ə	Ø a|ə|i
+1886		1200	Rupa	veranda	veranda	n a	n a|ə	n a|ə|-
+1887		1200	Shergaon	veranda	veranda	d a	d a|ə	d a|ə|-
+1888		1204	Duhumbi	vomit	vomit	j ɔ k	j|w ɔ|ɔˀ k|-	j|w|- ɔ|ɔˀ k|-|ŋ
+1889		1204	Khispi	vomit	vomit	j ɔ k	j|w ɔ k|-	j|w|- ɔ k|-|ŋ
+1890	?	1205	Khoitam	waist	waist	Ø y Ø	Ø y|i Ø	Ø y|i Ø
+1891	?	1205	Rahung	waist	waist	Ø y Ø	Ø y|i Ø	Ø y|i Ø
+1892		1208	Jerigaon	waist	waist	b ə -	b|m ə|- -|k	b|m ə|-|a -|k
+1893		1208	Khoitam	waist	waist	b ə -	b|m ə|- -|k	b|m|bl ə|-|i -|k
+1894		1208	Rahung	waist	waist	b ə k	b|br ə|a k	b|br|p ə|a|i k
+1895		1208	Rupa	waist	waist	b ə k	b|m ə|a k	b|m|bl ə|a|- k
+1896		1208	Shergaon	waist	waist	b ə -	b|m ə|u -|t	b|m|bl ə|u|a -|t
+1897		1209	Khispi	wait	wait	dʑ a k	dʑ a k|t	dʑ a k|t
+1898		1209	Khoina	wait	wait	dʑ ɐ k	dʑ|ɖʐ ɐ k	dʑ|ɖʐ|dz ɐ k
+1899		1214	Jerigaon	walking stick	walkingstick	g y -	g y|ɔː -	g y|ɔː -
+1900		1214	Khispi	walking stick	walkingstick	kʰ u j	kʰ u j|-	kʰ u j|-
+1901		1214	Khoina	walking stick	walkingstick	g y -	g y -	g y -
+1902		1215	Jerigaon	walking stick	walkingstick	s y ŋ	s y|i ŋ|-	s y|i ŋ|-
+1903		1215	Khispi	walking stick	walkingstick	ɕ u ŋ	ɕ u|ɔ ŋ|-	ɕ u|ɔ ŋ|-
+1904		1215	Khoina	walking stick	walkingstick	s y ŋ	s y|i ŋ|-	s y|i ŋ|-|n
+1905	?	1224	Jerigaon	wealthy	wealthy	Ø Ø k	Ø Ø k|-	Ø Ø k|-
+1906	?	1224	Khoina	wealthy	wealthy	Ø y k	Ø y k	Ø y k
+1907	?	1224	Shergaon	wealthy	wealthy	Ø Ø k	Ø Ø k|t	Ø Ø k|t
+1908		1225	Jerigaon	wealthy	wealthy	p u	p u|ɔ	p u|ɔ
+1909		1225	Khoina	wealthy	wealthy	p u	p u|yː	p u|yː
+1910		1225	Shergaon	wealthy	wealthy	p u	p|pl u	p|pl u
+1911		1226	Khoitam	wear	wear	j ɔ̃ -	j|n ɔ̃ -	j|n ɔ̃ -
+1912		1226	Rahung	wear	wear	j ɔ̃ -	j ɔ̃ -	j ɔ̃ -
+1913		1226	Shergaon	wear	wear	j ɔ̃ -	j ɔ̃ -	j ɔ̃ -
+1914		1228	Duhumbi	weave	weave	d a k	d a k	d a k
+1915	?	1232	Duhumbi	wet	wet	l Ø	l|ɲ Ø	l|ɲ|ɬ Ø
+1916	?	1232	Khispi	wet	wet	l Ø	l|ɲ Ø	l|ɲ Ø
+1917	?	1232	Rupa	wet	wet	l Ø	l|d Ø	l|d Ø
+1918	?	1232	Shergaon	wet	wet	l Ø	l|- Ø	l|- Ø
+1919	?	1233	Duhumbi	wet	wet	Ø u	Ø u|a	Ø u|a|ɔː
+1920	?	1233	Khispi	wet	wet	Ø u	Ø u|ɔː	Ø u|ɔː|a
+1921	?	1233	Rupa	wet	wet	Ø ə	Ø ə|u	Ø ə|u|-
+1922	?	1233	Shergaon	wet	wet	Ø ə	Ø ə|ɔ	Ø ə|ɔ|-
+1923		1235	Duhumbi	wheat	wheat	k a	k|kʰ a|ɔw	k|kʰ a|ɔw|e
+1924		1235	Jerigaon	wheat	wheat	k uː	k|h uː|u	k|h|tɕ uː|u
+1925		1235	Khispi	wheat	wheat	k a	k|kʰ a|ɔw	k|kʰ a|ɔw|e
+1926		1235	Khoina	wheat	wheat	k uː	k|x uː|-	k|x|kʰ uː|-|yː
+1927	?	1237	Duhumbi	wheat	wheat	Ø a	Ø a|ɛ	Ø a|ɛ
+1928	?	1237	Jerigaon	wheat	wheat	Ø u	Ø u|ə	Ø u|ə
+1929	?	1237	Khispi	wheat	wheat	Ø a	Ø a|ɛ	Ø a|ɛ
+1930	?	1237	Khoina	wheat	wheat	Ø u	Ø u|a	Ø u|a|ə
+1931		1240	Duhumbi	where	where	l u	l|n u|a	l|n|ɲ u|a|ɔː
+1932		1240	Jerigaon	where	where	l ɔː	l ɔː|ɔ	l ɔː|ɔ
+1933		1240	Khispi	where	where	l u	l|ɲ u|a	l|ɲ u|a|ɔː
+1934		1240	Rahung	where	where	l oː	l|ɹ oː|ɔː	l|ɹ|r oː|ɔː
+1935		1240	Rupa	where	where	l a	l|d a|oː	l|d a|oː|aw
+1936		1240	Shergaon	where	where	l a	l|- a|aw	l|- a|aw|oː
+1937	?	1241	Jerigaon	where	where	Ø a	Ø a|ɛˀ	Ø a|ɛˀ|i
+1938	?	1241	Rahung	where	where	Ø a	Ø a|ə	Ø a|ə|u
+1939	?	1241	Rupa	where	where	Ø a	Ø a|aː	Ø a|aː|ə
+1940	?	1241	Shergaon	where	where	Ø a	Ø a|aː	Ø a|aː|ɔ
+1941		1246	Duhumbi	white	white	ʑ a	ʑ|z a|u	ʑ|z|ɕ a|u
+1942		1246	Khispi	white	white	ʑ a	ʑ|z a|u	ʑ|z|ɕ a|u
+1943		1248	Jerigaon	white	white	k a -	k|tɕ a|uː -|n	k|tɕ|kʰ a|uː|ɐ -|n|ŋ
+1944		1248	Khoina	white	white	k a -	k|kʰ a|uː -|n	k|kʰ|tɕ a|uː|ɐ -|n|ŋ
+1945		1248	Khoitam	white	white	k a -	k|tɕ a|uː -|n	k|tɕ|h a|uː|ə -|n|ɹ
+1946		1248	Rahung	white	white	k a -	k|tɕ a|uː -|n	k|tɕ|kʰ a|uː|- -|n|m
+1947		1248	Rupa	white	white	k a -	k|kʰ a|uː -|n	k|kʰ|h a|uː|ə -|n|m
+1948		1248	Shergaon	white	white	k a -	k|kʰ a|uː -|n	k|kʰ a|uː|ɔ̃ː -|n
+1949		1256	Rupa	window	window	z y ŋ	z y ŋ	z y ŋ
+1950		1259	Duhumbi	wing	wing	ɲ ɛ j	ɲ ɛ j	ɲ ɛ j
+1951		1259	Rahung	wing	wing	n ə -	n ə -	n ə -
+1952		1259	Shergaon	wing	wing	n ə -	n ə -|j	n ə -|j
+1953		1262	Duhumbi	wipe	wipe	u	u|i	u|i|ɔ
+1954		1262	Jerigaon	wipe	wipe	yː	yː	yː
+1955		1262	Khispi	wipe	wipe	u	u|i	u|i|ɔ
+1956		1262	Khoina	wipe	wipe	yː	yː|y	yː|y|ɔː
+1957		1268	Duhumbi	word	word	ŋ ɔ k	ŋ ɔ k	ŋ ɔ k
+1958		1268	Jerigaon	word	word	n y -	n y -	n y -
+1959	?	1268	Shergaon	word	word	ɲ Ø -	ɲ Ø -	ɲ Ø -
+1960		1269	Jerigaon	work	work	b l ɛ ʔ	b l ɛ ʔ	b l ɛ ʔ
+1961		1269	Khispi	work	work	b - a t	b|p - a|ɛ t|s	b|p - a|ɛ t|s
+1962		1269	Khoitam	work	work	b l a t	b|m l a t	b|m l a t
+1963		1269	Rahung	work	work	b ɹ a t	b|m ɹ a|ɛ t	b|m ɹ a|ɛ t
+1964		1270	Khoina	wring, squeeze	wringsqueeze	tɕ ɛ̃ˀ -	tɕ|ts ɛ̃ˀ -	tɕ|ts|dz ɛ̃ˀ -
+1965		1270	Rupa	wring, squeeze	wringsqueeze	z ɛ̃ˀ -	z|ts ɛ̃ˀ -	z|ts|c ɛ̃ˀ -
+1966	?	1270	Shergaon	wring, squeeze	wringsqueeze	tɕ Ø -	tɕ Ø -	tɕ Ø -
+1967		1272	Jerigaon	year, next	yearnext	b u	b u|ə	b u|ə|-
+1968		1272	Khoina	year, next	yearnext	b u	b u|ə	b u|ə|uː
+1969		1272	Rupa	year, next	yearnext	b u	b|p u|ə	b|p u|ə|-
+1970		1272	Shergaon	year, next	yearnext	pl u	pl u|-	pl u|-|ɔ
+1971	?	1276	Duhumbi	year, next	yearnext	Ø a	Ø a|ɛ	Ø a|ɛ|-
+1972		1276	Jerigaon	year, next	yearnext	m ə	m ə|-	m ə|-
+1973	?	1276	Khispi	year, next	yearnext	Ø a	Ø a|ɔː	Ø a|ɔː|e
+1974		1276	Khoina	year, next	yearnext	b a	b a|y	b a|y|ə
+1975		1276	Rupa	year, next	yearnext	m ə	m ə|-	m ə|-|a
+1976		1276	Shergaon	year, next	yearnext	m ə	m ə|i	m ə|i|a
+1977		1277	Jerigaon	year, this	yearthis	b u	b u	b u
+1978	?	1277	Shergaon	year, this	yearthis	Ø u	Ø u	Ø u
+1979	?	1278	Jerigaon	year, this	yearthis	tʰ a Ø	tʰ a|ɛˀ Ø	tʰ a|ɛˀ Ø
+1980	?	1278	Shergaon	year, this	yearthis	tʰ a Ø	tʰ|t a Ø	tʰ|t a Ø
+1981		1280	Duhumbi	yellow	yellow	aj	aj|e	aj|e
+1982		1280	Khispi	yellow	yellow	aj	aj|i	aj|i
+1983		1281	Duhumbi	yellow	yellow	h ɔj	h|w ɔj	h|w|kʰ ɔj
+1984		1281	Khispi	yellow	yellow	h uj	h|ɕ uj	h|ɕ|j uj
+1985	?	1282	Shergaon	yesterday	yesterday	Ø Ø -	Ø Ø -|p	Ø Ø -|p
+1986	?	1283	Shergaon	yesterday	yesterday	Ø Ø w	Ø Ø w	Ø Ø w
+1987		1285	Duhumbi	2pl.excl	_excl2	b ɔ ŋ	b ɔ|a ŋ|m	b ɔ|a|u ŋ|m|-
+1988		1285	Jerigaon	2pl.excl	_excl2	b u ŋ	b u|y ŋ|-	b u|y|ɔ ŋ|-|ɹ
+1989		1285	Khispi	2pl.excl	_excl2	b ɔ ŋ	b ɔ|a ŋ|m	b ɔ|a|u ŋ|m|-
+1990		1285	Khoina	2pl.excl	_excl2	b u ŋ	b u|y ŋ|-	b u|y|yː ŋ|-|n
+1991		1285	Khoitam	2pl.excl	_excl2	bl u ŋ	bl u|y ŋ|-	bl u|y|ɔ ŋ|-|m
+1992		1285	Rahung	2pl.excl	_excl2	br u ŋ	br u|ə ŋ|-	br u|ə|i ŋ|-|k
