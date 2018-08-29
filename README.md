@@ -33,7 +33,7 @@ To verify the predictions, Tim Bodt will proceed as follows:
 ## Testing the Prediction on the Current Data
 
   accuracy  |   proportion |   density |   fuzziness |   coverage |   purity |   sounds |   missing
-----------  | ------------ | --------- | ----------- | ---------- | -------- | -------- | ---------  
+----------  | ------------ | --------- | ----------- | ---------- | -------- | -------- | ---------
     0.6993  |       0.7588 |    0.6278 |      0.7691 |      0.297 |   0.7554 |       63 |    0.0789
 
 
