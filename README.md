@@ -21,11 +21,80 @@ $ python predict.py
 
 The output will be written to the file `predictions.tsv`.
 
+## Short Introduction to the Kho-Bwa Languages
+
+In 1952, Stonor, basing himself on local sources, reported that the two
+languages 'Puroik' and 'Bugun' are mutually intelligible (@Stonor1952). It was
+not until the last two decades of the previous century that the first
+linguistic materials on Bugun/Khowa, Puroik/Sulung, Sherdukpen and
+Sartang/Boot/Butpa Monpa became available: the works of the Indian
+research/language officers Deuri (@Deuri1983), Dondrup (@Dondrup1988), Tayeng (@Tayeng1990), Dondrup
+(@Dondrup1990), and Dondrup (@Dondrup2004). On the Chinese side, the first Puroik data were
+published as part of the large-scale survey Tibeto-Burman Phonology and Lexicon
+(@Sun1991). Based on these materials and own data, Jackson Sun (@Sun1992, @Sun1993)
+was the first to suggest that Puroik, Bugun, Sherdukpen and
+'Lishpa-Butpa' are not just a random residue when all other major languages are
+subtracted, but that they might belong together and form a coherent linguistic
+group. 
+ 
+Other researchers after him either adopted his view or independently
+reached the same conclusion (@Rutgers1999; @Burling2003). Van Driem (@VanDriem2001)
+named the group "Kho-Bwa cluster" in his handbook *Languages of the Himalayas*,
+after the reconstructions for WATER and FIRE. Blench and Post (@Blench2014) and Post
+and Burling (@Post2017) expressed scepticism about Puroik being part of the group.
+Nonetheless, all commonly consulted handbooks (@Burling2003; @Genetti2016;
+@Post2017) and the online language encyclopaedias Ethnologue and
+Glottolog (https://glottolog.org, @Hammarstroem2018) mention "Kho-Bwa" as a (potential) branch of Tibeto-Burman in western
+Arunachal Pradesh. Although the exact phonological shape of the reconstructions
+*kho WATER and *bwa FIRE needs to be established, we follow Lieberherr and Bodt
+(@Bodt2017) and others before them in using "Kho-Bwa" as a label for these
+languages. 
+Besides the fact that it is already established to some extent, it
+has the advantage of not being biased toward one language like "Bugunish" (@Sun1993), 
+or a region like "Kamengic" (@Blench2014; @Post2017)
+Furthermore, "Kho-Bwa" offers an exhaustive definition of the group: Any
+language of western Arunachal Pradesh in which the word for 'water' starts with
+k and the word for 'fire' starts with b is a "Kho-Bwa" language. 
+
+The Western
+Kho-Bwa languages are the eight distinct linguistic varieties spoken in the
+western part of the Kho-Bwa area: the valleys of the Gongri and Tenga rivers.
+The languages belonging to this sub-group are Lishpa (Khispi), Chugpa
+(Duhumbi), Sartang and Sherdukpen. Sartang has four distinct speech varieties,
+whereas Sherdukpen has two. The total number of speakers of these linguistic
+varieties combined is around 8,500, and considering the low speaker population
+and the rapid socio-economic and cultural changes in this area all varieties
+must be considered as endangered. 
+
+The data in that form the basis of this
+analysis were elicited through a 441-gloss lexical wordlist. This basic
+441-gloss lexical wordlist is available in its original state as well as as
+cut, triple-repeated cut sound files on Zenodo. The total number of concepts is
+much higher, because in discussion about the concepts and in subsequent
+elicitation more data were recorded. Most of these data are also available as
+recordings.
+
 ## How the Predictions are Presented
 
-The predictions are given in tabular form in the file `predictions.tsv`. The table header indicates 
-the content of the cells in each column, and each row presents one prediction. The predictions, however
-are not given for entire words, but only for specific *morphemes*, giving the multi-morphemic character of the languages in which word derivations patterns are rather frequent. To allow for a precise identification of the semantics of a given morpheme, all morphemes in the data were annotated using the EDICTOR's (http://edictor.digling.org, @List2017d) morpheme annotation functionalities. Preditions are further given in three flavors, reflecting different degrees of uncertainty: one word form that provides only the most likely sounds for the word form, ignoring any uncertainty. One word form that provides up to two different sounds per alignment site, if there are multiple possibilities, and one word form that provides up to three different sounds per site. In all cases where multiple sounds are provided, this is displayed by separating the sounds in the same slot by the pipe symbol `|`. The order of the sounds if multiple possibilities are encountered thereby reflects the number of occurrences (following the rough logic that the more frequently observed correspondence patterns should be preferred in prediction over less frequently observed ones). 
+The predictions are given in tabular form in the file `predictions.tsv`. The
+table header indicates the content of the cells in each column, and each row
+presents one prediction. The predictions, however are not given for entire
+words, but only for specific *morphemes*, giving the multi-morphemic character
+of the languages in which word derivations patterns are rather frequent. To
+allow for a precise identification of the semantics of a given morpheme, all
+morphemes in the data were annotated using the EDICTOR's
+(http://edictor.digling.org, @List2017d) morpheme annotation functionalities.
+Preditions are further given in three flavors, reflecting different degrees of
+uncertainty: one word form that provides only the most likely sounds for the
+word form, ignoring any uncertainty. One word form that provides up to two
+different sounds per alignment site, if there are multiple possibilities, and
+one word form that provides up to three different sounds per site. In all cases
+where multiple sounds are provided, this is displayed by separating the sounds
+in the same slot by the pipe symbol `|`. The order of the sounds if multiple
+possibilities are encountered thereby reflects the number of occurrences
+(following the rough logic that the more frequently observed correspondence
+patterns should be preferred in prediction over less frequently observed ones).
+
 
 No.  |  Qu.  |  Cogn.  |  Language  |  Concept   |  Morpheme       |  Word1  |  Word2    |  Word3
 ---  |  ---  |  ---    |  ---       |  ---       |  ---            |  ---    |  ---      |  ---
