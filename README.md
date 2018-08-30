@@ -98,22 +98,22 @@ patterns should be preferred in prediction over less frequently observed ones).
 
 No.  |  Qu.  |  Cogn.  |  Language  |  Concept   |  Morpheme       |  Word1  |  Word2    |  Word3
 ---  |  ---  |  ---    |  ---       |  ---       |  ---            |  ---    |  ---      |  ---
-1    |       |  2      |  Jerigaon  |  2pl.excl  |  `_`excl1       |  l øː   |  l øː`|`-   |  l øː`|-`|`i
-2    |       |  2      |  Khoina    |  2pl.excl  |  `_`excl1       |  h øː   |  h øː`|`aː  |  h øː`|`aː`|`ə
-3    |       |  2      |  Khoitam   |  2pl.excl  |  `_`excl1       |  l ĩː   |  l ĩː`|`yː  |  l ĩː`|`yː`|`ĩ
-4    |       |  2      |  Rupa      |  2pl.excl  |  `_`excl1       |  l øː   |  l øː`|`ɔː  |  l øː`|`ɔː`|`ə
-5    |       |  2      |  Shergaon  |  2pl.excl  |  `_`excl1       |  l ɛ̃ː   |  l ɛ̃ː`|`aː  |  l ɛ̃ː`|`aː`|`a
+1    |       |  2      |  Jerigaon  |  2pl.excl  |  `_`excl1       |  l øː   |  l øː\|-   |  l øː\|-\|i
+2    |       |  2      |  Khoina    |  2pl.excl  |  `_`excl1       |  h øː   |  h øː\|aː  |  h øː\|aː\|ə
+3    |       |  2      |  Khoitam   |  2pl.excl  |  `_`excl1       |  l ĩː   |  l ĩː\|yː  |  l ĩː\|yː\|ĩ
+4    |       |  2      |  Rupa      |  2pl.excl  |  `_`excl1       |  l øː   |  l øː\|ɔː  |  l øː\|ɔː\|ə
+5    |       |  2      |  Shergaon  |  2pl.excl  |  `_`excl1       |  l ɛ̃ː   |  l ɛ̃ː\|aː  |  l ɛ̃ː\|aː\|a
 6    |       |  3      |  Jerigaon  |  2pl.incl  |  `_`excl1       |  l      |  l        |  l
 7    |       |  3      |  Khoina    |  2pl.incl  |  `_`excl1       |  h      |  h        |  h
 8    |       |  3      |  Khoitam   |  2pl.incl  |  `_`excl1       |  l      |  l        |  l
 9    |       |  3      |  Rahung    |  2pl.incl  |  `_`excl1       |  r      |  r        |  r
 10   |       |  3      |  Rupa      |  2pl.incl  |  `_`excl1       |  l      |  l        |  l
 11   |       |  3      |  Shergaon  |  2pl.incl  |  `_`excl1       |  l      |  l        |  l
-12   |       |  7      |  Rahung    |  3sg       |  3SG            |  w ə    |  w`|`pʰ ə   |  w`|`pʰ ə
-13   |  ?    |  11     |  Duhumbi   |  Bugun     |  `_`sa-prefix7  |  ɕ Ø    |  ɕ`|`s Ø    |  ɕ`|`s Ø
-14   |  ?    |  11     |  Jerigaon  |  Bugun     |  `_`sa-prefix7  |  s Ø    |  s`|`z Ø    |  s`|`z Ø
-15   |  ?    |  11     |  Khispi    |  Bugun     |  `_`sa-prefix7  |  ɕ Ø    |  ɕ`|`s Ø    |  ɕ`|`s Ø
-16   |  ?    |  11     |  Khoitam   |  Bugun     |  `_`sa-prefix7  |  s Ø    |  s`|`z Ø    |  s`|`z Ø
+12   |       |  7      |  Rahung    |  3sg       |  3SG            |  w ə    |  w\|pʰ ə   |  w\|pʰ ə
+13   |  ?    |  11     |  Duhumbi   |  Bugun     |  `_`sa-prefix7  |  ɕ Ø    |  ɕ\|s Ø    |  ɕ\|s Ø
+14   |  ?    |  11     |  Jerigaon  |  Bugun     |  `_`sa-prefix7  |  s Ø    |  s\|z Ø    |  s\|z Ø
+15   |  ?    |  11     |  Khispi    |  Bugun     |  `_`sa-prefix7  |  ɕ Ø    |  ɕ\|s Ø    |  ɕ\|s Ø
+16   |  ?    |  11     |  Khoitam   |  Bugun     |  `_`sa-prefix7  |  s Ø    |  s\|z Ø    |  s\|z Ø
 
 
 ## Testing the Predictions During Field Work
