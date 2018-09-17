@@ -72,7 +72,7 @@ analysis were elicited through a 441-gloss lexical wordlist. This basic
 cut, triple-repeated cut sound files on Zenodo. The total number of concepts is
 much higher, because in discussion about the concepts and in subsequent
 elicitation more data were recorded. Most of these data are also available as
-recordings: Bodt, Timotheus Adrianus. (2018). Sherdukpen Lexicon - Overview File. http://doi.org/10.5281/zenodo.1213719 for the two varieties of Sherdukpen, Bodt, Timotheus Adrianus. (2018, March 30). Sartang lexicon - Overview File. Zenodo. http://doi.org/10.5281/zenodo.1210131 for the four varieties of Sartang, 
+recordings: Bodt, Timotheus Adrianus. (2018). Sherdukpen Lexicon - Overview File. http://doi.org/10.5281/zenodo.1213719 for the two varieties of Sherdukpen. Bodt, Timotheus Adrianus. (2018). Sartang lexicon - Overview File. Zenodo. http://doi.org/10.5281/zenodo.1210131 for the four varieties of Sartang. Bodt. Timotheus Adrianus. (2018). Khispi Lexicon. Zenodo. http://doi.org/10.5281/zenodo.1406887 for Khispi and Bodt, Timotheus Adrianus. (2018). Duhumbi Lexicon. Zenodo. http://doi.org/10.5281/zenodo.1291599 for Duhumbi.
 
 ## How the Predictions are Presented
 
