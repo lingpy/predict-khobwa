@@ -31,7 +31,7 @@ Sartang/Boot/Butpa Monpa became available: the works of the Indian
 research/language officers Deuri (@Deuri1983), Dondrup (@Dondrup1988), Tayeng (@Tayeng1990), Dondrup
 (@Dondrup1990), and Dondrup (@Dondrup2004). On the Chinese side, the first Puroik data were
 published as part of the large-scale survey Tibeto-Burman Phonology and Lexicon
-(@Sun1991). Based on these materials and own data, Jackson Sun (@Sun1992, @Sun1993)
+(@Ān1991). Based on these materials and own data, Jackson Sun (@Sun1992, @Sun1993)
 was the first to suggest that Puroik, Bugun, Sherdukpen and
 'Lishpa-Butpa' are not just a random residue when all other major languages are
 subtracted, but that they might belong together and form a coherent linguistic
@@ -40,8 +40,8 @@ group.
 Other researchers after him either adopted his view or independently
 reached the same conclusion (@Rutgers1999; @Burling2003). Van Driem (@VanDriem2001)
 named the group "Kho-Bwa cluster" in his handbook *Languages of the Himalayas*,
-after the reconstructions for WATER and FIRE. Blench and Post (@Blench2014) and Post
-and Burling (@Post2017) expressed scepticism about Puroik being part of the group.
+after the reconstructions for WATER and FIRE. More recent publications include the Puroik description from China by Lǐ (@Lǐ2004) and the Sherdukpen description by Jacquesson (@Jacquesson2015) and the elicited wordlists of different varieties in the unpublished report by Abraham et al. (@Abraham2005). Blench and Post (@Blench2014) and Post
+and Burling (@Post2017) expressed scepticism about Puroik being part of this proposed group of languages.
 Nonetheless, all commonly consulted handbooks (@Burling2003; @Genetti2016;
 @Post2017) and the online language encyclopaedias Ethnologue and
 Glottolog (https://glottolog.org, @Hammarstroem2018) mention "Kho-Bwa" as a (potential) branch of Tibeto-Burman in western
@@ -72,7 +72,7 @@ analysis were elicited through a 441-gloss lexical wordlist. This basic
 cut, triple-repeated cut sound files on Zenodo. The total number of concepts is
 much higher, because in discussion about the concepts and in subsequent
 elicitation more data were recorded. Most of these data are also available as
-recordings.
+recordings: Bodt, Timotheus Adrianus. (2018). Sherdukpen Lexicon - Overview File. http://doi.org/10.5281/zenodo.1213719 for the two varieties of Sherdukpen. Bodt, Timotheus Adrianus. (2018). Sartang lexicon - Overview File. Zenodo. http://doi.org/10.5281/zenodo.1210131 for the four varieties of Sartang. Bodt. Timotheus Adrianus. (2018). Khispi Lexicon. Zenodo. http://doi.org/10.5281/zenodo.1406887 for Khispi and Bodt, Timotheus Adrianus. (2018). Duhumbi Lexicon. Zenodo. http://doi.org/10.5281/zenodo.1291599 for Duhumbi.
 
 ## How the Predictions are Presented
 
