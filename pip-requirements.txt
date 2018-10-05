@@ -1,1 +1,1 @@
--e git+https://github.com/lingulist/lingpy.git#egg=lingpy-2.6.4.alpha
+-e git+https://github.com/lingpy/lingrex.git#egg=lingrex-0.1.1.alpha
