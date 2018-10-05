@@ -240,31 +240,15 @@ these experiments, namely
 
 * proportion: the average proportion of words that were excluded from the data
 * density: the cognate density of the wordlist (a score computed with help of the LingPy library)
-* fuzziness: 
-* coverage: the average mutual coverage of the wordlist [@List2018e; @Rama2018]
-* purity: 
-* sounds: the average number of different sounds per language in the data
-* missing: 
 
 To test the predictive force of the current algorithmic settings, we ran 100
-trials of the algorithm, by running the script `test.py`. Below are the
+trials of the algorithm, by running the script `test-prediction.py`. Below are the
 results:
 
-accuracy | proportion | density | fuzziness | coverage | purity | sounds | missing
--------- | ---------- | ------- | --------- | -------- | ------ | ------ | -------
-  0.6993 |     0.7588 |  0.6278 |    0.7691 |    0.297 | 0.7554 |     63 |  0.0789
+  accuracy  |   proportion  |   density
+----------  | ------------  | ---------
+    0.5854  |       0.6103  |    0.3452
 
-
-doculect   |   accuracy |   purity  |   sounds  |   words
----------- | ---------- | --------  | --------  | -------
-Duhumbi    |     0.5671 |   0.7138  |       58  |     367
-Jerigaon   |     0.6954 |   0.7711  |       62  |     343
-Khispi     |     0.6207 |   0.7178  |       48  |     329
-Khoina     |     0.7058 |   0.7349  |       73  |     386
-Khoitam    |     0.7588 |   0.7666  |       65  |     374
-Rahung     |     0.7801 |   0.7849  |       69  |     387
-Rupa       |     0.7281 |   0.7841  |       73  |     406
-Shergaon   |     0.7103 |   0.7701  |       56  |     315
 
 
 ## Timeline
