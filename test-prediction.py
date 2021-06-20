@@ -13,7 +13,6 @@ def run_experiments(
         ratio, 
         subset=None, 
         runs=100, 
-        refine_patterns=False,
         verbose=False, 
         fuzzy=True, 
         samples=1, 
@@ -31,7 +30,8 @@ def run_experiments(
                 'patterns', 'predicted', 'predictable', 'removed', 'regular',
                 'purityx'])+'\n')
 
-    cpb = CoPaR(f, ref=ref, fuzzy=fuzzy, split_on_tones=False, segments='segments')
+    cpb = CoPaR(f, ref=ref, fuzzy=fuzzy, split_on_tones=False,
+            segments='segments', transcription="segments")
     
     if not noout:
         inout = codecs.open(
@@ -78,15 +78,15 @@ def run_experiments(
                 else:
                     D[idx] = cpb[idx]
         
-        cp = CoPaR(D, ref=ref, fuzzy=fuzzy, split_on_tones=False, segments='segments')
+        cp = CoPaR(D, ref=ref, fuzzy=fuzzy, split_on_tones=False,
+                segments='segments', transcription="segments", minrefs=2,
+                structure="structure")
         if 'l' in argv: 
             cp.load_patterns()
         else:
-            cp.get_sites(minrefs=2, structure='structure')
+            cp.get_sites()
             cp.cluster_sites(score_mode=score_mode)
             cp.sites_to_pattern()
-            if refine_patterns:
-                cp.refine_patterns()
 
         # compute size of alphabets
         sounds = {d: defaultdict(int) for d in cp.cols}
@@ -174,7 +174,6 @@ def run_experiments(
             len(cp) / len(cpb),
             density(cp, ref=ref), 
             cp.fuzziness(),
-            cp.stats(score_mode=score_mode), 
             sum(pudity.values()) / len(pudity.values()), 
             ave, 
             unknown/all_segs,
@@ -255,14 +254,11 @@ if __name__ == '__main__':
     ratio = 0.5
     proto = None
     verbose = False
-    runs = 100
-    rsites = False
+    runs = 2
     samples = 1
     noout = False
     
     # parse arguments
-    if '--refine' in argv:
-        rsites = True
     if '-r' in argv:
         ratio = float(argv[argv.index('-r')+1])
     if '-c' in argv:
@@ -290,7 +286,6 @@ if __name__ == '__main__':
             fuzzy=fuzzy, 
             verbose=verbose,
             runs=runs, 
-            refine_patterns=rsites, 
             samples=samples, 
             noout=noout,
             )

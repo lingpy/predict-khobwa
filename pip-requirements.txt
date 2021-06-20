@@ -1,1 +1,1 @@
--e git+https://github.com/lingpy/lingrex.git#egg=lingrex-0.1.1.alpha
+lingrex==1.0.0

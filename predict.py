@@ -1,16 +1,15 @@
 from lingpy import *
-from lingrex.util import align_by_structure
 from sys import argv
 from lingrex.copar import CoPaR
 from sys import argv
 
-cp = CoPaR('data/bodt-khobwa-cleaned.tsv', ref='crossids', fuzzy=True)
+cp = CoPaR('data/bodt-khobwa-cleaned.tsv', ref='crossids', fuzzy=True, 
+       minrefs=2, structure='structure', transcription="tokens")
 
 # make function to extract correspondence patterns
-cp.get_sites(minrefs=2, structure='structure')
+cp.get_sites()
 cp.cluster_sites()
 cp.sites_to_pattern()
-cp.refine_patterns()
 
 preds, purity, pudity = cp.predict_words()
 goods = 0
